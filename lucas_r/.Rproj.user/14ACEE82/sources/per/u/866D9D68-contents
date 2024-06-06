@@ -1,0 +1,98 @@
+
+library(rio)
+library(janitor)
+library(tidyverse)
+library(scales)
+library(gapminder)
+
+
+### base gapminder
+
+base <- gapminder
+
+### filtrar continente americas
+
+americas <- base %>% 
+  filter(continent ==  'Americas')
+
+
+### HISTOGRAMA
+
+americas %>% 
+  ggplot(mapping = aes(x = lifeExp)) +
+  geom_histogram(bins = 10,
+                 colour = 'gray2') +
+  theme_bw() +
+  labs(title = 'Distribuicao da expectativa de vida',
+       subtitle = 'Américas',
+       caption = 'Fonte: Pesquisa Interna',
+       x = 'Anos',
+       y = '')
+
+
+base %>% 
+  ggplot(mapping = aes(x = lifeExp)) +
+  geom_histogram(bins = 10,
+                 colour = 'gray2') +
+  facet_wrap(~ continent) +
+  theme_bw() +
+  labs(title = 'Distribuicao da expectativa de vida',
+       subtitle = 'Continentes',
+       caption = 'Fonte: Pesquisa Interna',
+       x = 'Anos',
+       y = '')
+
+
+################
+### BOX PLOT ###
+################
+
+americas %>% 
+  filter(country %in% c('Brazil', 'Canada', 'Cuba')) %>% 
+  
+  ggplot(mapping = aes(x = country,
+                       y = gdpPercap,
+                       fill = country)) +
+  geom_boxplot() +
+  scale_fill_manual(values = c('pink', 'yellow', 'blue'))
+
+
+#################
+### DISPERSAO ###
+#################
+
+americas %>% 
+  
+  ggplot(mapping = aes(x = lifeExp,
+                       y = gdpPercap,
+                       colour = country)) +
+  geom_point() +
+  geom_smooth(method = 'lm', se = F)
+
+
+
+#############
+### LINHA ###
+#############
+
+unique(americas$country)
+
+
+americas %>%
+  filter(country %in% c('Brazil', 'Canada', 'Mexico', 'Venezuela')) %>% 
+  
+  ggplot(mapping = aes(x = year,
+                       y = lifeExp,
+                       colour = country)) +
+  geom_line(size = 1.2) +
+  geom_point()
+
+
+######################################
+### TRANSFORMAR O ARQUIVO EM HTML ###
+#####################################
+
+twitch <- import('dataset.csv')
+
+
+
