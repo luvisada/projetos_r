@@ -1,5 +1,5 @@
 # projetos_r
-my projects in R &lt;3 
+Este repositório contém alguns projetos que fiz durante a minha graduação em Ciências Sociais 
 
  Contato 
- email> lucasdamascr@gmail.com
+ email - lucasdamascr@gmail.com
