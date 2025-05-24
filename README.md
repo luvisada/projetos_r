@@ -8,7 +8,7 @@ Alguns códigos e projetos
 <br><br><br>
 
 <p align="center">
-  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Faraguaianoticia.com.br%2Fnoticia%2F37167%2Fbombeiros-devolvem-a-natureza-tamandua-mirim-capturado-em-barra-do-garcas-veja-video&psig=AOvVaw0_xIsEpHSHJ2xvLQXIn061&ust=1748187001898000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDQhKK2vI0DFQAAAAAdAAAAABAE)" width="350" title="hover text">
+  <img src="repositorio_imagens/tamandua_mirim.jpg" width="350" title="Tamandua Mirim">
 </p>
 
  
