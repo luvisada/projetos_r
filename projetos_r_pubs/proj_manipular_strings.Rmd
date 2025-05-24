@@ -1,0 +1,315 @@
+---
+title: "Introducao à Manipulação de strings"
+author: 'Autor: Lucas Damas'
+date: "Dia da publicacao: 15/07/2024"
+output: 
+  html_document:
+    css: edicao_site.css
+editor_options: 
+  chunk_output_type: console
+---
+
+# Manipulação de Strings - Conceitos preliminares
+
+## Introdução
+
+Este relatório consiste em iniciar um estudo básico sobre a manipulação de palavras (strings) para conseguir efetuar algumas análises preliminares. Tal área dentro das ciências humanas tem-se tornado cada vez mais proeminente, dado que manipular grande volume de palavras manualmente era um processo extremamente cansativo até inviável. Neste estudo, usar-se-á uma base que contém todos os discursos do Jair Bolsonaro na sua época de deputado pelo rio de janeiro. Tal análise permitirá entender quais assuntos, tópicos o deputado mais pautava na plenária.
+
+## 0. Bibliotecas utilizadas
+
+O pacote pacman funciona tanto para carregar bibliotecas já instaladas no seu R quanto bibliotecas que não estão. Se nao tiver instalada, o pacman automaticamente instala no seu diretório.
+
+```{r}
+pacman::p_load(rio, tidyverse, janitor, scales, tidytext, tm, abjutils, ggwordcloud)
+
+# especificas para manipular strings
+library(tidytext)
+library(tm)
+library(abjutils)
+
+# nuvem de palabras
+library(ggwordcloud)
+```
+
+## 1. Base de dados
+
+A base de dados que usaremos possui mais de 2000 discursos do ex-deputado Jair Bolsonaro durante os seus mandatos como deputado. Além de importar a base, veremos que cada observação contém uma quantidade enorme de informações.
+
+### 1.1 Importando a base
+
+```{r}
+# funcao rio para importar a base
+base_bozo <- import('discursos_bolsonaro.csv')
+
+# visualizando o data frame
+glimpse(base_bozo)
+
+# as únicas variaveis importantes é o 'discurso_1'
+discursos_bozo <- base_bozo %>% 
+  select(discurso = discurso_1) 
+
+```
+
+### 1.2 Primeiro contato com a base
+
+Nesse primeiro contato, é vísivel o enorme volume de palavras no data frame. São mais de 2000 observações, nos quais em cada uma é um discurso enorme como demonstrado no último código. Além disso, o fato de ter letras maiusculas, pontuacao e números interfere na análise de string, o que nos motivará a remover esses impecilhos.
+
+```{r}
+# visualizando o data frame
+glimpse(base_bozo)
+
+# a única variavel importantes é o 'discurso_1'
+discursos_bozo <- base_bozo %>% 
+  select(discurso = discurso_1) 
+
+# visualizando apenas uma observaão de discurso
+# analisando, só o primeiro discurso, fica vísivel a quantidade de informações contidas em somente uma observação, imagine 2000
+discursos_bozo %>% 
+  head(1)
+
+```
+
+### 1.3 Manipulação de strings
+
+Ao trabalhar com strings, é necessário limpar todos os textos para padronizá-los. Este processo é importante para que o software reconheca igualmente as mesmas palavras independente se tiverem com acento, caixa baixa ou não etc. Por exemplo, a palavra comissão em minúscula, comissao sem acento ou Comissao com início em maiúsculo, o R não iria reconhecer. Assim, todo esse procedimento inicial é importante para eliminar os viéses errados de interpretação.
+
+#### 1.3.1 Caixa baixa
+
+Primeiro passo, passar para caixa baixa as palavras
+
+```{r}
+discursos_bozo <- discursos_bozo %>% 
+  mutate(discurso = str_to_lower(discurso))
+```
+
+#### 1.3.2 Removendo pontuação e acentos
+
+```{r}
+discursos_bozo <- discursos_bozo %>% 
+  mutate(discurso = removePunctuation(discurso),
+         discurso = rm_accent(discurso))
+```
+
+#### 1.3.3 Removendo números
+
+```{r}
+# removendo numeros
+discursos_bozo <- discursos_bozo %>% 
+  mutate(discurso = removeNumbers(discurso))
+```
+
+#### 1.3.4 Visualizando o resultado da limpeza
+
+```{r}
+# visualizando a limpeza feita
+discursos_bozo %>% 
+  head(1)
+```
+
+## 2. Criando data frame das palavras
+
+A partir de agora, trabalharemos com um data frame que terá como cada observação uma palavra diferente. Tal ação agilizará o processo de analisar quais palavras mais aparecem nos discursos
+
+### 2.1 Separando cada palavra 
+
+Observe que o novo objeto criado possui muito mais observações, já que cada palavra de cada discurso virou uma observação distinta.
+
+```{r}
+# separando as observações por palavras
+discursos_bozo_1 <- discursos_bozo %>% 
+  unnest_tokens(word, discurso)
+
+discursos_bozo_1 %>% 
+  slice(1:10)
+```
+
+## 3. Primeiro gráfico das palavras mais correntes
+
+### 3.1 Gráfico com stopwords
+
+Observe que as palavras que mais aparecem são stopwords, ou seja, palavras que conectam orações e frase. Esse tipo de palavra não contribui para compreender quais os assuntos mais discutido pelo parlamentar. Logo, nós próximos tópicos iremos remover as stopwords para chegar no conteúdo relevante para a análise.
+
+```{r}
+# primeiro gráfico
+discursos_bozo_1 %>% 
+  count(word) %>%
+  arrange(-n) %>% 
+  slice(1:10) %>% 
+  ggplot(aes(x = reorder(word, n), y = n)) +
+  geom_bar(stat = 'identity', color = 'black') +
+  labs(title = 'Discurso com stop words',
+       x = '', 
+       y = '') +
+  coord_flip() +
+  theme_bw()
+
+
+# usaremos esse objeto no item 6 para  comparar os dois gráficos lado a lado
+graf_com_stop <- discursos_bozo_1 %>% 
+  count(word) %>%
+  arrange(-n) %>% 
+  slice(1:10) %>% 
+  ggplot(aes(x = reorder(word, n), y = n)) +
+  geom_bar(stat = 'identity', color = 'black') +
+  labs(title = 'Discurso com stop words',
+       x = '', 
+       y = '') +
+  coord_flip() +
+  theme_bw()
+  
+```
+
+## 4. Removendo stopwords - 2 métodos
+
+### 4.1 Função stopwords da biblio tm
+
+Para remover stopwords podemos usar a função 'stopwords' da biblioteca 'tm'. Esse procedimento eliminará apenas algumas stopwords, pois esse pacote é americano e não consegue reconhecer tão bem stopwords do idioma português.
+
+```{r}
+# criando um objeto novo, que agrupe todas as stop words
+discursos_bozo_2 <- discursos_bozo_1 %>%
+  count(word) 
+
+# filtrando tudo o que nao for stopwords do portugues
+discursos_bozo_2 <- discursos_bozo_2 %>% 
+  filter(!(word %in% stopwords(kind = 'portuguese'))) %>% 
+  arrange(-n)
+
+# veja que eliminou muitas stopwords, porém existem mais algumas para serem eliminadas (sr, aqui, porque)
+discursos_bozo_2 %>% 
+  slice(1:10)
+```
+
+### 4.2. Removendo stopwords com o chatgpt 
+
+Podemos pedir uma lista de stopwords para o chatgpt criar. Iremos pedir uma lista de stopwords pro gpt e criaremos um dataframe a parte. Com isso, usaremos a função 'anti_join', que vai eliminar todas as stopwords ainda existentes no objeto.
+
+### 4.2.1 Criando um data frame com todas as stopwords 
+
+```{r}
+# criando a lista
+stopwords_pt <- c("vamos", "todos", "nós", "eles", "elas", "e", "ou", "mas",
+                  "para", "por", "com", "de", "em", "no", "na", "se",
+                  "que", "como", "quando", "porque", "porquê", "qual", "quem", "onde",
+                  "quando", "ainda", "mais", "menos", "muito", "pouco", "bem", "mal",
+                  "assim", "mesmo", "apenas", "só", "também", "ainda", "agora", "antes",
+                  "depois", "enquanto", "logo", "primeiro", "segundo", "último", "sempre", "nunca",
+                  "jamais", "talvez", "certamente", "provavelmente", "possivelmente", "claro", "óbvio", "absolutamente",
+                  "realmente", "verdadeiramente", "efetivamente", "eficazmente", "basicamente", "principalmente", "especialmente", "particularmente",
+                  "deveríamos", "precisamos", "teremos", "vamos", "devemos", "queremos", "podemos", "iremos",
+                  "será", "seremos", "serão", "estamos", "estaremos", "estão", "estavam", "estiveram",
+                  "havíamos", "haveremos", "haverão", "havia", "haviam", "há", "haverá", "haveriam",
+                  "tínhamos", "teríamos", "teriam", "tinham", "temos", "teremos", "tiveram", "têm",
+                  "tenhamos", "tenham", "teve", "tinha", "tivesse", "tenha", "tenham", "teria",
+                  "tivesse", "teriam", "seja", "sejam", "sejamos", "sejamos", "fosse", "fossem",
+                  "foram", "sejam", "sejamos", "fosse", "fossem", "foram", "sendo", "sido",
+                  "poderia", "poderiam", "poderá", "poderão", "pode", "podem", "pôde", "puderam",
+                  "puder", "pudermos", "puderem", "deve", "devem", "deveria", "deveriam", "deverá",
+                  "deverão", "deveríamos", "devesse", "devessem", "dever", "deveríamos", "faz", "faça",
+                  "façamos", "fazemos", "fizeram", "fazia", "fizeram", "fizerem", "fará", "farão",
+                  "fazer", "fiz", "fizer", "fizeram", "fizera", "fizermos", "fizerem", "fizeria",
+                  "façamos", "haja", "hajam", "hajamos", "hajam", "houve", "houveram", "havemos",
+                  "houvermos", "houvesse", "houvessem", "houvesse", "haver", "haverá", "haveremos", "haverão",
+                  "haveria", "haveriam", "outra", "outras", "outro", "outros", "alguma", "algumas",
+                  "algum", "alguns", "muita", "muitas", "muito", "muitos", "pouca", "poucas",
+                  "pouco", "poucos", "todo", "todos", "toda", "todas", "nenhum", "nenhuma",
+                  "nenhuns", "nenhumas", "cada", "cada um", "cada uma", "várias", "vários",
+                  "várias", "vários", "mesmo", "mesma", "mesmos", "mesmas", "próprio", "própria",
+                  "próprios", "próprias", "tão", "tanta", "tantos", "tantas", "tudo", "nada",
+                  "coisa", "coisas", "qualquer", "quaisquer", "todo mundo", "todos nós", "todos vocês", "cada um de nós",
+                  "cada um de vocês", "ambos", "ambas", "todo o mundo", "nenhuma pessoa", "nenhuma delas", "nenhum de nós",
+                  "quem quer que", "qualquer um", "alguém", "ninguém", 'nao',
+                  'sr', 'presidente', 'aqui', 'orador', 'revisao', 'sao', 'ser',
+                  'quero', 'bolsonaro', 'deputado', 'vai', 'ha', 'obrigado', 'militar')
+
+
+
+# gerando um data.frame a partir da lista
+stopwords_pt <- as.data.frame(stopwords_pt)
+```
+
+### 4.2.3. Editando o dataframe gerado
+
+Para usar a função 'anti_join', é necessário que a coluna de referencia possua o mesmo nome. No caso, ambas devem ter o nome 'word'
+
+```{r}
+# aqui renomeei a coluna para word para ficar igual nos dois objetos
+stopwords_pt <- stopwords_pt %>%
+  rename(word = stopwords_pt)
+```
+
+### 4.2.4. Usando a função anti join
+
+```{r}
+discursos_bozo_2 <- discursos_bozo_2 %>% 
+  anti_join(stopwords_pt, by = 'word')
+
+discursos_bozo_2 <- discursos_bozo_2 %>% 
+  arrange(-n)
+
+discursos_bozo_2 %>% 
+  slice(1:10)
+```
+
+## 5. Gráfico sem stopwords
+
+```{r}
+discursos_bozo_2 %>% 
+  filter(!is.na(word)) %>% 
+  slice(1:10) %>% 
+  ggplot(aes(x = reorder(word, n), y = n)) +
+  geom_bar(stat = 'identity', color = 'black') +
+  coord_flip() +
+  theme_bw() +
+  labs(title = 'Discurso sem stop words',
+       x  = '',
+       y = '')
+
+# usaremos esse objeto no item 6 para  comparar os dois gráficos lado a lado
+graf_sem_stop <- discursos_bozo_2 %>% 
+  filter(!is.na(word)) %>% 
+  slice(1:10) %>% 
+  ggplot(aes(x = reorder(word, n), y = n)) +
+  geom_bar(stat = 'identity', color = 'black') +
+  coord_flip() +
+  theme_bw() +
+  labs(title = 'Discurso sem stop words',
+       x  = '',
+       y = '')
+```
+
+### 
+
+## 6. Comparação dos resultados
+
+Analisando ambos os gráficos, fica vísivel como tratar strings é fundamental para conseguir analisar palavras em qualquer software de programação. Nesse caso, usamos funcoes para padronizar todas as palavras e aprendemos dois métodos de remover stopwords da base de dados
+
+```{r}
+# biblioteca para visualizar graficos simultaneamente
+library(patchwork)
+
+# 'somando' os gráficos
+graf_sem_stop+graf_com_stop
+```
+
+## 7. Nuvem de palavras
+
+Embora seja limitada para análises quantitativas, a nuvem de palavras permite observar de maneira dinamica quais assuntos mais aparecem no discurso parlamentar. É uma ótima ferramenta para abordar o conteúdo em um seminário por exemplo.
+
+###  7.1. Pacote ggwordcloud
+
+```{r}
+library(ggwordcloud)
+
+discursos_bozo_2 %>% 
+  slice(1:100) %>% 
+  arrange(-n) %>% 
+  ggplot(aes(label = word, size = 2*n, color = word)) +
+  geom_text_wordcloud(rm_outside = T, shape = 'square') +
+  theme_bw() +
+  scale_size_area(max_size = 8) 
+```
+
+## 8. Conclusão
+
+Tratar strings é um novo campo da sociais, possibilitando uma série de análises que até então necessitavam de um tempo longo e trabalhoso para ser feito. Tal trabalho foi apenas uma síntese do assunto. Consulte bibliotecas como 'rslp' e 'SnowBallC' para aprimorar mais no assunto, por exemplo, eliminando palavras com o mesmo radical.

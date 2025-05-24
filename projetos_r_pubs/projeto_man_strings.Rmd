@@ -1,0 +1,73 @@
+---
+title: "Introdução à manipulação de strings - eliminar stop words, contar palavras e  criar wordclouds"
+output: 
+  html_document:
+    css: dark_mode.css
+date: " "
+editor_options: 
+  chunk_output_type: console
+---
+
+# Manipulação de Strings - Conceitos preliminares
+
+## Introdução
+
+Este relatório consiste em iniciar um estudo básico sobre a manipulação de palavras (strings) para conseguir efetuar algumas análises preliminares. Tal área dentro das ciências humanas tem-se tornado cada vez mais proeminente, dado que manipular grande volume de palavras manualmente era um processo extremamente cansativo até inviável. Neste estudo, usar-se-á uma base que contém todos os discursos do Jair Bolsonaro na sua época de deputado pelo rio de janeiro. Tal análise permitirá entender quais assuntos, tópicos o deputado mais pautava na plenária.
+
+## 0. Bibliotecas utilizadas
+
+O pacote pacman funciona tanto para carregar bibliotecas já instaladas no seu R quanto bibliotecas que não estão. Se nao tiver instalada, o pacman automaticamente instala no seu diretório.
+
+```{r}
+pacman::p_load(rio, tidyverse, janitor, scales, tidytext, tm, abjutils, ggwordcloud)
+
+# especificas para manipular strings
+library(tidytext)
+library(tm)
+library(abjutils)
+
+# nuvem de palabras
+library(ggwordcloud)
+
+```
+
+## 1. Base de dados
+
+A base de dados que usaremos possui mais de 2000 discursos do ex-deputado Jair Bolsonaro durante os seus mandatos como deputado. Além de importar a base, veremos que cada observação contém uma quantidade enorme de informações.
+
+### 1.1 Importando a base
+
+```{r}
+# funcao rio para importar a base
+base_bozo <- import('discursos_bolsonaro.csv')
+
+# visualizando o data frame
+glimpse(base_bozo)
+
+# as únicas variaveis importantes é o 'discurso_1'
+discursos_bozo <- base_bozo %>% 
+  select(discurso = discurso_1) 
+
+```
+
+### 1.2 Primeiro contato com a base
+
+Nesse primeiro contato, é vísivel o enorme volume de palavras no data frame. São mais de 2000 observações, nos quais em cada uma é um discurso enorme como demonstrado no último código. Além disso, o fato de ter letras maiusculas, pontuacao e números interfere na análise de string, o que nos motivará a remover esses impecilhos.
+
+```{r}
+# visualizando o data frame
+glimpse(base_bozo)
+
+# as únicas variaveis importantes é o 'discurso_1'
+discursos_bozo <- base_bozo %>% 
+  select(discurso = discurso_1) 
+
+# visualizando apenas uma observaão de discurso
+discursos_bozo %>% 
+  head(1)
+
+```
+
+### 1.3 Manipulação de strings
+
+Ao trabalhar com strings, é necessário limpar todos os textos para padronizá-los. Este processo é importante para que o software reconheca igualmente as mesmas palavras independente se tiverem com acento, caixa baixa ou não etc. Por exemplo, a palavra comissão em minúscula, comissao sem acento ou Comissao com início em maiúsculo, o R não iria reconhecer. Assim, todo esse procedimento inicial é importante para eliminar os viéses errados de interpretação.

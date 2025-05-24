@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1211000/99c8b6497a9d4b41b7097638c9355810
+bundleId: https://api.rpubs.com/api/v1/document/1211000/99c8b6497a9d4b41b7097638c9355810
+url: http://rpubs.com/lucas_damas/1211000
+version: 1

@@ -1,0 +1,93 @@
+/* General Settings */
+body {
+    background-color: #ffeda0;
+    color: #fec44f;
+}
+
+/* Text outside chunks (texto fora do chunk)*/
+p {
+    color: black;
+}
+
+/* R Markdown code chunks */
+pre {
+    background-color: black;
+    color: black; /* Code line color */
+}
+
+code {
+    background-color: black;
+    color: black;
+}
+
+/* Chunk results */
+pre.r {
+    background-color: #fff7bc;
+    color: black; /* Same as code line color */
+}
+
+/* Header styles */
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+}
+
+/* Links */
+a {
+    color: black;
+}
+
+/* Tables */
+table {
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+td {
+    background-color: black;
+    color: white;
+}
+
+/* Blockquotes */
+blockquote {
+    color: black;
+    border-left: 5px solid white;
+    background-color: black;
+    padding: 10px;
+}
+
+/* Inline code */
+code.r {
+    background-color: black;
+    color: green;
+}
+/* Justify text alignment for the entire document */
+body, p, h1, h2, h3, h4, h5, h6, li, blockquote {
+    text-align: justify;
+}
+/* Estilo alternativo para comentários no código R */
+pre code .c1, pre code .c {
+    color: black; /* Cor para comentários (exemplo: preto) */
+}
+
+/* Centralizar o título */
+h1.title {
+    text-align: center;
+}
+/* Container for the content */
+.container {
+    border-left: 2px solid black; /* Vertical line on the left */
+    border-right: 2px solid black; /* Vertical line on the right */
+    padding: 20px;
+    max-width: 1200px; /* Adjust width as needed */
+    width: 100%;
+}
+
+
+
+

@@ -1,0 +1,5566 @@
+gini,codigo,municipio
+0.5893,110001,"alta floresta d""""oeste"
+0.5491,110037,alto alegre dos parecis
+0.5417,110040,alto paraiso
+0.5355,110034,"alvorada d""""oeste"
+0.5496,110002,ariquemes
+0.5017,110045,buritis
+0.5166,110003,cabixi
+0.5579,110060,cacaulandia
+0.589,110004,cacoal
+0.6705,110070,campo novo de rondonia
+0.4762,110080,candeias do jamari
+0.4996,110090,castanheiras
+0.5147,110005,cerejeiras
+0.4752,110092,chupinguaia
+0.5154,110006,colorado do oeste
+0.4852,110007,corumbiara
+0.5239,110008,costa marques
+0.525,110094,cujubim
+0.5399,110009,"espigao d""""oeste"
+0.5571,110100,governador jorge teixeira
+0.5586,110010,guajara-mirim
+0.4771,110110,itapua do oeste
+0.5081,110011,jaru
+0.5449,110012,ji-parana
+0.5596,110013,"machadinho d""""oeste"
+0.5588,110120,ministro andreazza
+0.6102,110130,mirante da serra
+0.4813,110140,monte negro
+0.5688,110014,"nova brasilandia d""""oeste"
+0.5357,110033,nova mamore
+0.4665,110143,nova uniao
+0.5214,110050,novo horizonte do oeste
+0.4947,110015,ouro preto do oeste
+0.5315,110145,parecis
+0.55,110018,pimenta bueno
+0.4964,110146,pimenteiras do oeste
+0.5745,110020,porto velho
+0.5281,110025,presidente medici
+0.5188,110147,primavera de rondonia
+0.5783,110026,rio crespo
+0.5401,110028,rolim de moura
+0.4972,110029,"santa luzia d""""oeste"
+0.4695,110148,"sao felipe d""""oeste"
+0.5684,110149,sao francisco do guapore
+0.6308,110032,sao miguel do guapore
+0.6384,110150,seringueiras
+0.4346,110155,teixeiropolis
+0.5763,110160,theobroma
+0.5165,110170,urupa
+0.5727,110175,vale do anari
+0.5885,110180,vale do paraiso
+0.509,110030,vilhena
+0.5464,120001,acrelandia
+0.6228,120005,assis brasil
+0.5945,120010,brasileia
+0.5832,120013,bujari
+0.5627,120017,capixaba
+0.6438,120020,cruzeiro do sul
+0.607,120025,epitaciolandia
+0.6774,120030,feijo
+0.7112,120032,jordao
+0.6102,120033,mancio lima
+0.5939,120034,manoel urbano
+0.5938,120035,marechal thaumaturgo
+0.575,120038,placido de castro
+0.6121,120080,porto acre
+0.6094,120039,porto walter
+0.6121,120040,rio branco
+0.6463,120042,rodrigues alves
+0.7758,120043,santa rosa do purus
+0.5485,120050,sena madureira
+0.559,120045,senador guiomard
+0.6481,120060,tarauaca
+0.59,120070,xapuri
+0.5881,130002,alvaraes
+0.6698,130006,amatura
+0.5807,130008,anama
+0.5984,130010,anori
+0.5753,130014,apui
+0.6594,130020,atalaia do norte
+0.5982,130030,autazes
+0.7367,130040,barcelos
+0.6049,130050,barreirinha
+0.5665,130060,benjamin constant
+0.6574,130063,beruri
+0.6097,130068,boa vista do ramos
+0.6427,130070,boca do acre
+0.6364,130080,borba
+0.597,130083,caapiranga
+0.6185,130090,canutama
+0.5402,130100,carauari
+0.6668,130110,careiro
+0.5722,130115,careiro da varzea
+0.6234,130120,coari
+0.6153,130130,codajas
+0.6237,130140,eirunepe
+0.6374,130150,envira
+0.631,130160,fonte boa
+0.7397,130165,guajara
+0.6751,130170,humaita
+0.5863,130180,ipixuna
+0.6029,130185,iranduba
+0.5969,130190,itacoatiara
+0.7761,130195,itamarati
+0.6732,130200,itapiranga
+0.5986,130210,japura
+0.6056,130220,jurua
+0.694,130230,jutai
+0.5991,130240,labrea
+0.5688,130250,manacapuru
+0.5766,130255,manaquiri
+0.6334,130260,manaus
+0.6074,130270,manicore
+0.6977,130280,maraa
+0.6452,130290,maues
+0.6586,130300,nhamunda
+0.6337,130310,nova olinda do norte
+0.6037,130320,novo airao
+0.5749,130330,novo aripuana
+0.5947,130340,parintins
+0.7268,130350,pauini
+0.5384,130353,presidente figueiredo
+0.5566,130356,rio preto da eva
+0.7279,130360,santa isabel do rio negro
+0.6738,130370,santo antonio do ica
+0.8082,130380,sao gabriel da cachoeira
+0.6433,130390,sao paulo de olivenca
+0.5781,130395,sao sebastiao do uatuma
+0.5713,130400,silves
+0.6618,130406,tabatinga
+0.6021,130410,tapaua
+0.6293,130420,tefe
+0.5448,130423,tonantins
+0.6129,130426,uarini
+0.6091,130430,urucara
+0.5813,130440,urucurituba
+0.7369,140005,alto alegre
+0.7502,140002,amajari
+0.5936,140010,boa vista
+0.7323,140015,bonfim
+0.6673,140017,canta
+0.567,140020,caracarai
+0.5549,140023,caroebe
+0.631,140028,iracema
+0.7061,140030,mucajai
+0.712,140040,normandia
+0.7429,140045,pacaraima
+0.5729,140047,rorainopolis
+0.5498,140050,sao joao da baliza
+0.5895,140060,sao luiz
+0.778,140070,uiramuta
+0.5389,150010,abaetetuba
+0.5825,150013,abel figueiredo
+0.5355,150020,acara
+0.6604,150030,afua
+0.526,150034,agua azul do norte
+0.5968,150040,alenquer
+0.6573,150050,almeirim
+0.5721,150060,altamira
+0.6181,150070,anajas
+0.5352,150080,ananindeua
+0.5855,150085,anapu
+0.5682,150090,augusto correa
+0.5846,150095,aurora do para
+0.6049,150100,aveiro
+0.4831,150110,bagre
+0.5428,150120,baiao
+0.6263,150125,bannach
+0.5734,150130,barcarena
+0.6284,150140,belem
+0.5922,150145,belterra
+0.492,150150,benevides
+0.5297,150157,bom jesus do tocantins
+0.5122,150160,bonito
+0.5843,150170,braganca
+0.6838,150172,brasil novo
+0.5805,150175,brejo grande do araguaia
+0.5358,150178,breu branco
+0.5828,150180,breves
+0.5382,150190,bujaru
+0.6134,150200,cachoeira do arari
+0.5805,150195,cachoeira do piria
+0.581,150210,cameta
+0.5686,150215,canaa dos carajas
+0.5348,150220,capanema
+0.5837,150230,capitao poco
+0.5555,150240,castanhal
+0.6732,150250,chaves
+0.5657,150260,colares
+0.5348,150270,conceicao do araguaia
+0.506,150275,concordia do para
+0.6175,150276,cumaru do norte
+0.5527,150277,curionopolis
+0.5749,150280,curralinho
+0.6014,150285,curua
+0.5828,150290,curuca
+0.535,150293,dom eliseu
+0.58,150295,eldorado dos carajas
+0.5606,150300,faro
+0.6247,150304,floresta do araguaia
+0.5453,150307,garrafao do norte
+0.5619,150309,goianesia do para
+0.568,150310,gurupa
+0.5731,150320,igarape-acu
+0.5343,150330,igarape-miri
+0.5257,150340,inhangapi
+0.5863,150345,ipixuna do para
+0.5868,150350,irituia
+0.577,150360,itaituba
+0.6186,150370,itupiranga
+0.6964,150375,jacareacanga
+0.6113,150380,jacunda
+0.603,150390,juruti
+0.5793,150400,limoeiro do ajuru
+0.5886,150405,mae do rio
+0.5478,150410,magalhaes barata
+0.5978,150420,maraba
+0.6026,150430,maracana
+0.5487,150440,marapanim
+0.4477,150442,marituba
+0.6138,150445,medicilandia
+0.5537,150450,melgaco
+0.5921,150460,mocajuba
+0.6325,150470,moju
+0.5994,150480,monte alegre
+0.5671,150490,muana
+0.6405,150495,nova esperanca do piria
+0.5978,150497,nova ipixuna
+0.5192,150500,nova timboteua
+0.5563,150503,novo progresso
+0.5957,150506,novo repartimento
+0.5914,150510,obidos
+0.5716,150520,oeiras do para
+0.6535,150530,oriximina
+0.6305,150540,ourem
+0.5812,150543,ourilandia do norte
+0.6628,150548,pacaja
+0.5611,150549,palestina do para
+0.6151,150550,paragominas
+0.5452,150553,parauapebas
+0.5103,150555,"pau d""""arco"
+0.5668,150560,peixe-boi
+0.5264,150563,picarra
+0.592,150565,placas
+0.6104,150570,ponta de pedras
+0.6523,150580,portel
+0.5993,150590,porto de moz
+0.682,150600,prainha
+0.655,150610,primavera
+0.6068,150611,quatipuru
+0.537,150613,redencao
+0.5365,150616,rio maria
+0.5647,150618,rondon do para
+0.565,150619,ruropolis
+0.5277,150620,salinopolis
+0.5729,150630,salvaterra
+0.5346,150635,santa barbara do para
+0.5267,150640,santa cruz do arari
+0.5225,150650,santa isabel do para
+0.5692,150655,santa luzia do para
+0.5682,150658,santa maria das barreiras
+0.5313,150660,santa maria do para
+0.4721,150670,santana do araguaia
+0.5852,150680,santarem
+0.5764,150690,santarem novo
+0.531,150700,santo antonio do taua
+0.4889,150710,sao caetano de odivelas
+0.5917,150715,sao domingos do araguaia
+0.6063,150720,sao domingos do capim
+0.6423,150730,sao felix do xingu
+0.4851,150740,sao francisco do para
+0.532,150745,sao geraldo do araguaia
+0.5377,150746,sao joao da ponta
+0.5875,150747,sao joao de pirabas
+0.5573,150750,sao joao do araguaia
+0.5323,150760,sao miguel do guama
+0.546,150770,sao sebastiao da boa vista
+0.5336,150775,sapucaia
+0.5661,150780,senador jose porfirio
+0.5322,150790,soure
+0.5509,150795,tailandia
+0.5642,150796,terra alta
+0.5931,150797,terra santa
+0.5456,150800,tome-acu
+0.5873,150803,tracuateua
+0.5605,150805,trairao
+0.5445,150808,tucuma
+0.5833,150810,tucurui
+0.725,150812,ulianopolis
+0.5864,150815,uruara
+0.5139,150820,vigia
+0.6308,150830,viseu
+0.6065,150835,vitoria do xingu
+0.5722,150840,xinguara
+0.6258,160010,amapa
+0.6722,160020,calcoene
+0.6144,160021,cutias
+0.6006,160023,ferreira gomes
+0.6368,160025,itaubal
+0.5606,160027,laranjal do jari
+0.6037,160030,macapa
+0.6509,160040,mazagao
+0.694,160050,oiapoque
+0.6164,160015,pedra branca do amapari
+0.5728,160053,porto grande
+0.6553,160055,pracuuba
+0.5708,160060,santana
+0.6192,160005,serra do navio
+0.6658,160070,tartarugalzinho
+0.6018,160080,vitoria do jari
+0.7146,170025,abreulandia
+0.4877,170030,aguiarnopolis
+0.4788,170035,alianca do tocantins
+0.5745,170040,almas
+0.4734,170070,alvorada
+0.4849,170100,ananas
+0.4696,170105,angico
+0.4878,170110,aparecida do rio negro
+0.5422,170130,aragominas
+0.5704,170190,araguacema
+0.512,170200,araguacu
+0.574,170210,araguaina
+0.5285,170215,araguana
+0.5738,170220,araguatins
+0.5154,170230,arapoema
+0.6146,170240,arraias
+0.5309,170255,augustinopolis
+0.6931,170270,aurora do tocantins
+0.4976,170290,axixa do tocantins
+0.4921,170300,babaculandia
+0.5757,170305,bandeirantes do tocantins
+0.5505,170307,barra do ouro
+0.4792,170310,barrolandia
+0.4364,170320,bernardo sayao
+0.5044,170330,bom jesus do tocantins
+0.541,170360,brasilandia do tocantins
+0.5613,170370,brejinho de nazare
+0.5732,170380,buriti do tocantins
+0.4735,170382,cachoeirinha
+0.6791,170384,campos lindos
+0.4653,170386,cariri do tocantins
+0.5013,170388,carmolandia
+0.5609,170389,carrasco bonito
+0.6171,170390,caseara
+0.6363,170410,centenario
+0.6287,170510,chapada da natividade
+0.5254,170460,chapada de areia
+0.5841,170550,colinas do tocantins
+0.5059,171670,colmeia
+0.5196,170555,combinado
+0.5437,170560,conceicao do tocantins
+0.5538,170600,couto magalhaes
+0.5788,170610,cristalandia
+0.4706,170625,crixas do tocantins
+0.5192,170650,darcinopolis
+0.5666,170700,dianopolis
+0.6486,170710,divinopolis do tocantins
+0.577,170720,dois irmaos do tocantins
+0.5618,170730,duere
+0.561,170740,esperantina
+0.566,170755,fatima
+0.5311,170765,figueiropolis
+0.5438,170770,filadelfia
+0.526,170820,formoso do araguaia
+0.4792,170825,fortaleza do tabocao
+0.543,170830,goianorte
+0.6268,170900,goiatins
+0.6157,170930,guarai
+0.5386,170950,gurupi
+0.4313,170980,ipueiras
+0.5928,171050,itacaja
+0.5611,171070,itaguatins
+0.5228,171090,itapiratins
+0.4449,171110,itapora do tocantins
+0.6537,171150,jau do tocantins
+0.5442,171180,juarina
+0.5102,171190,lagoa da confusao
+0.6189,171195,lagoa do tocantins
+0.597,171200,lajeado
+0.5088,171215,lavandeira
+0.7596,171240,lizarda
+0.4964,171245,luzinopolis
+0.5329,171250,marianopolis do tocantins
+0.5279,171270,mateiros
+0.5227,171280,maurilandia do tocantins
+0.557,171320,miracema do tocantins
+0.4956,171330,miranorte
+0.626,171360,monte do carmo
+0.4928,171370,monte santo do tocantins
+0.5707,171395,muricilandia
+0.6082,171420,natividade
+0.5266,171430,nazare
+0.5329,171488,nova olinda
+0.5437,171500,nova rosalandia
+0.551,171510,novo acordo
+0.529,171515,novo alegre
+0.4495,171525,novo jardim
+0.572,171550,oliveira de fatima
+0.5914,172100,palmas
+0.5754,171570,palmeirante
+0.5096,171380,palmeiras do tocantins
+0.5263,171575,palmeiropolis
+0.6287,171610,paraiso do tocantins
+0.6539,171620,parana
+0.5329,171630,"pau d""""arco"
+0.5186,171650,pedro afonso
+0.6359,171660,peixe
+0.4754,171665,pequizeiro
+0.5744,171700,pindorama do tocantins
+0.5259,171720,piraque
+0.524,171750,pium
+0.642,171780,ponte alta do bom jesus
+0.5593,171790,ponte alta do tocantins
+0.519,171800,porto alegre do tocantins
+0.5481,171820,porto nacional
+0.5339,171830,praia norte
+0.5248,171840,presidente kennedy
+0.4403,171845,pugmil
+0.6439,171850,recursolandia
+0.5491,171855,riachinho
+0.5778,171865,rio da conceicao
+0.4873,171870,rio dos bois
+0.5983,171875,rio sono
+0.5078,171880,sampaio
+0.4861,171884,sandolandia
+0.5623,171886,santa fe do araguaia
+0.5364,171888,santa maria do tocantins
+0.5391,171889,santa rita do tocantins
+0.55,171890,santa rosa do tocantins
+0.469,171900,santa tereza do tocantins
+0.5421,172000,santa terezinha do tocantins
+0.5646,172010,sao bento do tocantins
+0.6346,172015,sao felix do tocantins
+0.5613,172020,sao miguel do tocantins
+0.6203,172025,sao salvador do tocantins
+0.5748,172030,sao sebastiao do tocantins
+0.5703,172049,sao valerio
+0.5667,172065,silvanopolis
+0.5699,172080,sitio novo do tocantins
+0.5048,172085,sucupira
+0.6521,172090,taguatinga
+0.5814,172093,taipas do tocantins
+0.4837,172097,talisma
+0.631,172110,tocantinia
+0.5272,172120,tocantinopolis
+0.4947,172125,tupirama
+0.5898,172130,tupiratins
+0.5206,172208,wanderlandia
+0.6151,172210,xambioa
+0.5732,210005,acailandia
+0.5897,210010,afonso cunha
+0.5883,210015,agua doce do maranhao
+0.5963,210020,alcantara
+0.5923,210030,aldeias altas
+0.5265,210040,altamira do maranhao
+0.5424,210043,alto alegre do maranhao
+0.585,210047,alto alegre do pindare
+0.7887,210050,alto parnaiba
+0.5789,210055,amapa do maranhao
+0.5902,210060,amarante do maranhao
+0.6039,210070,anajatuba
+0.5564,210080,anapurus
+0.5092,210083,apicum-acu
+0.5189,210087,araguana
+0.6072,210090,araioses
+0.7228,210095,arame
+0.5669,210100,arari
+0.5314,210110,axixa
+0.5579,210120,bacabal
+0.5571,210125,bacabeira
+0.5787,210130,bacuri
+0.5512,210135,bacurituba
+0.5923,210140,balsas
+0.5324,210150,barao de grajau
+0.6321,210160,barra do corda
+0.6133,210170,barreirinhas
+0.5041,210177,bela vista do maranhao
+0.6285,210173,belagua
+0.5917,210180,benedito leite
+0.5575,210190,bequimao
+0.4736,210193,bernardo do mearim
+0.521,210197,boa vista do gurupi
+0.5904,210200,bom jardim
+0.6659,210203,bom jesus das selvas
+0.4934,210207,bom lugar
+0.6495,210210,brejo
+0.4897,210215,brejo de areia
+0.619,210220,buriti
+0.5502,210230,buriti bravo
+0.5965,210232,buriticupu
+0.5059,210235,buritirana
+0.5733,210237,cachoeira grande
+0.5865,210240,cajapio
+0.6273,210250,cajari
+0.4829,210255,campestre do maranhao
+0.5839,210260,candido mendes
+0.6062,210270,cantanhede
+0.5735,210275,capinzal do norte
+0.5624,210280,carolina
+0.5465,210290,carutapera
+0.5534,210300,caxias
+0.5677,210310,cedral
+0.5397,210312,central do maranhao
+0.5694,210315,centro do guilherme
+0.5576,210317,centro novo do maranhao
+0.6019,210320,chapadinha
+0.4731,210325,cidelandia
+0.5807,210330,codo
+0.5525,210340,coelho neto
+0.6306,210350,colinas
+0.5061,210355,conceicao do lago-acu
+0.5927,210360,coroata
+0.579,210370,cururupu
+0.4488,210375,davinopolis
+0.4949,210380,dom pedro
+0.6053,210390,duque bacelar
+0.5988,210400,esperantinopolis
+0.581,210405,estreito
+0.6306,210407,feira nova do maranhao
+0.5493,210408,fernando falcao
+0.6331,210409,formosa da serra negra
+0.5358,210410,fortaleza dos nogueiras
+0.5703,210420,fortuna
+0.5035,210430,godofredo viana
+0.5976,210440,goncalves dias
+0.5557,210450,governador archer
+0.4708,210455,governador edison lobao
+0.5795,210460,governador eugenio barros
+0.5628,210462,governador luiz rocha
+0.5258,210465,governador newton bello
+0.5675,210467,governador nunes freire
+0.5392,210470,graca aranha
+0.6239,210480,grajau
+0.561,210490,guimaraes
+0.6312,210500,humberto de campos
+0.5876,210510,icatu
+0.508,210515,igarape do meio
+0.5319,210520,igarape grande
+0.5612,210530,imperatriz
+0.5566,210535,itaipava do grajau
+0.5733,210540,itapecuru mirim
+0.5403,210542,itinga do maranhao
+0.58,210545,jatoba
+0.6711,210547,jenipapo dos vieiras
+0.4549,210550,joao lisboa
+0.5768,210560,joselandia
+0.5219,210565,junco do maranhao
+0.5615,210570,lago da pedra
+0.6074,210580,lago do junco
+0.4774,210594,lago dos rodrigues
+0.5135,210590,lago verde
+0.527,210592,lagoa do mato
+0.5471,210596,lagoa grande do maranhao
+0.598,210598,lajeado novo
+0.5596,210600,lima campos
+0.5399,210610,loreto
+0.6087,210620,luis domingues
+0.5924,210630,magalhaes de almeida
+0.4833,210632,maracacume
+0.6256,210635,maraja do sena
+0.5196,210637,maranhaozinho
+0.5793,210640,mata roma
+0.6046,210650,matinha
+0.564,210660,matoes
+0.5754,210663,matoes do norte
+0.5357,210667,milagres do maranhao
+0.6466,210670,mirador
+0.4752,210675,miranda do norte
+0.516,210680,mirinzal
+0.5201,210690,moncao
+0.5774,210700,montes altos
+0.5865,210710,morros
+0.6281,210720,nina rodrigues
+0.5452,210725,nova colinas
+0.5302,210730,nova iorque
+0.4761,210735,nova olinda do maranhao
+0.5425,210740,"olho d""""agua das cunhas"
+0.6022,210745,olinda nova do maranhao
+0.5067,210750,paco do lumiar
+0.5755,210760,palmeirandia
+0.5708,210770,paraibano
+0.5599,210780,parnarama
+0.555,210790,passagem franca
+0.5634,210800,pastos bons
+0.6201,210805,paulino neves
+0.5702,210810,paulo ramos
+0.6056,210820,pedreiras
+0.5763,210825,pedro do rosario
+0.5114,210830,penalva
+0.5392,210840,peri mirim
+0.614,210845,peritoro
+0.5179,210850,pindare-mirim
+0.5226,210860,pinheiro
+0.5391,210870,pio xii
+0.6015,210880,pirapemas
+0.5466,210890,pocao de pedras
+0.5773,210900,porto franco
+0.5279,210905,porto rico do maranhao
+0.5638,210910,presidente dutra
+0.6115,210920,presidente juscelino
+0.5305,210923,presidente medici
+0.5119,210927,presidente sarney
+0.6119,210930,presidente vargas
+0.6089,210940,primeira cruz
+0.4848,210945,raposa
+0.6234,210950,riachao
+0.5912,210955,ribamar fiquene
+0.5147,210960,rosario
+0.5557,210970,sambaiba
+0.5921,210975,santa filomena do maranhao
+0.5021,210980,santa helena
+0.5378,210990,santa ines
+0.583,211000,santa luzia
+0.5248,211003,santa luzia do parua
+0.5112,211010,santa quiteria do maranhao
+0.5388,211020,santa rita
+0.5744,211023,santana do maranhao
+0.6174,211027,santo amaro do maranhao
+0.583,211030,santo antonio dos lopes
+0.6278,211040,sao benedito do rio preto
+0.5648,211050,sao bento
+0.5939,211060,sao bernardo
+0.6959,211065,sao domingos do azeitao
+0.5944,211070,sao domingos do maranhao
+0.5724,211080,sao felix de balsas
+0.5253,211085,sao francisco do brejao
+0.5744,211090,sao francisco do maranhao
+0.6322,211100,sao joao batista
+0.5286,211102,sao joao do caru
+0.5336,211105,sao joao do paraiso
+0.525,211107,sao joao do soter
+0.5605,211110,sao joao dos patos
+0.5268,211120,sao jose de ribamar
+0.552,211125,sao jose dos basilios
+0.6266,211130,sao luis
+0.5583,211140,sao luis gonzaga do maranhao
+0.6696,211150,sao mateus do maranhao
+0.5335,211153,sao pedro da agua branca
+0.506,211157,sao pedro dos crentes
+0.5604,211160,sao raimundo das mangabeiras
+0.5539,211163,sao raimundo do doca bezerra
+0.5463,211167,sao roberto
+0.6171,211170,sao vicente ferrer
+0.5827,211172,satubinha
+0.5193,211174,senador alexandre costa
+0.5389,211176,senador la rocque
+0.5925,211178,serrano do maranhao
+0.5986,211180,sitio novo
+0.5967,211190,sucupira do norte
+0.5216,211195,sucupira do riachao
+0.5857,211200,tasso fragoso
+0.6193,211210,timbiras
+0.5104,211220,timon
+0.4797,211223,trizidela do vale
+0.4856,211227,tufilandia
+0.5713,211230,tuntum
+0.5927,211240,turiacu
+0.5218,211245,turilandia
+0.5667,211250,tutoia
+0.6127,211260,urbano santos
+0.6072,211270,vargem grande
+0.5705,211280,viana
+0.4672,211285,vila nova dos martirios
+0.5591,211290,vitoria do mearim
+0.5796,211300,vitorino freire
+0.529,211400,ze doca
+0.501,220005,acaua
+0.5078,220010,agricolandia
+0.5072,220020,agua branca
+0.5289,220025,alagoinha do piaui
+0.5095,220027,alegrete do piaui
+0.5892,220030,alto longa
+0.5621,220040,altos
+0.6066,220045,alvorada do gurgueia
+0.5407,220050,amarante
+0.6139,220060,angical do piaui
+0.531,220070,anisio de abreu
+0.5225,220080,antonio almeida
+0.5281,220090,aroazes
+0.4855,220095,aroeiras do itaim
+0.5573,220100,arraial
+0.5716,220105,assuncao do piaui
+0.5726,220110,avelino lopes
+0.5876,220115,baixa grande do ribeiro
+0.5218,220117,"barra d""""alcantara"
+0.513,220120,barras
+0.5284,220130,barreiras do piaui
+0.5167,220140,barro duro
+0.545,220150,batalha
+0.5956,220155,bela vista do piaui
+0.5386,220157,belem do piaui
+0.5623,220160,beneditinos
+0.5276,220170,bertolinia
+0.5392,220173,betania do piaui
+0.5138,220177,boa hora
+0.5839,220180,bocaina
+0.6291,220190,bom jesus
+0.5744,220191,bom principio do piaui
+0.4514,220192,bonfim do piaui
+0.5016,220194,boqueirao do piaui
+0.4889,220196,brasileira
+0.524,220198,brejo do piaui
+0.5481,220200,buriti dos lopes
+0.5702,220202,buriti dos montes
+0.5352,220205,cabeceiras do piaui
+0.4932,220207,cajazeiras do piaui
+0.6448,220208,cajueiro da praia
+0.5267,220209,caldeirao grande do piaui
+0.5516,220210,campinas do piaui
+0.6588,220211,campo alegre do fidalgo
+0.4815,220213,campo grande do piaui
+0.5371,220217,campo largo do piaui
+0.535,220220,campo maior
+0.5201,220225,canavieira
+0.5321,220230,canto do buriti
+0.5151,220240,capitao de campos
+0.5612,220245,capitao gervasio oliveira
+0.6208,220250,caracol
+0.5863,220253,caraubas do piaui
+0.5311,220255,caridade do piaui
+0.4893,220260,castelo do piaui
+0.5264,220265,caxingo
+0.5688,220270,cocal
+0.5224,220271,cocal de telha
+0.5945,220272,cocal dos alves
+0.488,220273,coivaras
+0.4964,220275,colonia do gurgueia
+0.5092,220277,colonia do piaui
+0.5359,220280,conceicao do caninde
+0.5782,220285,coronel jose dias
+0.6055,220290,corrente
+0.6149,220300,cristalandia do piaui
+0.5956,220310,cristino castro
+0.5536,220320,curimata
+0.5188,220323,currais
+0.5784,220327,curral novo do piaui
+0.5349,220325,curralinhos
+0.4825,220330,demerval lobao
+0.5265,220335,dirceu arcoverde
+0.5201,220340,dom expedito lopes
+0.5356,220345,dom inocencio
+0.5688,220342,domingos mourao
+0.4879,220350,elesbao veloso
+0.5864,220360,eliseu martins
+0.5168,220370,esperantina
+0.5249,220375,fartura do piaui
+0.5751,220380,flores do piaui
+0.515,220385,floresta do piaui
+0.5579,220390,floriano
+0.5666,220400,francinopolis
+0.5211,220410,francisco ayres
+0.4976,220415,francisco macedo
+0.5136,220420,francisco santos
+0.5653,220430,fronteiras
+0.4668,220435,geminiano
+0.6883,220440,gilbues
+0.5059,220450,guadalupe
+0.5763,220455,guaribas
+0.5491,220460,hugo napoleao
+0.5132,220465,ilha grande
+0.5298,220470,inhuma
+0.4809,220480,ipiranga do piaui
+0.7972,220490,isaias coelho
+0.5033,220500,itainopolis
+0.5563,220510,itaueira
+0.5286,220515,jacobina do piaui
+0.5306,220520,jaicos
+0.515,220525,jardim do mulato
+0.4702,220527,jatoba do piaui
+0.4991,220530,jerumenha
+0.491,220535,joao costa
+0.6058,220540,joaquim pires
+0.5761,220545,joca marques
+0.5449,220550,jose de freitas
+0.5109,220551,juazeiro do piaui
+0.5331,220552,julio borges
+0.5592,220553,jurema
+0.5348,220555,lagoa alegre
+0.5271,220557,lagoa de sao francisco
+0.5974,220556,lagoa do barro do piaui
+0.4685,220558,lagoa do piaui
+0.555,220559,lagoa do sitio
+0.553,220554,lagoinha do piaui
+0.5727,220560,landri sales
+0.5942,220570,luis correia
+0.5146,220580,luzilandia
+0.5404,220585,madeiro
+0.5585,220590,manoel emidio
+0.4891,220595,marcolandia
+0.4947,220600,marcos parente
+0.5133,220605,massape do piaui
+0.5204,220610,matias olimpio
+0.6,220620,miguel alves
+0.5227,220630,miguel leao
+0.5526,220635,milton brandao
+0.5015,220640,monsenhor gil
+0.5364,220650,monsenhor hipolito
+0.5734,220660,monte alegre do piaui
+0.5957,220665,morro cabeca no tempo
+0.5304,220667,morro do chapeu do piaui
+0.5971,220669,murici dos portelas
+0.5668,220670,nazare do piaui
+0.5066,220672,nazaria
+0.5088,220675,nossa senhora de nazare
+0.4854,220680,nossa senhora dos remedios
+0.6312,220795,nova santa rita
+0.5197,220690,novo oriente do piaui
+0.5628,220695,novo santo antonio
+0.5873,220700,oeiras
+0.566,220710,"olho d""""agua do piaui"
+0.5302,220720,padre marcos
+0.5084,220730,paes landim
+0.5998,220735,pajeu do piaui
+0.5967,220740,palmeira do piaui
+0.588,220750,palmeirais
+0.4997,220755,paqueta
+0.5663,220760,parnagua
+0.5772,220770,parnaiba
+0.5393,220775,passagem franca do piaui
+0.508,220777,patos do piaui
+0.6093,220779,"pau d""""arco do piaui"
+0.6083,220780,paulistana
+0.5278,220785,pavussu
+0.5885,220790,pedro ii
+0.5615,220793,pedro laurentino
+0.563,220800,picos
+0.5735,220810,pimenteiras
+0.5749,220820,pio ix
+0.5428,220830,piracuruca
+0.5633,220840,piripiri
+0.5672,220850,porto
+0.4867,220855,porto alegre do piaui
+0.5616,220860,prata do piaui
+0.5265,220865,queimada nova
+0.5794,220870,redencao do gurgueia
+0.5611,220880,regeneracao
+0.6059,220885,riacho frio
+0.5826,220887,ribeira do piaui
+0.5975,220890,ribeiro goncalves
+0.5471,220900,rio grande do piaui
+0.4923,220910,santa cruz do piaui
+0.4455,220915,santa cruz dos milagres
+0.5929,220920,santa filomena
+0.5163,220930,santa luz
+0.5264,220937,santa rosa do piaui
+0.4685,220935,santana do piaui
+0.4672,220940,santo antonio de lisboa
+0.495,220945,santo antonio dos milagres
+0.5284,220950,santo inacio do piaui
+0.5261,220955,sao braz do piaui
+0.5242,220960,sao felix do piaui
+0.6039,220965,sao francisco de assis do piaui
+0.5423,220970,sao francisco do piaui
+0.6471,220975,sao goncalo do gurgueia
+0.5657,220980,sao goncalo do piaui
+0.5248,220985,sao joao da canabrava
+0.5467,220987,sao joao da fronteira
+0.5746,220990,sao joao da serra
+0.569,220995,sao joao da varjota
+0.5484,220997,sao joao do arraial
+0.5778,221000,sao joao do piaui
+0.4924,221005,sao jose do divino
+0.5732,221010,sao jose do peixe
+0.43120000000000003,221020,sao jose do piaui
+0.5226,221030,sao juliao
+0.469,221035,sao lourenco do piaui
+0.5056,221037,sao luis do piaui
+0.541,221038,sao miguel da baixa grande
+0.5579,221039,sao miguel do fidalgo
+0.5788,221040,sao miguel do tapuio
+0.5684,221050,sao pedro do piaui
+0.5504,221060,sao raimundo nonato
+0.5958,221062,sebastiao barros
+0.5964,221063,sebastiao leal
+0.5078,221065,sigefredo pacheco
+0.5149,221070,simoes
+0.5706,221080,simplicio mendes
+0.5757,221090,socorro do piaui
+0.4643,221093,sussuapara
+0.5461,221095,tamboril do piaui
+0.4749,221097,tanque do piaui
+0.6171,221100,teresina
+0.5247,221110,uniao
+0.5532,221120,urucui
+0.531,221130,valenca do piaui
+0.5706,221135,varzea branca
+0.5233,221140,varzea grande
+0.5815,221150,vera mendes
+0.6043,221160,vila nova do piaui
+0.5102,221170,wall ferraz
+0.488,230010,abaiara
+0.4331,230015,acarape
+0.6087,230020,acarau
+0.5802,230030,acopiara
+0.5297,230040,aiuaba
+0.4651,230050,alcantaras
+0.5538,230060,altaneira
+0.4819,230070,alto santo
+0.5633,230075,amontada
+0.5134,230080,antonina do norte
+0.543,230090,apuiares
+0.498,230100,aquiraz
+0.5416,230110,aracati
+0.5175,230120,aracoiaba
+0.5392,230125,ararenda
+0.5594,230130,araripe
+0.4877,230140,aratuba
+0.5309,230150,arneiroz
+0.5933,230160,assare
+0.5275,230170,aurora
+0.4599,230180,baixio
+0.5622,230185,banabuiu
+0.5168,230190,barbalha
+0.506,230195,barreira
+0.5106,230200,barro
+0.5536,230205,barroquinha
+0.4816,230210,baturite
+0.5606,230220,beberibe
+0.5518,230230,bela cruz
+0.5926,230240,boa viagem
+0.5351,230250,brejo santo
+0.5712,230260,camocim
+0.5898,230270,campos sales
+0.5962,230280,caninde
+0.5627,230290,capistrano
+0.5244,230300,caridade
+0.542,230310,carire
+0.5175,230320,caririacu
+0.5277,230330,carius
+0.5351,230340,carnaubal
+0.4893,230350,cascavel
+0.5174,230360,catarina
+0.5434,230365,catunda
+0.4931,230370,caucaia
+0.5685,230380,cedro
+0.5062,230390,chaval
+0.5793,230393,choro
+0.5027,230395,chorozinho
+0.513,230400,coreau
+0.6094,230410,crateus
+0.5746,230420,crato
+0.5864,230423,croata
+0.5856,230425,cruz
+0.5086,230426,deputado irapuan pinheiro
+0.4701,230427,erere
+0.6613,230428,eusebio
+0.5529,230430,farias brito
+0.4714,230435,forquilha
+0.6267,230440,fortaleza
+0.5124,230445,fortim
+0.5283,230450,frecheirinha
+0.5155,230460,general sampaio
+0.5588,230465,graca
+0.626,230470,granja
+0.5064,230480,granjeiro
+0.4701,230490,groairas
+0.4833,230495,guaiuba
+0.5199,230500,guaraciaba do norte
+0.4719,230510,guaramiranga
+0.5109,230520,hidrolandia
+0.4283,230523,horizonte
+0.5512,230526,ibaretama
+0.4776,230530,ibiapina
+0.5289,230533,ibicuitinga
+0.4796,230535,icapui
+0.5612,230540,ico
+0.5522,230550,iguatu
+0.563,230560,independencia
+0.5534,230565,ipaporanga
+0.6376,230570,ipaumirim
+0.5648,230580,ipu
+0.5655,230590,ipueiras
+0.5562,230600,iracema
+0.6235,230610,iraucuba
+0.4446,230620,itaicaba
+0.5104,230625,itaitinga
+0.5408,230630,itapage
+0.5617,230640,itapipoca
+0.5011,230650,itapiuna
+0.5312,230655,itarema
+0.5415,230660,itatira
+0.5695,230670,jaguaretama
+0.4587,230680,jaguaribara
+0.5429,230690,jaguaribe
+0.4723,230700,jaguaruana
+0.5305,230710,jardim
+0.4995,230720,jati
+0.5934,230725,jijoca de jericoacoara
+0.5488,230730,juazeiro do norte
+0.4965,230740,jucas
+0.5868,230750,lavras da mangabeira
+0.5055,230760,limoeiro do norte
+0.5793,230763,madalena
+0.4423,230765,maracanau
+0.4666,230770,maranguape
+0.541,230780,marco
+0.6002,230790,martinopole
+0.4731,230800,massape
+0.5618,230810,mauriti
+0.4733,230820,meruoca
+0.4732,230830,milagres
+0.5415,230835,milha
+0.6448,230837,miraima
+0.5758,230840,missao velha
+0.5406,230850,mombaca
+0.5577,230860,monsenhor tabosa
+0.5264,230870,morada nova
+0.5212,230880,moraujo
+0.5457,230890,morrinhos
+0.5965,230900,mucambo
+0.5653,230910,mulungu
+0.5784,230920,nova olinda
+0.5097,230930,nova russas
+0.6104,230940,novo oriente
+0.5326,230945,ocara
+0.4938,230950,oros
+0.4786,230960,pacajus
+0.4652,230970,pacatuba
+0.5105,230980,pacoti
+0.5018,230990,pacuja
+0.47,231000,palhano
+0.6364,231010,palmacia
+0.5525,231020,paracuru
+0.5116,231025,paraipaba
+0.5352,231030,parambu
+0.5286,231040,paramoti
+0.5153,231050,pedra branca
+0.4578,231060,penaforte
+0.574,231070,pentecoste
+0.5471,231080,pereiro
+0.4587,231085,pindoretama
+0.5257,231090,piquet carneiro
+0.5198,231095,pires ferreira
+0.55,231100,poranga
+0.4995,231110,porteiras
+0.5844,231120,potengi
+0.4975,231123,potiretama
+0.557,231126,quiterianopolis
+0.5434,231130,quixada
+0.5141,231135,quixelo
+0.5663,231140,quixeramobim
+0.4486,231150,quixere
+0.5094,231160,redencao
+0.6025,231170,reriutaba
+0.4696,231180,russas
+0.5506,231190,saboeiro
+0.4896,231195,salitre
+0.5679,231220,santa quiteria
+0.6886,231200,santana do acarau
+0.5672,231210,santana do cariri
+0.5182,231230,sao benedito
+0.5203,231240,sao goncalo do amarante
+0.511,231250,sao joao do jaguaribe
+0.5233,231260,sao luis do curu
+0.5179,231270,senador pompeu
+0.5264,231280,senador sa
+0.5702,231290,sobral
+0.5169,231300,solonopole
+0.5413,231310,tabuleiro do norte
+0.5287,231320,tamboril
+0.5462,231325,tarrafas
+0.5776,231330,taua
+0.5202,231335,tejucuoca
+0.6125,231340,tiangua
+0.5561,231350,trairi
+0.5466,231355,tururu
+0.5441,231360,ubajara
+0.5558,231370,umari
+0.5384,231375,umirim
+0.54990000000000006,231380,uruburetama
+0.5383,231390,uruoca
+0.5346,231395,varjota
+0.5434,231400,varzea alegre
+0.6023,231410,vicosa do ceara
+0.4915,240010,acari
+0.5387,240020,acu
+0.5224,240030,afonso bezerra
+0.4613,240040,agua nova
+0.5381,240050,alexandria
+0.4935,240060,almino afonso
+0.4818,240070,alto do rodrigues
+0.5361,240080,angicos
+0.5119,240090,antonio martins
+0.5511,240100,apodi
+0.4815,240110,areia branca
+0.5315,240120,ares
+0.6815,240130,augusto severo
+0.4837,240140,baia formosa
+0.4316,240145,barauna
+0.5008,240150,barcelona
+0.4741,240160,bento fernandes
+0.5259,240165,bodo
+0.5472,240170,bom jesus
+0.5027,240180,brejinho
+0.5314,240185,caicara do norte
+0.5063,240190,caicara do rio do vento
+0.562,240200,caico
+0.5644,240210,campo redondo
+0.5024,240220,canguaretama
+0.5439,240230,caraubas
+0.4078,240240,carnauba dos dantas
+0.5263,240250,carnaubais
+0.5262,240260,ceara-mirim
+0.54,240270,cerro cora
+0.5488,240280,coronel ezequiel
+0.4981,240290,coronel joao pessoa
+0.4278,240300,cruzeta
+0.5912,240310,currais novos
+0.4943,240320,doutor severiano
+0.4735,240330,encanto
+0.5038,240340,equador
+0.5524,240350,espirito santo
+0.5637,240360,extremoz
+0.4856,240370,felipe guerra
+0.5546,240375,fernando pedroza
+0.4902,240380,florania
+0.5002,240390,francisco dantas
+0.4768,240400,frutuoso gomes
+0.5752,240410,galinhos
+0.581,240420,goianinha
+0.5002,240430,governador dix-sept rosado
+0.4963,240440,grossos
+0.5309,240450,guamare
+0.5159,240460,ielmo marinho
+0.4835,240470,ipanguacu
+0.3995,240480,ipueira
+0.4205,240485,itaja
+0.4882,240490,itau
+0.491,240500,jacana
+0.5252,240510,jandaira
+0.4811,240520,janduis
+0.5286,240530,januario cicco
+0.5221,240540,japi
+0.5342,240550,jardim de angicos
+0.4607,240560,jardim de piranhas
+0.5025,240570,jardim do serido
+0.561,240580,joao camara
+0.5572,240590,joao dias
+0.4744,240600,jose da penha
+0.4697,240610,jucurutu
+0.4417,240615,jundia
+0.5408,240620,"lagoa d""""anta"
+0.5186,240630,lagoa de pedras
+0.4248,240640,lagoa de velhos
+0.5081,240650,lagoa nova
+0.5532,240660,lagoa salgada
+0.4949,240670,lajes
+0.4569,240680,lajes pintadas
+0.6169,240690,lucrecia
+0.5555,240700,luis gomes
+0.5101,240710,macaiba
+0.5078,240720,macau
+0.5135,240725,major sales
+0.5259,240730,marcelino vieira
+0.4958,240740,martins
+0.5258,240750,maxaranguape
+0.4456,240760,messias targino
+0.5465,240770,montanhas
+0.548,240780,monte alegre
+0.488,240790,monte das gameleiras
+0.534,240800,mossoro
+0.6217,240810,natal
+0.5356,240820,nisia floresta
+0.527,240830,nova cruz
+0.4914,240840,"olho-d""""agua do borges"
+0.4315,240850,ouro branco
+0.4992,240860,parana
+0.4677,240870,parau
+0.5237,240880,parazinho
+0.4533,240890,parelhas
+0.5604,240325,parnamirim
+0.5156,240910,passa e fica
+0.4094,240920,passagem
+0.5253,240930,patu
+0.5547,240940,pau dos ferros
+0.4813,240950,pedra grande
+0.5633,240960,pedra preta
+0.5196,240970,pedro avelino
+0.5296,240980,pedro velho
+0.5743,240990,pendencias
+0.5007,241000,piloes
+0.5724,241010,poco branco
+0.5269,241020,portalegre
+0.5555,241025,porto do mangue
+0.5721,241030,presidente juscelino
+0.5414,241040,pureza
+0.457,241050,rafael fernandes
+0.4982,241060,rafael godeiro
+0.4888,241070,riacho da cruz
+0.4975,241080,riacho de santana
+0.5411,241090,riachuelo
+0.5232,240895,rio do fogo
+0.4724,241100,rodolfo fernandes
+0.5127,241110,ruy barbosa
+0.5302,241120,santa cruz
+0.4524,240933,santa maria
+0.5614,241140,santana do matos
+0.4068,241142,santana do serido
+0.5841,241150,santo antonio
+0.5461,241160,sao bento do norte
+0.4955,241170,sao bento do trairi
+0.4494,241180,sao fernando
+0.4137,241190,sao francisco do oeste
+0.46,241200,sao goncalo do amarante
+0.4708,241210,sao joao do sabugi
+0.576,241220,sao jose de mipibu
+0.5203,241230,sao jose do campestre
+0.4476,241240,sao jose do serido
+0.5399,241250,sao miguel
+0.5106,241255,sao miguel do gostoso
+0.4835,241260,sao paulo do potengi
+0.5254,241270,sao pedro
+0.5232,241280,sao rafael
+0.4925,241290,sao tome
+0.5533,241300,sao vicente
+0.5003,241310,senador eloi de souza
+0.4493,241320,senador georgino avelino
+0.5432,241330,serra de sao bento
+0.5085,241335,serra do mel
+0.4273,241340,serra negra do norte
+0.5228,241350,serrinha
+0.5046,241355,serrinha dos pintos
+0.5288,241360,severiano melo
+0.4636,241370,sitio novo
+0.4838,241380,taboleiro grande
+0.4581,241390,taipu
+0.5298,241400,tangara
+0.4613,241410,tenente ananias
+0.484,241415,tenente laurentino cruz
+0.537,241105,tibau
+0.6049,241420,tibau do sul
+0.3684,241430,timbauba dos batistas
+0.5189,241440,touros
+0.4653,241445,triunfo potiguar
+0.5145,241450,umarizal
+0.5467,241460,upanema
+0.4831,241470,varzea
+0.508,241475,venha-ver
+0.4292,241480,vera cruz
+0.4773,241490,vicosa
+0.4617,241500,vila flor
+0.5452,250010,agua branca
+0.6543,250020,aguiar
+0.5506,250030,alagoa grande
+0.5372,250040,alagoa nova
+0.5312,250050,alagoinha
+0.4806,250053,alcantil
+0.4732,250057,algodao de jandaira
+0.4653,250060,alhandra
+0.5035,250073,amparo
+0.5148,250077,aparecida
+0.5333,250080,aracagi
+0.5461,250090,arara
+0.5302,250100,araruna
+0.5495,250110,areia
+0.4622,250115,areia de baraunas
+0.4917,250120,areial
+0.5825,250130,aroeiras
+0.5386,250135,assuncao
+0.5838,250140,baia da traicao
+0.6055,250150,bananeiras
+0.5349,250153,barauna
+0.5195,250160,barra de santa rosa
+0.4981,250157,barra de santana
+0.4553,250170,barra de sao miguel
+0.4806,250180,bayeux
+0.5062,250190,belem
+0.4742,250200,belem do brejo do cruz
+0.5529,250205,bernardino batista
+0.4612,250210,boa ventura
+0.419,250215,boa vista
+0.5054,250220,bom jesus
+0.4556,250230,bom sucesso
+0.5271,250240,bonito de santa fe
+0.4611,250250,boqueirao
+0.5088,250270,borborema
+0.4772,250280,brejo do cruz
+0.4735,250290,brejo dos santos
+0.4895,250300,caapora
+0.4622,250310,cabaceiras
+0.7047,250320,cabedelo
+0.5077,250330,cachoeira dos indios
+0.4954,250340,cacimba de areia
+0.5284,250350,cacimba de dentro
+0.5374,250355,cacimbas
+0.5167,250360,caicara
+0.5637,250370,cajazeiras
+0.5033,250375,cajazeirinhas
+0.4738,250380,caldas brandao
+0.4648,250390,camalau
+0.5859,250400,campina grande
+0.5152,250403,capim
+0.4541,250407,caraubas
+0.4764,250410,carrapateira
+0.5814,250415,casserengue
+0.5192,250420,catingueira
+0.5046,250430,catole do rocha
+0.5686,250435,caturite
+0.5623,250440,conceicao
+0.4842,250450,condado
+0.5399,250460,conde
+0.4997,250470,congo
+0.5217,250480,coremas
+0.4901,250485,coxixola
+0.4351,250490,cruz do espirito santo
+0.4936,250500,cubati
+0.5146,250510,cuite
+0.4839,250523,cuite de mamanguape
+0.4912,250520,cuitegi
+0.5271,250527,curral de cima
+0.5969,250530,curral velho
+0.4986,250535,damiao
+0.5473,250540,desterro
+0.564,250560,diamante
+0.5459,250570,dona ines
+0.5231,250580,duas estradas
+0.4662,250590,emas
+0.5416,250600,esperanca
+0.5213,250610,fagundes
+0.5756,250620,frei martinho
+0.5641,250625,gado bravo
+0.5373,250630,guarabira
+0.4586,250640,gurinhem
+0.4618,250650,gurjao
+0.5405,250660,ibiara
+0.5277,250260,igaracy
+0.5208,250670,imaculada
+0.5013,250680,inga
+0.5022,250690,itabaiana
+0.5072,250700,itaporanga
+0.49,250710,itapororoca
+0.4989,250720,itatuba
+0.54990000000000006,250730,jacarau
+0.5118,250740,jerico
+0.6287,250750,joao pessoa
+0.4374,251365,joca claudino
+0.4906,250760,juarez tavora
+0.5131,250770,juazeirinho
+0.4814,250780,junco do serido
+0.5403,250790,juripiranga
+0.5185,250800,juru
+0.4543,250810,lagoa
+0.5308,250820,lagoa de dentro
+0.5561,250830,lagoa seca
+0.4533,250840,lastro
+0.5106,250850,livramento
+0.4282,250855,logradouro
+0.5625,250860,lucena
+0.5019,250870,"mae d""""agua"
+0.5824,250880,malta
+0.5411,250890,mamanguape
+0.5345,250900,manaira
+0.5192,250905,marcacao
+0.4766,250910,mari
+0.5174,250915,marizopolis
+0.4654,250920,massaranduba
+0.501,250930,mataraca
+0.4411,250933,matinhas
+0.4691,250937,mato grosso
+0.5226,250939,matureia
+0.504,250940,mogeiro
+0.4751,250950,montadas
+0.5487,250960,monte horebe
+0.5788,250970,monteiro
+0.4982,250980,mulungu
+0.5442,250990,natuba
+0.5196,251000,nazarezinho
+0.5212,251010,nova floresta
+0.5274,251020,nova olinda
+0.4587,251030,nova palmeira
+0.5557,251040,"olho d""""agua"
+0.509,251050,olivedos
+0.483,251060,ouro velho
+0.4991,251065,parari
+0.5123,251070,passagem
+0.563,251080,patos
+0.4969,251090,paulista
+0.5077,251100,pedra branca
+0.4945,251110,pedra lavrada
+0.5399,251120,pedras de fogo
+0.5268,251272,pedro regis
+0.5427,251130,pianco
+0.5281,251140,picui
+0.4997,251150,pilar
+0.5897,251160,piloes
+0.4416,251170,piloezinhos
+0.5303,251180,pirpirituba
+0.5106,251190,pitimbu
+0.4651,251200,pocinhos
+0.4921,251203,poco dantas
+0.4605,251207,poco de jose de moura
+0.537,251210,pombal
+0.4389,251220,prata
+0.4803,251230,princesa isabel
+0.4575,251240,puxinana
+0.4687,251250,queimadas
+0.4638,251260,quixaba
+0.5586,251270,remigio
+0.5183,251274,riachao
+0.5016,251275,riachao do bacamarte
+0.4975,251276,riachao do poco
+0.4377,251278,riacho de santo antonio
+0.4431,251280,riacho dos cavalos
+0.5092,251290,rio tinto
+0.4661,251300,salgadinho
+0.512,251310,salgado de sao felix
+0.4846,251315,santa cecilia
+0.4592,251320,santa cruz
+0.505,251330,santa helena
+0.5333,251335,santa ines
+0.5184,251340,santa luzia
+0.476,251370,santa rita
+0.5973,251380,santa teresinha
+0.5484,251350,santana de mangueira
+0.4896,251360,santana dos garrotes
+0.4681,251385,santo andre
+0.4655,251392,sao bentinho
+0.4802,251390,sao bento
+0.457,251396,sao domingos
+0.4803,251394,sao domingos do cariri
+0.4525,251398,sao francisco
+0.5335,251400,sao joao do cariri
+0.5327,250070,sao joao do rio do peixe
+0.5166,251410,sao joao do tigre
+0.4949,251420,sao jose da lagoa tapada
+0.4469,251430,sao jose de caiana
+0.4501,251440,sao jose de espinharas
+0.5023,251450,sao jose de piranhas
+0.4548,251455,sao jose de princesa
+0.4846,251460,sao jose do bonfim
+0.465,251465,sao jose do brejo do cruz
+0.4348,251470,sao jose do sabugi
+0.4903,251480,sao jose dos cordeiros
+0.5136,251445,sao jose dos ramos
+0.5267,251490,sao mamede
+0.4897,251500,sao miguel de taipu
+0.4873,251510,sao sebastiao de lagoa de roca
+0.4681,251520,sao sebastiao do umbuzeiro
+0.5176,251530,sape
+0.481,251540,serido
+0.4863,251550,serra branca
+0.4996,251560,serra da raiz
+0.4792,251570,serra grande
+0.4902,251580,serra redonda
+0.5151,251590,serraria
+0.4742,251593,sertaozinho
+0.4921,251597,sobrado
+0.5773,251600,solanea
+0.5216,251610,soledade
+0.4987,251615,sossego
+0.5475,251620,sousa
+0.5055,251630,sume
+0.4933,251640,tacima
+0.4917,251650,taperoa
+0.5317,251660,tavares
+0.5611,251670,teixeira
+0.4288,251675,tenorio
+0.4869,251680,triunfo
+0.5482,251690,uirauna
+0.5487,251700,umbuzeiro
+0.4078,251710,varzea
+0.4526,251720,vieiropolis
+0.4755,250550,vista serrana
+0.4361,251740,zabele
+0.4676,260005,abreu e lima
+0.5762,260010,afogados da ingazeira
+0.5333,260020,afranio
+0.5072,260030,agrestina
+0.503,260040,agua preta
+0.5922,260050,aguas belas
+0.4997,260060,alagoinha
+0.5148,260070,alianca
+0.521,260080,altinho
+0.503,260090,amaraji
+0.5898,260100,angelim
+0.4599,260105,aracoiaba
+0.5653,260110,araripina
+0.597,260120,arcoverde
+0.5252,260130,barra de guabiraba
+0.575,260140,barreiros
+0.4714,260150,belem de maria
+0.6285,260160,belem do sao francisco
+0.5181,260170,belo jardim
+0.553,260180,betania
+0.536,260190,bezerros
+0.5523,260200,bodoco
+0.6288,260210,bom conselho
+0.4957,260220,bom jardim
+0.5673,260230,bonito
+0.4924,260240,brejao
+0.4978,260250,brejinho
+0.4796,260260,brejo da madre de deus
+0.4576,260270,buenos aires
+0.5787,260280,buique
+0.5586,260290,cabo de santo agostinho
+0.5944,260300,cabrobo
+0.4989,260310,cachoeirinha
+0.6031,260320,caetes
+0.537,260330,calcado
+0.5433,260340,calumbi
+0.532,260345,camaragibe
+0.5351,260350,camocim de sao felix
+0.4872,260360,camutanga
+0.5374,260370,canhotinho
+0.5067,260380,capoeiras
+0.539,260390,carnaiba
+0.566,260392,carnaubeira da penha
+0.521,260400,carpina
+0.5422,260410,caruaru
+0.4535,260415,casinhas
+0.5552,260420,catende
+0.5618,260430,cedro
+0.463,260440,cha de alegria
+0.5582,260450,cha grande
+0.5405,260460,condado
+0.5266,260470,correntes
+0.4822,260480,cortes
+0.5049,260490,cumaru
+0.5069,260500,cupira
+0.5359,260510,custodia
+0.4708,260515,dormentes
+0.4729,260520,escada
+0.5728,260530,exu
+0.4905,260540,feira nova
+0.4605,260545,fernando de noronha
+0.5106,260550,ferreiros
+0.5172,260560,flores
+0.5244,260570,floresta
+0.4807,260580,frei miguelinho
+0.4828,260590,gameleira
+0.599,260600,garanhuns
+0.5287,260610,gloria do goita
+0.5569,260620,goiana
+0.5438,260630,granito
+0.5403,260640,gravata
+0.5607,260650,iati
+0.523,260660,ibimirim
+0.4756,260670,ibirajuba
+0.4988,260680,igarassu
+0.549,260690,iguaraci
+0.6125,260760,ilha de itamaraca
+0.6093,260700,inaja
+0.5324,260710,ingazeira
+0.5213,260720,ipojuca
+0.5308,260730,ipubi
+0.4693,260740,itacuruba
+0.5217,260750,itaiba
+0.534,260765,itambe
+0.5593,260770,itapetim
+0.5574,260775,itapissuma
+0.4628,260780,itaquitinga
+0.5961,260790,jaboatao dos guararapes
+0.5894,260795,jaqueira
+0.4966,260800,jatauba
+0.58,260805,jatoba
+0.5035,260810,joao alfredo
+0.501,260820,joaquim nabuco
+0.5123,260825,jucati
+0.5052,260830,jupi
+0.5139,260840,jurema
+0.4681,260850,lagoa de itaenga
+0.455,260845,lagoa do carro
+0.5188,260860,lagoa do ouro
+0.5057,260870,lagoa dos gatos
+0.5267,260875,lagoa grande
+0.5094,260880,lajedo
+0.5282,260890,limoeiro
+0.5139,260900,macaparana
+0.5063,260910,machados
+0.5438,260915,manari
+0.5489,260920,maraial
+0.5992,260930,mirandiba
+0.542,261430,moreilandia
+0.5259,260940,moreno
+0.5107,260950,nazare da mata
+0.5678,260960,olinda
+0.5315,260970,orobo
+0.5195,260980,oroco
+0.6209,260990,ouricuri
+0.5175,261000,palmares
+0.5336,261010,palmeirina
+0.5724,261020,panelas
+0.5504,261030,paranatama
+0.5926,261040,parnamirim
+0.5137,261050,passira
+0.5755,261060,paudalho
+0.5047,261070,paulista
+0.5464,261080,pedra
+0.5734,261090,pesqueira
+0.5686,261100,petrolandia
+0.6253,261110,petrolina
+0.5495,261120,pocao
+0.4945,261130,pombos
+0.4505,261140,primavera
+0.4877,261150,quipapa
+0.4924,261153,quixaba
+0.6894,261160,recife
+0.516,261170,riacho das almas
+0.5205,261180,ribeirao
+0.4512,261190,rio formoso
+0.4626,261200,saire
+0.5265,261210,salgadinho
+0.6006,261220,salgueiro
+0.5614,261230,saloa
+0.5168,261240,sanharo
+0.5686,261245,santa cruz
+0.508,261247,santa cruz da baixa verde
+0.4661,261250,santa cruz do capibaribe
+0.5491,261255,santa filomena
+0.554,261260,santa maria da boa vista
+0.4668,261270,santa maria do cambuca
+0.5206,261280,santa terezinha
+0.5283,261290,sao benedito do sul
+0.6094,261300,sao bento do una
+0.5075,261310,sao caitano
+0.5734,261320,sao joao
+0.5461,261330,sao joaquim do monte
+0.5846,261340,sao jose da coroa grande
+0.5502,261350,sao jose do belmonte
+0.5428,261360,sao jose do egito
+0.5173,261370,sao lourenco da mata
+0.5566,261380,sao vicente ferrer
+0.5714,261390,serra talhada
+0.5668,261400,serrita
+0.6111,261410,sertania
+0.4578,261420,sirinhaem
+0.5675,261440,solidao
+0.5362,261450,surubim
+0.5214,261460,tabira
+0.5151,261470,tacaimbo
+0.4977,261480,tacaratu
+0.5576,261485,tamandare
+0.4213,261500,taquaritinga do norte
+0.5377,261510,terezinha
+0.4996,261520,terra nova
+0.5154,261530,timbauba
+0.4464,261540,toritama
+0.4542,261550,tracunhaem
+0.5784,261560,trindade
+0.5645,261570,triunfo
+0.621,261580,tupanatinga
+0.4688,261590,tuparetama
+0.5274,261600,venturosa
+0.5493,261610,verdejante
+0.4512,261618,vertente do lerio
+0.4645,261620,vertentes
+0.5108,261630,vicencia
+0.5537,261640,vitoria de santo antao
+0.4999,261650,xexeu
+0.5667,270010,agua branca
+0.5381,270020,anadia
+0.5589,270030,arapiraca
+0.5172,270040,atalaia
+0.5362,270050,barra de santo antonio
+0.5576,270060,barra de sao miguel
+0.4951,270070,batalha
+0.5609,270080,belem
+0.6614,270090,belo monte
+0.5251,270100,boca da mata
+0.4304,270110,branquinha
+0.5954,270120,cacimbinhas
+0.5038,270130,cajueiro
+0.4785,270135,campestre
+0.4882,270140,campo alegre
+0.5815,270150,campo grande
+0.6032,270160,canapi
+0.5017,270170,capela
+0.5463,270180,carneiros
+0.522,270190,cha preta
+0.5216,270200,coite do noia
+0.5406,270210,colonia leopoldina
+0.5025,270220,coqueiro seco
+0.5408,270230,coruripe
+0.5318,270235,craibas
+0.538,270240,delmiro gouveia
+0.5548,270250,dois riachos
+0.5124,270255,estrela de alagoas
+0.5351,270260,feira grande
+0.5,270270,feliz deserto
+0.4796,270280,flexeiras
+0.5873,270290,girau do ponciano
+0.5345,270300,ibateguara
+0.5725,270310,igaci
+0.663,270320,igreja nova
+0.6782,270330,inhapi
+0.5015,270340,jacare dos homens
+0.47,270350,jacuipe
+0.5178,270360,japaratinga
+0.4854,270370,jaramataia
+0.4746,270375,jequia da praia
+0.506,270380,joaquim gomes
+0.5381,270390,jundia
+0.5691,270400,junqueiro
+0.5269,270410,lagoa da canoa
+0.564,270420,limoeiro de anadia
+0.6378,270430,maceio
+0.549,270440,major isidoro
+0.4801,270490,mar vermelho
+0.5385,270450,maragogi
+0.5798,270460,maravilha
+0.6112,270470,marechal deodoro
+0.4927,270480,maribondo
+0.5747,270500,mata grande
+0.4809,270510,matriz de camaragibe
+0.5022,270520,messias
+0.5411,270530,minador do negrao
+0.4931,270540,monteiropolis
+0.4894,270550,murici
+0.5525,270560,novo lino
+0.5576,270570,"olho d""""agua das flores"
+0.5503,270580,"olho d""""agua do casado"
+0.592,270590,"olho d""""agua grande"
+0.5611,270600,olivenca
+0.5564,270610,ouro branco
+0.604,270620,palestina
+0.5745,270630,palmeira dos indios
+0.5714,270640,pao de acucar
+0.5042,270642,pariconha
+0.5398,270644,paripueira
+0.4939,270650,passo de camaragibe
+0.5291,270660,paulo jacinto
+0.5658,270670,penedo
+0.5334,270680,piacabucu
+0.5349,270690,pilar
+0.5868,270700,pindoba
+0.6126,270710,piranhas
+0.6395,270720,poco das trincheiras
+0.4872,270730,porto calvo
+0.5372,270740,porto de pedras
+0.6208,270750,porto real do colegio
+0.5358,270760,quebrangulo
+0.4988,270770,rio largo
+0.4703,270780,roteiro
+0.4928,270790,santa luzia do norte
+0.6244,270800,santana do ipanema
+0.5044,270810,santana do mundau
+0.6251,270820,sao bras
+0.4915,270830,sao jose da laje
+0.581,270840,sao jose da tapera
+0.506,270850,sao luis do quitunde
+0.5254,270860,sao miguel dos campos
+0.4896,270870,sao miguel dos milagres
+0.5522,270880,sao sebastiao
+0.5312,270890,satuba
+0.5498,270895,senador rui palmeira
+0.5067,270900,"tanque d""""arca"
+0.5169,270910,taquarana
+0.5223,270915,teotonio vilela
+0.6452,270920,traipu
+0.5469,270930,uniao dos palmares
+0.6128,270940,vicosa
+0.5102,280010,amparo de sao francisco
+0.5542,280020,aquidaba
+0.6341,280030,aracaju
+0.5104,280040,araua
+0.4841,280050,areia branca
+0.6002,280060,barra dos coqueiros
+0.5081,280067,boquim
+0.52,280070,brejo grande
+0.5433,280100,campo do brito
+0.5254,280110,canhoba
+0.5584,280120,caninde de sao francisco
+0.5563,280130,capela
+0.4961,280140,carira
+0.5589,280150,carmopolis
+0.5338,280160,cedro de sao joao
+0.5002,280170,cristinapolis
+0.4877,280190,cumbe
+0.3997,280200,divina pastora
+0.5383,280210,estancia
+0.485,280220,feira nova
+0.4907,280230,frei paulo
+0.6244,280240,gararu
+0.5612,280250,general maynard
+0.5784,280260,gracho cardoso
+0.5833,280270,ilha das flores
+0.5328,280280,indiaroba
+0.5312,280290,itabaiana
+0.5091,280300,itabaianinha
+0.4814,280310,itabi
+0.5081,280320,"itaporanga d""""ajuda"
+0.5114,280330,japaratuba
+0.4979,280340,japoata
+0.5069,280350,lagarto
+0.5351,280360,laranjeiras
+0.4323,280370,macambira
+0.4686,280380,malhada dos bois
+0.4563,280390,malhador
+0.4994,280400,maruim
+0.4443,280410,moita bonita
+0.5692,280420,monte alegre de sergipe
+0.4923,280430,muribeca
+0.5692,280440,neopolis
+0.5539,280445,nossa senhora aparecida
+0.528,280450,nossa senhora da gloria
+0.5211,280460,nossa senhora das dores
+0.5,280470,nossa senhora de lourdes
+0.498,280480,nossa senhora do socorro
+0.5862,280490,pacatuba
+0.5372,280500,pedra mole
+0.5223,280510,pedrinhas
+0.4268,280520,pinhao
+0.5428,280530,pirambu
+0.6019,280540,poco redondo
+0.5172,280550,poco verde
+0.5727,280560,porto da folha
+0.5529,280570,propria
+0.4864,280580,riachao do dantas
+0.5069,280590,riachuelo
+0.459,280600,ribeiropolis
+0.5148,280610,rosario do catete
+0.5115,280620,salgado
+0.5354,280630,santa luzia do itanhy
+0.4698,280650,santa rosa de lima
+0.4846,280640,santana do sao francisco
+0.5832,280660,santo amaro das brotas
+0.4816,280670,sao cristovao
+0.414,280680,sao domingos
+0.4901,280690,sao francisco
+0.4888,280700,sao miguel do aleixo
+0.5013,280710,simao dias
+0.479,280720,siriri
+0.5007,280730,telha
+0.5527,280740,tobias barreto
+0.4755,280750,tomar do geru
+0.4664,280760,umbauba
+0.4742,290010,abaira
+0.5621,290020,abare
+0.5791,290030,acajutiba
+0.5478,290035,adustina
+0.5376,290040,agua fria
+0.4393,290060,aiquara
+0.5738,290070,alagoinhas
+0.5345,290080,alcobaca
+0.4766,290090,almadina
+0.5679,290100,amargosa
+0.4998,290110,amelia rodrigues
+0.5049,290115,america dourada
+0.4841,290120,anage
+0.6017,290130,andarai
+0.5588,290135,andorinha
+0.5648,290140,angical
+0.4868,290150,anguera
+0.562,290160,antas
+0.4583,290170,antonio cardoso
+0.5157,290180,antonio goncalves
+0.5662,290190,apora
+0.4661,290195,apuarema
+0.5437,290205,aracas
+0.4473,290200,aracatu
+0.5667,290210,araci
+0.5253,290220,aramari
+0.4706,290225,arataca
+0.529,290230,aratuipe
+0.4588,290240,aurelino leal
+0.5789,290250,baianopolis
+0.5444,290260,baixa grande
+0.4716,290265,banzae
+0.5997,290270,barra
+0.5456,290280,barra da estiva
+0.4452,290290,barra do choca
+0.5775,290300,barra do mendes
+0.5184,290310,barra do rocha
+0.5704,290320,barreiras
+0.5125,290323,barro alto
+0.4917,290330,barro preto
+0.4672,290327,barrocas
+0.4979,290340,belmonte
+0.4972,290350,belo campo
+0.561,290360,biritinga
+0.52,290370,boa nova
+0.5627,290380,boa vista do tupim
+0.6048,290390,bom jesus da lapa
+0.528,290395,bom jesus da serra
+0.5575,290400,boninal
+0.5058,290405,bonito
+0.5357,290410,boquira
+0.5334,290420,botupora
+0.5181,290430,brejoes
+0.5648,290440,brejolandia
+0.5699,290450,brotas de macaubas
+0.5226,290460,brumado
+0.576,290470,buerarema
+0.5531,290475,buritirama
+0.4059,290480,caatiba
+0.5455,290485,cabaceiras do paraguacu
+0.5729,290490,cachoeira
+0.4835,290500,cacule
+0.5501,290510,caem
+0.5028,290515,caetanos
+0.5993,290520,caetite
+0.5578,290530,cafarnaum
+0.5474,290540,cairu
+0.5602,290550,caldeirao grande
+0.6244,290560,camacan
+0.5458,290570,camacari
+0.5484,290580,camamu
+0.6078,290590,campo alegre de lourdes
+0.5713,290600,campo formoso
+0.4979,290610,canapolis
+0.4888,290620,canarana
+0.5197,290630,canavieiras
+0.442,290640,candeal
+0.512,290650,candeias
+0.4461,290660,candiba
+0.5108,290670,candido sales
+0.5733,290680,cansancao
+0.5381,290682,canudos
+0.4977,290685,capela do alto alegre
+0.5493,290687,capim grosso
+0.493,290689,caraibas
+0.5873,290690,caravelas
+0.5472,290700,cardeal da silva
+0.5172,290710,carinhanha
+0.5483,290720,casa nova
+0.5494,290730,castro alves
+0.5217,290740,catolandia
+0.5796,290750,catu
+0.5038,290755,caturama
+0.5427,290760,central
+0.5811,290770,chorrocho
+0.5391,290780,cicero dantas
+0.5475,290790,cipo
+0.5638,290800,coaraci
+0.5638,290810,cocos
+0.5738,290820,conceicao da feira
+0.5833,290830,conceicao do almeida
+0.4946,290840,conceicao do coite
+0.4847,290850,conceicao do jacuipe
+0.6363,290860,conde
+0.4975,290870,condeuba
+0.5144,290880,contendas do sincora
+0.5293,290890,coracao de maria
+0.4558,290900,cordeiros
+0.5877,290910,coribe
+0.4883,290920,coronel joao sa
+0.5885,290930,correntina
+0.5599,290940,cotegipe
+0.5316,290950,cravolandia
+0.5831,290960,crisopolis
+0.5457,290970,cristopolis
+0.5734,290980,cruz das almas
+0.5279,290990,curaca
+0.5578,291000,dario meira
+0.5337,291005,"dias d""""avila"
+0.4588,291010,dom basilio
+0.5609,291020,dom macedo costa
+0.507,291030,elisio medrado
+0.5122,291040,encruzilhada
+0.6249,291050,entre rios
+0.4916,290050,erico cardoso
+0.59,291060,esplanada
+0.5559,291070,euclides da cunha
+0.5877,291072,eunapolis
+0.5294,291075,fatima
+0.5467,291077,feira da mata
+0.6079,291080,feira de santana
+0.5754,291085,filadelfia
+0.4375,291090,firmino alves
+0.4667,291100,floresta azul
+0.6136,291110,formosa do rio preto
+0.5989,291120,gandu
+0.411,291125,gaviao
+0.525,291130,gentio do ouro
+0.5254,291140,gloria
+0.4781,291150,gongogi
+0.5445,291160,governador mangabeira
+0.4602,291165,guajeru
+0.5581,291170,guanambi
+0.5385,291180,guaratinga
+0.5081,291185,heliopolis
+0.6282,291190,iacu
+0.4687,291200,ibiassuce
+0.5483,291210,ibicarai
+0.4907,291220,ibicoara
+0.5103,291230,ibicui
+0.57,291240,ibipeba
+0.5761,291250,ibipitanga
+0.6049,291260,ibiquera
+0.5296,291270,ibirapitanga
+0.513,291280,ibirapua
+0.4989,291290,ibirataia
+0.554,291300,ibitiara
+0.5081,291310,ibitita
+0.5581,291320,ibotirama
+0.4725,291330,ichu
+0.4966,291340,igapora
+0.5481,291345,igrapiuna
+0.5641,291350,iguai
+0.5875,291360,ilheus
+0.537,291370,inhambupe
+0.5312,291380,ipecaeta
+0.6996,291390,ipiau
+0.5294,291400,ipira
+0.5052,291410,ipupiara
+0.5236,291420,irajuba
+0.5048,291430,iramaia
+0.6175,291440,iraquara
+0.4993,291450,irara
+0.5995,291460,irece
+0.5681,291465,itabela
+0.5905,291470,itaberaba
+0.5745,291480,itabuna
+0.5545,291490,itacare
+0.549,291500,itaete
+0.4783,291510,itagi
+0.4955,291520,itagiba
+0.5277,291530,itagimirim
+0.5369,291535,itaguacu da bahia
+0.4825,291540,itaju do colonia
+0.5008,291550,itajuipe
+0.558,291560,itamaraju
+0.5232,291570,itamari
+0.4135,291580,itambe
+0.6354,291590,itanagra
+0.5424,291600,itanhem
+0.6035,291610,itaparica
+0.4792,291620,itape
+0.4964,291630,itapebi
+0.4962,291640,itapetinga
+0.54990000000000006,291650,itapicuru
+0.4443,291660,itapitanga
+0.5708,291670,itaquara
+0.5181,291680,itarantim
+0.4709,291685,itatim
+0.5039,291690,itirucu
+0.5698,291700,itiuba
+0.4639,291710,itororo
+0.5274,291720,ituacu
+0.5114,291730,itubera
+0.4716,291733,iuiu
+0.6354,291735,jaborandi
+0.4762,291740,jacaraci
+0.5537,291750,jacobina
+0.5143,291760,jaguaquara
+0.6748,291770,jaguarari
+0.5592,291780,jaguaripe
+0.5472,291790,jandaira
+0.5659,291800,jequie
+0.536,291810,jeremoabo
+0.5046,291820,jiquirica
+0.5129,291830,jitauna
+0.5384,291835,joao dourado
+0.5723,291840,juazeiro
+0.561,291845,jucurucu
+0.5237,291850,jussara
+0.5263,291855,jussari
+0.4587,291860,jussiape
+0.5143,291870,lafaiete coutinho
+0.4853,291875,lagoa real
+0.5141,291880,laje
+0.5853,291890,lajedao
+0.5671,291900,lajedinho
+0.4713,291905,lajedo do tabocal
+0.5027,291910,lamarao
+0.5264,291915,lapao
+0.6519,291920,lauro de freitas
+0.615,291930,lencois
+0.4544,291940,licinio de almeida
+0.5378,291950,livramento de nossa senhora
+0.6337,291955,luis eduardo magalhaes
+0.5639,291960,macajuba
+0.4713,291970,macarani
+0.5604,291980,macaubas
+0.5467,291990,macurure
+0.5631,291992,madre de deus
+0.4607,291995,maetinga
+0.4703,292000,maiquinique
+0.5096,292010,mairi
+0.4913,292020,malhada
+0.4843,292030,malhada de pedras
+0.5144,292040,manoel vitorino
+0.5504,292045,mansidao
+0.5178,292050,maracas
+0.5741,292060,maragogipe
+0.713,292070,marau
+0.5113,292080,marcionilio souza
+0.6026,292090,mascote
+0.5866,292100,mata de sao joao
+0.4528,292105,matina
+0.5434,292110,medeiros neto
+0.548,292120,miguel calmon
+0.525,292130,milagres
+0.5183,292140,mirangaba
+0.5217,292145,mirante
+0.5517,292150,monte santo
+0.5557,292160,morpara
+0.5165,292170,morro do chapeu
+0.4789,292180,mortugaba
+0.5315,292190,mucuge
+0.5969,292200,mucuri
+0.4952,292205,mulungu do morro
+0.6585,292210,mundo novo
+0.5203,292220,muniz ferreira
+0.5495,292225,muquem de sao francisco
+0.5618,292230,muritiba
+0.6423,292240,mutuipe
+0.6105,292250,nazare
+0.553,292260,nilo pecanha
+0.5416,292265,nordestina
+0.481,292270,nova canaa
+0.4432,292273,nova fatima
+0.5635,292275,nova ibia
+0.5603,292280,nova itarana
+0.5095,292285,nova redencao
+0.5786,292290,nova soure
+0.623,292300,nova vicosa
+0.5762,292303,novo horizonte
+0.5197,292305,novo triunfo
+0.5967,292310,olindina
+0.5726,292320,oliveira dos brejinhos
+0.4552,292330,ouricangas
+0.5336,292335,ourolandia
+0.4936,292340,palmas de monte alto
+0.5834,292350,palmeiras
+0.5134,292360,paramirim
+0.5547,292370,paratinga
+0.5911,292380,paripiranga
+0.5675,292390,pau brasil
+0.5885,292400,paulo afonso
+0.4624,292405,pe de serra
+0.4753,292410,pedrao
+0.5125,292420,pedro alexandre
+0.5569,292430,piata
+0.6016,292440,pilao arcado
+0.4513,292450,pindai
+0.5145,292460,pindobacu
+0.4733,292465,pintadas
+0.4941,292467,pirai do norte
+0.4957,292470,piripa
+0.5264,292480,piritiba
+0.5631,292490,planaltino
+0.4634,292500,planalto
+0.5527,292510,pocoes
+0.525,292520,pojuca
+0.5077,292525,ponto novo
+0.5693,292530,porto seguro
+0.4947,292540,potiragua
+0.5607,292550,prado
+0.5526,292560,presidente dutra
+0.5548,292570,presidente janio quadros
+0.5517,292575,presidente tancredo neves
+0.5201,292580,queimadas
+0.5833,292590,quijingue
+0.5053,292593,quixabeira
+0.5031,292595,rafael jambeiro
+0.5465,292600,remanso
+0.4753,292610,retirolandia
+0.5434,292620,riachao das neves
+0.4807,292630,riachao do jacuipe
+0.5625,292640,riacho de santana
+0.5355,292650,ribeira do amparo
+0.5438,292660,ribeira do pombal
+0.4718,292665,ribeirao do largo
+0.493,292670,rio de contas
+0.495,292680,rio do antonio
+0.4881,292690,rio do pires
+0.5379,292700,rio real
+0.5558,292710,rodelas
+0.5634,292720,ruy barbosa
+0.5468,292730,salinas da margarida
+0.6449,292740,salvador
+0.5347,292750,santa barbara
+0.5546,292760,santa brigida
+0.5875,292770,santa cruz cabralia
+0.5819,292780,santa cruz da vitoria
+0.4921,292790,santa ines
+0.4639,292805,santa luzia
+0.5475,292810,santa maria da vitoria
+0.6061,292840,santa rita de cassia
+0.5424,292850,santa teresinha
+0.4999,292800,santaluz
+0.5518,292820,santana
+0.5256,292830,santanopolis
+0.569,292860,santo amaro
+0.5498,292870,santo antonio de jesus
+0.5755,292880,santo estevao
+0.5753,292890,sao desiderio
+0.4729,292895,sao domingos
+0.5101,292910,sao felipe
+0.4921,292900,sao felix
+0.5058,292905,sao felix do coribe
+0.5198,292920,sao francisco do conde
+0.5181,292925,sao gabriel
+0.5681,292930,sao goncalo dos campos
+0.4606,292935,sao jose da vitoria
+0.4664,292937,sao jose do jacuipe
+0.5213,292940,sao miguel das matas
+0.5464,292950,sao sebastiao do passe
+0.5905,292960,sapeacu
+0.5448,292970,satiro dias
+0.5005,292975,saubara
+0.5525,292980,saude
+0.5803,292990,seabra
+0.4635,293000,sebastiao laranjeiras
+0.5833,293010,senhor do bonfim
+0.5343,293020,sento se
+0.5467,293015,serra do ramalho
+0.5143,293030,serra dourada
+0.4887,293040,serra preta
+0.5612,293050,serrinha
+0.5098,293060,serrolandia
+0.5258,293070,simoes filho
+0.5956,293075,sitio do mato
+0.5568,293076,sitio do quinto
+0.516,293077,sobradinho
+0.5438,293080,souto soares
+0.541,293090,tabocas do brejo velho
+0.5083,293100,tanhacu
+0.5997,293105,tanque novo
+0.4854,293110,tanquinho
+0.535,293120,taperoa
+0.6191,293130,tapiramuta
+0.5408,293135,teixeira de freitas
+0.5642,293140,teodoro sampaio
+0.5475,293150,teofilandia
+0.4859,293160,teolandia
+0.4576,293170,terra nova
+0.4865,293180,tremedal
+0.6614,293190,tucano
+0.5777,293200,uaua
+0.5831,293210,ubaira
+0.5619,293220,ubaitaba
+0.5356,293230,ubata
+0.5371,293240,uibai
+0.5074,293245,umburanas
+0.5178,293250,una
+0.5126,293260,urandi
+0.4949,293270,urucuca
+0.6253,293280,utinga
+0.5539,293290,valenca
+0.4983,293300,valente
+0.4997,293305,varzea da roca
+0.5129,293310,varzea do poco
+0.4993,293315,varzea nova
+0.5237,293317,varzedo
+0.5787,293320,vera cruz
+0.4729,293325,vereda
+0.5588,293330,vitoria da conquista
+0.5262,293340,wagner
+0.5993,293345,wanderley
+0.452,293350,wenceslau guimaraes
+0.5678,293360,xique-xique
+0.4738,310010,abadia dos dourados
+0.551,310020,abaete
+0.5225,310030,abre campo
+0.4821,310040,acaiaca
+0.4955,310050,acucena
+0.5018,310060,agua boa
+0.4474,310070,agua comprida
+0.4662,310080,aguanil
+0.5774,310090,aguas formosas
+0.5209,310100,aguas vermelhas
+0.5328,310110,aimores
+0.4888,310120,aiuruoca
+0.4212,310130,alagoa
+0.3474,310140,albertina
+0.5013,310150,alem paraiba
+0.5143,310160,alfenas
+0.4113,310163,alfredo vasconcelos
+0.5409,310170,almenara
+0.4758,310180,alpercata
+0.47,310190,alpinopolis
+0.4527,310200,alterosa
+0.4568,310205,alto caparao
+0.5113,315350,alto jequitiba
+0.4683,310210,alto rio doce
+0.5258,310220,alvarenga
+0.4631,310230,alvinopolis
+0.6221,310240,alvorada de minas
+0.4617,310250,amparo do serra
+0.4464,310260,andradas
+0.5153,310280,andrelandia
+0.5286,310285,angelandia
+0.4795,310290,antonio carlos
+0.4887,310300,antonio dias
+0.4705,310310,antonio prado de minas
+0.4315,310320,aracai
+0.4429,310330,aracitaba
+0.5748,310340,aracuai
+0.4786,310350,araguari
+0.4232,310360,arantina
+0.4418,310370,araponga
+0.4183,310375,arapora
+0.4573,310380,arapua
+0.361,310390,araujos
+0.4844,310400,araxa
+0.3794,310410,arceburgo
+0.4372,310420,arcos
+0.4518,310430,areado
+0.3892,310440,argirita
+0.5045,310445,aricanduva
+0.5531,310450,arinos
+0.4175,310460,astolfo dutra
+0.492,310470,ataleia
+0.4268,310480,augusto de lima
+0.5054,310490,baependi
+0.4635,310500,baldim
+0.4924,310510,bambui
+0.46,310520,bandeira
+0.3364,310530,bandeira do sul
+0.4317,310540,barao de cocais
+0.5039,310550,barao de monte alto
+0.5962,310560,barbacena
+0.4878,310570,barra longa
+0.4946,310590,barroso
+0.4125,310600,bela vista de minas
+0.4543,310610,belmiro braga
+0.6106,310620,belo horizonte
+0.4383,310630,belo oriente
+0.4699,310640,belo vale
+0.4606,310650,berilo
+0.4253,310665,berizal
+0.5442,310660,bertopolis
+0.484,310670,betim
+0.4184,310680,bias fortes
+0.5489,310690,bicas
+0.4126,310700,biquinhas
+0.4811,310710,boa esperanca
+0.4404,310720,bocaina de minas
+0.5168,310730,bocaiuva
+0.4933,310740,bom despacho
+0.4719,310750,bom jardim de minas
+0.4282,310760,bom jesus da penha
+0.4577,310770,bom jesus do amparo
+0.5047,310780,bom jesus do galho
+0.4503,310790,bom repouso
+0.4995,310800,bom sucesso
+0.4988,310810,bonfim
+0.4784,310820,bonfinopolis de minas
+0.5708,310825,bonito de minas
+0.4633,310830,borda da mata
+0.4707,310840,botelhos
+0.4629,310850,botumirim
+0.4487,310870,bras pires
+0.4433,310855,brasilandia de minas
+0.5418,310860,brasilia de minas
+0.5416,310890,brasopolis
+0.5589,310880,braunas
+0.572,310900,brumadinho
+0.4456,310910,bueno brandao
+0.4991,310920,buenopolis
+0.4376,310925,bugre
+0.572,310930,buritis
+0.4269,310940,buritizeiro
+0.4826,310945,cabeceira grande
+0.4505,310950,cabo verde
+0.4355,310960,cachoeira da prata
+0.4677,310970,cachoeira de minas
+0.523,310270,cachoeira de pajeu
+0.3546,310980,cachoeira dourada
+0.4259,310990,caetanopolis
+0.4649,311000,caete
+0.421,311010,caiana
+0.4354,311020,cajuri
+0.4926,311030,caldas
+0.4607,311040,camacho
+0.5103,311050,camanducaia
+0.4685,311060,cambui
+0.5066,311070,cambuquira
+0.4514,311080,campanario
+0.5086,311090,campanha
+0.5248,311100,campestre
+0.5055,311110,campina verde
+0.4836,311115,campo azul
+0.4752,311120,campo belo
+0.422,311130,campo do meio
+0.5251,311140,campo florido
+0.4052,311150,campos altos
+0.4514,311160,campos gerais
+0.4336,311190,cana verde
+0.5035,311170,canaa
+0.5062,311180,canapolis
+0.4831,311200,candeias
+0.4204,311205,cantagalo
+0.4431,311210,caparao
+0.4462,311220,capela nova
+0.5335,311230,capelinha
+0.4324,311240,capetinga
+0.4063,311250,capim branco
+0.5936,311260,capinopolis
+0.5145,311265,capitao andrade
+0.4724,311270,capitao eneas
+0.4049,311280,capitolio
+0.5718,311290,caputira
+0.5365,311300,carai
+0.4423,311310,caranaiba
+0.4786,311320,carandai
+0.4904,311330,carangola
+0.5466,311340,caratinga
+0.4701,311350,carbonita
+0.4077,311360,careacu
+0.5448,311370,carlos chagas
+0.481,311380,carmesia
+0.4575,311390,carmo da cachoeira
+0.4043,311400,carmo da mata
+0.4798,311410,carmo de minas
+0.4463,311420,carmo do cajuru
+0.5113,311430,carmo do paranaiba
+0.5201,311440,carmo do rio claro
+0.4635,311450,carmopolis de minas
+0.5397,311455,carneirinho
+0.5429,311460,carrancas
+0.4319,311470,carvalhopolis
+0.531,311480,carvalhos
+0.4035,311490,casa grande
+0.4935,311500,cascalho rico
+0.4825,311510,cassia
+0.512,311530,cataguases
+0.392,311535,catas altas
+0.4437,311540,catas altas da noruega
+0.5546,311545,catuji
+0.5054,311547,catuti
+0.6667,311550,caxambu
+0.4093,311560,cedro do abaete
+0.6067,311570,central de minas
+0.4041,311580,centralina
+0.4403,311590,chacara
+0.4573,311600,chale
+0.4734,311610,chapada do norte
+0.5108,311615,chapada gaucha
+0.6223,311620,chiador
+0.506,311630,cipotanea
+0.4299,311640,claraval
+0.4279,311650,claro dos pocoes
+0.4053,311660,claudio
+0.4543,311670,coimbra
+0.5078,311680,coluna
+0.451,311690,comendador gomes
+0.494,311700,comercinho
+0.4584,311710,conceicao da aparecida
+0.4992,311520,conceicao da barra de minas
+0.5263,311730,conceicao das alagoas
+0.4869,311720,conceicao das pedras
+0.5422,311740,conceicao de ipanema
+0.4975,311750,conceicao do mato dentro
+0.4235,311760,conceicao do para
+0.5307,311770,conceicao do rio verde
+0.3894,311780,conceicao dos ouros
+0.5294,311783,conego marinho
+0.4546,311787,confins
+0.4576,311790,congonhal
+0.5052,311800,congonhas
+0.499,311810,congonhas do norte
+0.4478,311820,conquista
+0.4988,311830,conselheiro lafaiete
+0.5175,311840,conselheiro pena
+0.3731,311850,consolacao
+0.4953,311860,contagem
+0.4901,311870,coqueiral
+0.4975,311880,coracao de jesus
+0.4606,311890,cordisburgo
+0.4573,311900,cordislandia
+0.5454,311910,corinto
+0.5062,311920,coroaci
+0.513,311930,coromandel
+0.4983,311940,coronel fabriciano
+0.4929,311950,coronel murta
+0.4238,311960,coronel pacheco
+0.5335,311970,coronel xavier chaves
+0.4815,311980,corrego danta
+0.3851,311990,corrego do bom jesus
+0.3288,311995,corrego fundo
+0.4347,312000,corrego novo
+0.4684,312010,couto de magalhaes de minas
+0.5154,312015,crisolita
+0.5835,312020,cristais
+0.5239,312030,cristalia
+0.4465,312040,cristiano otoni
+0.4427,312050,cristina
+0.4349,312060,crucilandia
+0.5939,312070,cruzeiro da fortaleza
+0.4966,312080,cruzilia
+0.4842,312083,cuparaque
+0.5476,312087,curral de dentro
+0.5213,312090,curvelo
+0.4228,312100,datas
+0.4534,312110,delfim moreira
+0.4757,312120,delfinopolis
+0.4117,312125,delta
+0.4591,312130,descoberto
+0.4177,312140,desterro de entre rios
+0.4617,312150,desterro do melo
+0.5713,312160,diamantina
+0.5082,312170,diogo de vasconcelos
+0.4582,312180,dionisio
+0.4026,312190,divinesia
+0.5418,312200,divino
+0.4505,312210,divino das laranjeiras
+0.4433,312220,divinolandia de minas
+0.4797,312230,divinopolis
+0.5048,312235,divisa alegre
+0.3952,312240,divisa nova
+0.4569,312245,divisopolis
+0.4267,312247,dom bosco
+0.4487,312250,dom cavati
+0.5453,312260,dom joaquim
+0.4177,312270,dom silverio
+0.4153,312280,dom vicoso
+0.4163,312290,dona eusebia
+0.3997,312300,dores de campos
+0.4926,312310,dores de guanhaes
+0.471,312320,dores do indaia
+0.4669,312330,dores do turvo
+0.3953,312340,doresopolis
+0.493,312350,douradoquara
+0.4343,312352,durande
+0.479,312360,eloi mendes
+0.5006,312370,engenheiro caldas
+0.4304,312380,engenheiro navarro
+0.4803,312385,entre folhas
+0.5007,312390,entre rios de minas
+0.4654,312400,ervalia
+0.4437,312410,esmeraldas
+0.5093,312420,espera feliz
+0.4586,312430,espinosa
+0.3689,312440,espirito santo do dourado
+0.3957,312450,estiva
+0.5966,312460,estrela dalva
+0.4748,312470,estrela do indaia
+0.4473,312480,estrela do sul
+0.4578,312490,eugenopolis
+0.3693,312500,ewbank da camara
+0.4015,312510,extrema
+0.4685,312520,fama
+0.515,312530,faria lemos
+0.4627,312540,felicio dos santos
+0.5288,312560,felisburgo
+0.46,312570,felixlandia
+0.4209,312580,fernandes tourinho
+0.5258,312590,ferros
+0.4825,312595,fervedouro
+0.4861,312600,florestal
+0.49,312610,formiga
+0.5614,312620,formoso
+0.4256,312630,fortaleza de minas
+0.4255,312640,fortuna de minas
+0.4689,312650,francisco badaro
+0.4495,312660,francisco dumont
+0.5353,312670,francisco sa
+0.5096,312675,franciscopolis
+0.4375,312680,frei gaspar
+0.471,312690,frei inocencio
+0.5062,312695,frei lagonegro
+0.4488,312700,fronteira
+0.4609,312705,fronteira dos vales
+0.4796,312707,fruta de leite
+0.483,312710,frutal
+0.4631,312720,funilandia
+0.509,312730,galileia
+0.5062,312733,gameleiras
+0.4418,312735,glaucilandia
+0.4867,312737,goiabeira
+0.4705,312738,goiana
+0.4581,312740,goncalves
+0.513,312750,gonzaga
+0.4554,312760,gouveia
+0.5377,312770,governador valadares
+0.4816,312780,grao mogol
+0.4063,312790,grupiara
+0.5713,312800,guanhaes
+0.3993,312810,guape
+0.4872,312820,guaraciaba
+0.4206,312825,guaraciama
+0.4084,312830,guaranesia
+0.4936,312840,guarani
+0.4165,312850,guarara
+0.5353,312860,guarda-mor
+0.4868,312870,guaxupe
+0.3874,312880,guidoval
+0.485,312890,guimarania
+0.422,312900,guiricema
+0.4896,312910,gurinhata
+0.4136,312920,heliodora
+0.5244,312930,iapu
+0.4322,312940,ibertioga
+0.5166,312950,ibia
+0.5025,312960,ibiai
+0.5129,312965,ibiracatu
+0.4286,312970,ibiraci
+0.4501,312980,ibirite
+0.4059,312990,ibitiura de minas
+0.4244,313000,ibituruna
+0.5059,313005,icarai de minas
+0.4759,313010,igarape
+0.3784,313020,igaratinga
+0.4308,313030,iguatama
+0.4174,313040,ijaci
+0.4,313050,ilicinea
+0.4439,313055,imbe de minas
+0.4915,313060,inconfidentes
+0.484,313065,indaiabira
+0.4079,313070,indianopolis
+0.5229,313080,ingai
+0.533,313090,inhapim
+0.4416,313100,inhauma
+0.4267,313110,inimutaba
+0.4056,313115,ipaba
+0.5237,313120,ipanema
+0.5236,313130,ipatinga
+0.4416,313140,ipiacu
+0.5357,313150,ipuiuna
+0.4839,313160,irai de minas
+0.5212,313170,itabira
+0.4904,313180,itabirinha
+0.4829,313190,itabirito
+0.4992,313200,itacambira
+0.51,313210,itacarambi
+0.4414,313220,itaguara
+0.4875,313230,itaipe
+0.5571,313240,itajuba
+0.5172,313250,itamarandiba
+0.3959,313260,itamarati de minas
+0.5228,313270,itambacuri
+0.4174,313280,itambe do mato dentro
+0.4161,313290,itamogi
+0.4702,313300,itamonte
+0.5114,313310,itanhandu
+0.5689,313320,itanhomi
+0.514,313330,itaobim
+0.4603,313340,itapagipe
+0.454,313350,itapecerica
+0.4851,313360,itapeva
+0.4099,313370,itatiaiucu
+0.5678,313375,itau de minas
+0.4924,313380,itauna
+0.478,313390,itaverava
+0.5079,313400,itinga
+0.5219,313410,itueta
+0.5093,313420,ituiutaba
+0.5362,313430,itumirim
+0.4713,313440,iturama
+0.5592,313450,itutinga
+0.5582,313460,jaboticatubas
+0.4899,313470,jacinto
+0.4124,313480,jacui
+0.4326,313490,jacutinga
+0.4164,313500,jaguaracu
+0.4676,313505,jaiba
+0.4841,313507,jampruca
+0.5405,313510,janauba
+0.5663,313520,januaria
+0.3723,313530,japaraiba
+0.4662,313535,japonvar
+0.481,313540,jeceaba
+0.4589,313545,jenipapo de minas
+0.5044,313550,jequeri
+0.4802,313560,jequitai
+0.7832,313570,jequitiba
+0.5509,313580,jequitinhonha
+0.4862,313590,jesuania
+0.5385,313600,joaima
+0.4999,313610,joanesia
+0.496,313620,joao monlevade
+0.5073,313630,joao pinheiro
+0.5314,313640,joaquim felicio
+0.5163,313650,jordania
+0.4157,313652,jose goncalves de minas
+0.4902,313655,jose raydan
+0.4621,313657,josenopolis
+0.4854,313665,juatuba
+0.5655,313670,juiz de fora
+0.4324,313680,juramento
+0.6452,313690,juruaia
+0.5434,313695,juvenilia
+0.5624,313700,ladainha
+0.5023,313710,lagamar
+0.4607,313720,lagoa da prata
+0.4421,313730,lagoa dos patos
+0.5345,313740,lagoa dourada
+0.5019,313750,lagoa formosa
+0.5023,313753,lagoa grande
+0.5874,313760,lagoa santa
+0.5123,313770,lajinha
+0.4933,313780,lambari
+0.4569,313790,lamim
+0.5139,313800,laranjal
+0.4577,313810,lassance
+0.5103,313820,lavras
+0.4631,313830,leandro ferreira
+0.4129,313835,leme do prado
+0.504,313840,leopoldina
+0.6065,313850,liberdade
+0.5921,313860,lima duarte
+0.4704,313862,limeira do oeste
+0.5135,313865,lontra
+0.52,313867,luisburgo
+0.5867,313868,luislandia
+0.4085,313870,luminarias
+0.503,313880,luz
+0.4852,313890,machacalis
+0.5218,313900,machado
+0.5208,313910,madre de deus de minas
+0.5399,313920,malacacheta
+0.4603,313925,mamonas
+0.6867,313930,manga
+0.5063,313940,manhuacu
+0.4914,313950,manhumirim
+0.5233,313960,mantena
+0.404,313980,mar de espanha
+0.3961,313970,maravilhas
+0.4863,313990,maria da fe
+0.5116,314000,mariana
+0.4673,314010,marilac
+0.4741,314015,mario campos
+0.4235,314020,maripa de minas
+0.4115,314030,marlieria
+0.4586,314040,marmelopolis
+0.4535,314050,martinho campos
+0.4046,314053,martins soares
+0.4761,314055,mata verde
+0.4798,314060,materlandia
+0.5137,314070,mateus leme
+0.5777,317150,mathias lobato
+0.497,314080,matias barbosa
+0.5709,314085,matias cardoso
+0.4889,314090,matipo
+0.4608,314100,mato verde
+0.4415,314110,matozinhos
+0.5982,314120,matutina
+0.4673,314130,medeiros
+0.5871,314140,medina
+0.485,314150,mendes pimentel
+0.589,314160,merces
+0.4773,314170,mesquita
+0.5014,314180,minas novas
+0.4902,314190,minduri
+0.4864,314200,mirabela
+0.5215,314210,miradouro
+0.4561,314220,mirai
+0.4892,314225,miravania
+0.4385,314230,moeda
+0.3857,314240,moema
+0.48,314250,monjolos
+0.4054,314260,monsenhor paulo
+0.5439,314270,montalvania
+0.4905,314280,monte alegre de minas
+0.5191,314290,monte azul
+0.4575,314300,monte belo
+0.4979,314310,monte carmelo
+0.5906,314315,monte formoso
+0.4233,314320,monte santo de minas
+0.4478,314340,monte siao
+0.5391,314330,montes claros
+0.4578,314345,montezuma
+0.4569,314350,morada nova de minas
+0.4732,314360,morro da garca
+0.485,314370,morro do pilar
+0.4901,314380,munhoz
+0.5167,314390,muriae
+0.496,314400,mutum
+0.4675,314410,muzambinho
+0.6059,314420,nacip raydan
+0.5149,314430,nanuque
+0.4389,314435,naque
+0.4083,314437,natalandia
+0.4043,314440,natercia
+0.4796,314450,nazareno
+0.4488,314460,nepomuceno
+0.5275,314465,ninheira
+0.5147,314467,nova belem
+0.474,314470,nova era
+0.6914,314480,nova lima
+0.5078,314490,nova modica
+0.5315,314500,nova ponte
+0.4077,314505,nova porteirinha
+0.4655,314510,nova resende
+0.3606,314520,nova serrana
+0.4223,313660,nova uniao
+0.5383,314530,novo cruzeiro
+0.5621,314535,novo oriente de minas
+0.4386,314537,novorizonte
+0.4222,314540,olaria
+0.4617,314545,"olhos-d""""agua"
+0.4065,314550,olimpio noronha
+0.458,314560,oliveira
+0.4416,314570,oliveira fortes
+0.4376,314580,onca de pitangui
+0.3952,314585,oratorios
+0.5562,314587,orizania
+0.5211,314590,ouro branco
+0.4623,314600,ouro fino
+0.5109,314610,ouro preto
+0.5188,314620,ouro verde de minas
+0.4454,314625,padre carvalho
+0.551,314630,padre paraiso
+0.4678,314655,pai pedro
+0.4626,314640,paineiras
+0.4676,314650,pains
+0.4476,314660,paiva
+0.5087,314670,palma
+0.4627,314675,palmopolis
+0.5014,314690,papagaios
+0.4348,314710,para de minas
+0.5151,314700,paracatu
+0.4196,314720,paraguacu
+0.4727,314730,paraisopolis
+0.4568,314740,paraopeba
+0.4928,314760,passa quatro
+0.4979,314770,passa tempo
+0.4183,314750,passabem
+0.4592,314780,passa-vinte
+0.4978,314790,passos
+0.4725,314795,patis
+0.5078,314800,patos de minas
+0.4991,314810,patrocinio
+0.4936,314820,patrocinio do muriae
+0.4828,314830,paula candido
+0.5212,314840,paulistas
+0.5296,314850,pavao
+0.5304,314860,pecanha
+0.5473,314870,pedra azul
+0.5082,314875,pedra bonita
+0.5486,314880,pedra do anta
+0.417,314890,pedra do indaia
+0.5455,314900,pedra dourada
+0.5591,314910,pedralva
+0.4679,314915,pedras de maria da cruz
+0.4861,314920,pedrinopolis
+0.4761,314930,pedro leopoldo
+0.4185,314940,pedro teixeira
+0.443,314950,pequeri
+0.4329,314960,pequi
+0.3521,314970,perdigao
+0.5539,314980,perdizes
+0.5421,314990,perdoes
+0.4407,314995,periquito
+0.5331,315000,pescador
+0.4228,315010,piau
+0.4673,315015,piedade de caratinga
+0.3874,315020,piedade de ponte nova
+0.4664,315030,piedade do rio grande
+0.4856,315040,piedade dos gerais
+0.4547,315050,pimenta
+0.4411,315053,"pingo-d""""agua"
+0.5477,315057,pintopolis
+0.4425,315060,piracema
+0.5324,315070,pirajuba
+0.5215,315080,piranga
+0.4668,315090,pirangucu
+0.4333,315100,piranguinho
+0.4774,315110,pirapetinga
+0.5515,315120,pirapora
+0.3714,315130,pirauba
+0.4795,315140,pitangui
+0.4741,315150,piumhi
+0.4409,315160,planura
+0.4505,315170,poco fundo
+0.5056,315180,pocos de caldas
+0.4667,315190,pocrane
+0.5352,315200,pompeu
+0.5173,315210,ponte nova
+0.4594,315213,ponto chique
+0.5371,315217,ponto dos volantes
+0.5106,315220,porteirinha
+0.4663,315230,porto firme
+0.4834,315240,pote
+0.4917,315250,pouso alegre
+0.6336,315260,pouso alto
+0.4834,315270,prados
+0.5155,315280,prata
+0.45,315290,pratapolis
+0.5571,315300,pratinha
+0.4652,315310,presidente bernardes
+0.4133,315320,presidente juscelino
+0.4664,315330,presidente kubitschek
+0.4574,315340,presidente olegario
+0.4285,315360,prudente de morais
+0.4738,315370,quartel geral
+0.4657,315380,queluzito
+0.5235,315390,raposos
+0.5153,315400,raul soares
+0.4779,315410,recreio
+0.5262,315415,reduto
+0.4852,315420,resende costa
+0.5531,315430,resplendor
+0.429,315440,ressaquinha
+0.4904,315445,riachinho
+0.4462,315450,riacho dos machados
+0.408,315460,ribeirao das neves
+0.4373,315470,ribeirao vermelho
+0.4747,315480,rio acima
+0.4741,315490,rio casca
+0.5025,315510,rio do prado
+0.4538,315500,rio doce
+0.4858,315520,rio espera
+0.4371,315530,rio manso
+0.478,315540,rio novo
+0.5104,315550,rio paranaiba
+0.532,315560,rio pardo de minas
+0.4661,315570,rio piracicaba
+0.4736,315580,rio pomba
+0.5295,315590,rio preto
+0.5642,315600,rio vermelho
+0.4405,315610,ritapolis
+0.3875,315620,rochedo de minas
+0.4623,315630,rodeiro
+0.5473,315640,romaria
+0.4884,315645,rosario da limeira
+0.5019,315650,rubelita
+0.4906,315660,rubim
+0.4693,315670,sabara
+0.5231,315680,sabinopolis
+0.4481,315690,sacramento
+0.6637,315700,salinas
+0.5327,315710,salto da divisa
+0.4839,315720,santa barbara
+0.4405,315725,santa barbara do leste
+0.5218,315727,santa barbara do monte verde
+0.4207,315730,santa barbara do tugurio
+0.3938,315733,santa cruz de minas
+0.4961,315737,santa cruz de salinas
+0.4597,315740,santa cruz do escalvado
+0.4866,315750,santa efigenia de minas
+0.5377,315760,santa fe de minas
+0.4983,315765,santa helena de minas
+0.4463,315770,santa juliana
+0.4495,315780,santa luzia
+0.6193,315790,santa margarida
+0.4567,315800,santa maria de itabira
+0.4477,315810,santa maria do salto
+0.5459,315820,santa maria do suacui
+0.4322,315920,santa rita de caldas
+0.5147,315940,santa rita de ibitipoca
+0.4763,315930,santa rita de jacutinga
+0.4488,315935,santa rita de minas
+0.45,315950,santa rita do itueto
+0.4942,315960,santa rita do sapucai
+0.4704,315970,santa rosa da serra
+0.4711,315980,santa vitoria
+0.4021,315830,santana da vargem
+0.4122,315840,santana de cataguases
+0.4258,315850,santana de pirapama
+0.4672,315860,santana do deserto
+0.5441,315870,santana do garambeu
+0.4176,315880,santana do jacare
+0.4831,315890,santana do manhuacu
+0.4314,315895,santana do paraiso
+0.5293,315900,santana do riacho
+0.4053,315910,santana dos montes
+0.4365,315990,santo antonio do amparo
+0.4255,316000,santo antonio do aventureiro
+0.4238,316010,santo antonio do grama
+0.4796,316020,santo antonio do itambe
+0.5323,316030,santo antonio do jacinto
+0.4941,316040,santo antonio do monte
+0.5951,316045,santo antonio do retiro
+0.5286,316050,santo antonio do rio abaixo
+0.5459,316060,santo hipolito
+0.5098,316070,santos dumont
+0.4277,316080,sao bento abade
+0.5402,316090,sao bras do suacui
+0.4828,316095,sao domingos das dores
+0.4948,316100,sao domingos do prata
+0.4679,316105,sao felix de minas
+0.5575,316110,sao francisco
+0.3891,316120,sao francisco de paula
+0.5311,316130,sao francisco de sales
+0.4742,316140,sao francisco do gloria
+0.4168,316150,sao geraldo
+0.5563,316160,sao geraldo da piedade
+0.4981,316165,sao geraldo do baixio
+0.4736,316170,sao goncalo do abaete
+0.4079,316180,sao goncalo do para
+0.4787,316190,sao goncalo do rio abaixo
+0.4367,312550,sao goncalo do rio preto
+0.528,316200,sao goncalo do sapucai
+0.5173,316210,sao gotardo
+0.4537,316220,sao joao batista do gloria
+0.4877,316225,sao joao da lagoa
+0.4016,316230,sao joao da mata
+0.4828,316240,sao joao da ponte
+0.5225,316245,sao joao das missoes
+0.5258,316250,sao joao del rei
+0.5878,316255,sao joao do manhuacu
+0.443,316257,sao joao do manteninha
+0.4496,316260,sao joao do oriente
+0.6465,316265,sao joao do pacui
+0.4571,316270,sao joao do paraiso
+0.5297,316280,sao joao evangelista
+0.4224,316290,sao joao nepomuceno
+0.4538,316292,sao joaquim de bicas
+0.505,316294,sao jose da barra
+0.4483,316295,sao jose da lapa
+0.4783,316300,sao jose da safira
+0.4909,316310,sao jose da varginha
+0.4773,316320,sao jose do alegre
+0.5745,316330,sao jose do divino
+0.5289,316340,sao jose do goiabal
+0.4947,316350,sao jose do jacuri
+0.4919,316360,sao jose do mantimento
+0.517,316370,sao lourenco
+0.447,316380,sao miguel do anta
+0.4594,316390,sao pedro da uniao
+0.485,316410,sao pedro do suacui
+0.4315,316400,sao pedro dos ferros
+0.5301,316420,sao romao
+0.4532,316430,sao roque de minas
+0.4342,316440,sao sebastiao da bela vista
+0.4217,316443,sao sebastiao da vargem alegre
+0.4555,316447,sao sebastiao do anta
+0.5435,316450,sao sebastiao do maranhao
+0.4102,316460,sao sebastiao do oeste
+0.4736,316470,sao sebastiao do paraiso
+0.5052,316480,sao sebastiao do rio preto
+0.4263,316490,sao sebastiao do rio verde
+0.4017,316520,sao thome das letras
+0.4477,316500,sao tiago
+0.4319,316510,sao tomas de aquino
+0.5282,316530,sao vicente de minas
+0.4466,316540,sapucai-mirim
+0.4984,316550,sardoa
+0.4641,316553,sarzedo
+0.4442,316556,sem-peixe
+0.4573,316557,senador amaral
+0.5846,316560,senador cortes
+0.4386,316570,senador firmino
+0.4012,316580,senador jose bento
+0.4339,316590,senador modestino goncalves
+0.4529,316600,senhora de oliveira
+0.476,316610,senhora do porto
+0.4464,316620,senhora dos remedios
+0.4523,316630,sericita
+0.4284,316640,seritinga
+0.5483,316650,serra azul de minas
+0.3792,316660,serra da saudade
+0.5316,316680,serra do salitre
+0.5723,316670,serra dos aimores
+0.4491,316690,serrania
+0.5356,316695,serranopolis de minas
+0.5075,316700,serranos
+0.6597,316710,serro
+0.5353,316720,sete lagoas
+0.549,316555,setubinha
+0.4107,316730,silveirania
+0.4721,316740,silvianopolis
+0.5141,316750,simao pereira
+0.5094,316760,simonesia
+0.4885,316770,sobralia
+0.4544,316780,soledade de minas
+0.456,316790,tabuleiro
+0.5166,316800,taiobeiras
+0.3994,316805,taparuba
+0.5532,316810,tapira
+0.4552,316820,tapirai
+0.4547,316830,taquaracu de minas
+0.4812,316840,tarumirim
+0.5609,316850,teixeiras
+0.5853,316860,teofilo otoni
+0.4893,316870,timoteo
+0.5748,316880,tiradentes
+0.5427,316890,tiros
+0.4237,316900,tocantins
+0.4184,316905,tocos do moji
+0.4013,316910,toledo
+0.5328,316920,tombos
+0.5655,316930,tres coracoes
+0.5297,316935,tres marias
+0.5126,316940,tres pontas
+0.4635,316950,tumiritinga
+0.5047,316960,tupaciguara
+0.5058,316970,turmalina
+0.4949,316980,turvolandia
+0.5044,316990,uba
+0.4951,317000,ubai
+0.4113,317005,ubaporanga
+0.5052,317010,uberaba
+0.5122,317020,uberlandia
+0.4973,317030,umburatiba
+0.5347,317040,unai
+0.4588,317043,uniao de minas
+0.5361,317047,uruana de minas
+0.4131,317050,urucania
+0.4704,317052,urucuia
+0.4994,317057,vargem alegre
+0.3889,317060,vargem bonita
+0.4576,317065,vargem grande do rio pardo
+0.5186,317070,varginha
+0.4042,317075,varjao de minas
+0.47,317080,varzea da palma
+0.5144,317090,varzelandia
+0.4606,317100,vazante
+0.4558,317103,verdelandia
+0.4346,317107,veredinha
+0.5029,317110,verissimo
+0.5316,317115,vermelho novo
+0.438,317120,vespasiano
+0.5628,317130,vicosa
+0.4314,317140,vieiras
+0.4999,317160,virgem da lapa
+0.4741,317170,virginia
+0.4983,317180,virginopolis
+0.5019,317190,virgolandia
+0.4941,317200,visconde do rio branco
+0.523,317210,volta grande
+0.436,317220,wenceslau braz
+0.5101,320010,afonso claudio
+0.4892,320016,agua doce do norte
+0.5275,320013,aguia branca
+0.5291,320020,alegre
+0.4925,320030,alfredo chaves
+0.5305,320035,alto rio novo
+0.4705,320040,anchieta
+0.5323,320050,apiaca
+0.5091,320060,aracruz
+0.4588,320070,atilio vivacqua
+0.4909,320080,baixo guandu
+0.5253,320090,barra de sao francisco
+0.4508,320100,boa esperanca
+0.4885,320110,bom jesus do norte
+0.4909,320115,brejetuba
+0.5301,320120,cachoeiro de itapemirim
+0.4728,320130,cariacica
+0.4586,320140,castelo
+0.5177,320150,colatina
+0.5262,320160,conceicao da barra
+0.5165,320170,conceicao do castelo
+0.5208,320180,divino de sao lourenco
+0.4875,320190,domingos martins
+0.5148,320200,dores do rio preto
+0.4965,320210,ecoporanga
+0.5,320220,fundao
+0.4614,320225,governador lindenberg
+0.5229,320230,guacui
+0.5923,320240,guarapari
+0.4602,320245,ibatiba
+0.5649,320250,ibiracu
+0.4733,320255,ibitirama
+0.4586,320260,iconha
+0.5125,320265,irupi
+0.4341,320270,itaguacu
+0.464,320280,itapemirim
+0.4683,320290,itarana
+0.5007,320300,iuna
+0.5677,320305,jaguare
+0.5389,320310,jeronimo monteiro
+0.5547,320313,joao neiva
+0.4755,320316,laranja da terra
+0.5243,320320,linhares
+0.5284,320330,mantenopolis
+0.5311,320332,marataizes
+0.4977,320334,marechal floriano
+0.3896,320335,marilandia
+0.4987,320340,mimoso do sul
+0.5257,320350,montanha
+0.489,320360,mucurici
+0.5205,320370,muniz freire
+0.5216,320380,muqui
+0.4865,320390,nova venecia
+0.504,320400,pancas
+0.4702,320405,pedro canario
+0.4991,320410,pinheiros
+0.5089,320420,piuma
+0.5279,320425,ponto belo
+0.4958,320430,presidente kennedy
+0.4989,320435,rio bananal
+0.4892,320440,rio novo do sul
+0.5672,320450,santa leopoldina
+0.5041,320455,santa maria de jetiba
+0.4964,320460,santa teresa
+0.4923,320465,sao domingos do norte
+0.6072,320470,sao gabriel da palha
+0.5254,320480,sao jose do calcado
+0.5773,320490,sao mateus
+0.4206,320495,sao roque do canaa
+0.491,320500,serra
+0.5027,320501,sooretama
+0.4515,320503,vargem alta
+0.5322,320506,venda nova do imigrante
+0.4502,320510,viana
+0.4855,320515,vila pavao
+0.522,320517,vila valerio
+0.5681,320520,vila velha
+0.61240000000000006,320530,vitoria
+0.5293,330010,angra dos reis
+0.4521,330015,aperibe
+0.5495,330020,araruama
+0.487,330022,areal
+0.5462,330023,armacao dos buzios
+0.4808,330025,arraial do cabo
+0.5234,330030,barra do pirai
+0.4892,330040,barra mansa
+0.4606,330045,belford roxo
+0.4951,330050,bom jardim
+0.5709,330060,bom jesus do itabapoana
+0.5579,330070,cabo frio
+0.5077,330080,cachoeiras de macacu
+0.4756,330090,cambuci
+0.5756,330100,campos dos goytacazes
+0.497,330110,cantagalo
+0.4413,330093,carapebus
+0.4698,330115,cardoso moreira
+0.4818,330120,carmo
+0.4967,330130,casimiro de abreu
+0.4427,330095,comendador levy gasparian
+0.4924,330140,conceicao de macabu
+0.4826,330150,cordeiro
+0.453,330160,duas barras
+0.4875,330170,duque de caxias
+0.4607,330180,engenheiro paulo de frontin
+0.5232,330185,guapimirim
+0.567,330187,iguaba grande
+0.4967,330190,itaborai
+0.5004,330200,itaguai
+0.4775,330205,italva
+0.5004,330210,itaocara
+0.4913,330220,itaperuna
+0.5223,330225,itatiaia
+0.4578,330227,japeri
+0.4778,330230,laje do muriae
+0.5664,330240,macae
+0.5203,330245,macuco
+0.5082,330250,mage
+0.5321,330260,mangaratiba
+0.5098,330270,marica
+0.4938,330280,mendes
+0.4919,330285,mesquita
+0.5602,330290,miguel pereira
+0.5084,330300,miracema
+0.5233,330310,natividade
+0.4805,330320,nilopolis
+0.5983,330330,niteroi
+0.5153,330340,nova friburgo
+0.5141,330350,nova iguacu
+0.4718,330360,paracambi
+0.5081,330370,paraiba do sul
+0.5375,330380,paraty
+0.5702,330385,paty do alferes
+0.5675,330390,petropolis
+0.5378,330395,pinheiral
+0.5351,330400,pirai
+0.572,330410,porciuncula
+0.4234,330411,porto real
+0.4256,330412,quatis
+0.4584,330414,queimados
+0.5402,330415,quissama
+0.5319,330420,resende
+0.5023,330430,rio bonito
+0.5228,330440,rio claro
+0.4658,330450,rio das flores
+0.5366,330452,rio das ostras
+0.6391,330455,rio de janeiro
+0.4933,330460,santa maria madalena
+0.5226,330470,santo antonio de padua
+0.4773,330480,sao fidelis
+0.521,330475,sao francisco de itabapoana
+0.461,330490,sao goncalo
+0.5102,330500,sao joao da barra
+0.462,330510,sao joao de meriti
+0.4652,330513,sao jose de uba
+0.4835,330515,sao jose do vale do rio preto
+0.5165,330520,sao pedro da aldeia
+0.4289,330530,sao sebastiao do alto
+0.511,330540,sapucaia
+0.5383,330550,saquarema
+0.4835,330555,seropedica
+0.5072,330560,silva jardim
+0.4743,330570,sumidouro
+0.4615,330575,tangua
+0.5696,330580,teresopolis
+0.5204,330590,trajano de moraes
+0.5315,330600,tres rios
+0.5243,330610,valenca
+0.4446,330615,varre-sai
+0.531,330620,vassouras
+0.514,330630,volta redonda
+0.5151,350010,adamantina
+0.4111,350020,adolfo
+0.4804,350030,aguai
+0.5305,350040,aguas da prata
+0.4612,350050,aguas de lindoia
+0.4948,350055,aguas de santa barbara
+0.5438,350060,aguas de sao pedro
+0.4306,350070,agudos
+0.4449,350075,alambari
+0.3639,350080,alfredo marcondes
+0.4243,350090,altair
+0.4467,350100,altinopolis
+0.3638,350110,alto alegre
+0.4285,350115,aluminio
+0.4169,350120,alvares florence
+0.4657,350130,alvares machado
+0.3867,350140,alvaro de carvalho
+0.5333,350150,alvinlandia
+0.4693,350160,americana
+0.3972,350170,americo brasiliense
+0.4367,350180,americo de campos
+0.4977,350190,amparo
+0.5326,350200,analandia
+0.5204,350210,andradina
+0.4496,350220,angatuba
+0.4241,350230,anhembi
+0.4225,350240,anhumas
+0.4861,350250,aparecida
+0.4716,350260,"aparecida d""""oeste"
+0.5556,350270,apiai
+0.4695,350275,aracariguama
+0.54,350280,aracatuba
+0.5332,350290,aracoiaba da serra
+0.4301,350300,aramina
+0.3922,350310,arandu
+0.3981,350315,arapei
+0.5039,350320,araraquara
+0.4815,350330,araras
+0.4082,350335,arco-iris
+0.4514,350340,arealva
+0.4597,350350,areias
+0.3658,350360,areiopolis
+0.403,350370,ariranha
+0.4709,350380,artur nogueira
+0.5769,350390,aruja
+0.4651,350395,aspasia
+0.504,350400,assis
+0.5512,350410,atibaia
+0.4741,350420,auriflama
+0.4875,350430,avai
+0.4415,350440,avanhandava
+0.4795,350450,avare
+0.3665,350460,bady bassitt
+0.3839,350470,balbinos
+0.4387,350480,balsamo
+0.5145,350490,bananal
+0.4772,350500,barao de antonina
+0.4129,350510,barbosa
+0.4305,350520,bariri
+0.454,350530,barra bonita
+0.5492,350535,barra do chapeu
+0.5043,350540,barra do turvo
+0.4893,350550,barretos
+0.4084,350560,barrinha
+0.6201,350570,barueri
+0.4175,350580,bastos
+0.5,350590,batatais
+0.5596,350600,bauru
+0.508,350610,bebedouro
+0.3847,350620,bento de abreu
+0.456,350630,bernardino de campos
+0.4924,350635,bertioga
+0.4309,350640,bilac
+0.4286,350650,birigui
+0.5377,350660,biritiba-mirim
+0.4439,350670,boa esperanca do sul
+0.4343,350680,bocaina
+0.4729,350690,bofete
+0.49370000000000003,350700,boituva
+0.4914,350710,bom jesus dos perdoes
+0.4456,350715,bom sucesso de itarare
+0.4002,350720,bora
+0.3879,350730,boraceia
+0.4279,350740,borborema
+0.3993,350745,borebi
+0.556,350750,botucatu
+0.5271,350760,braganca paulista
+0.4327,350770,brauna
+0.3982,350775,brejo alegre
+0.4451,350780,brodowski
+0.4204,350790,brotas
+0.513,350800,buri
+0.4469,350810,buritama
+0.4663,350820,buritizal
+0.405,350830,cabralia paulista
+0.4225,350840,cabreuva
+0.5105,350850,cacapava
+0.5284,350860,cachoeira paulista
+0.5006,350870,caconde
+0.4757,350880,cafelandia
+0.3816,350890,caiabu
+0.4801,350900,caieiras
+0.4635,350910,caiua
+0.4904,350920,cajamar
+0.4837,350925,cajati
+0.4073,350930,cajobi
+0.4036,350940,cajuru
+0.4945,350945,campina do monte alegre
+0.5782,350950,campinas
+0.4352,350960,campo limpo paulista
+0.5914,350970,campos do jordao
+0.4379,350980,campos novos paulista
+0.501,350990,cananeia
+0.4337,350995,canas
+0.424,351000,candido mota
+0.4814,351010,candido rodrigues
+0.4056,351015,canitar
+0.5011,351020,capao bonito
+0.4022,351030,capela do alto
+0.4759,351040,capivari
+0.5202,351050,caraguatatuba
+0.4965,351060,carapicuiba
+0.4361,351070,cardoso
+0.5122,351080,casa branca
+0.4352,351090,cassia dos coqueiros
+0.4803,351100,castilho
+0.4651,351110,catanduva
+0.4317,351120,catigua
+0.4362,351130,cedral
+0.4352,351140,cerqueira cesar
+0.4199,351150,cerquilho
+0.438,351160,cesario lange
+0.4061,351170,charqueada
+0.481,355720,chavantes
+0.3761,351190,clementina
+0.4614,351200,colina
+0.4084,351210,colombia
+0.4477,351220,conchal
+0.4896,351230,conchas
+0.4531,351240,cordeiropolis
+0.3888,351250,coroados
+0.4595,351260,coronel macedo
+0.4815,351270,corumbatai
+0.4586,351280,cosmopolis
+0.4106,351290,cosmorama
+0.5872,351300,cotia
+0.4302,351310,cravinhos
+0.4841,351320,cristais paulista
+0.4393,351330,cruzalia
+0.5396,351340,cruzeiro
+0.472,351350,cubatao
+0.5477,351360,cunha
+0.4573,351370,descalvado
+0.4592,351380,diadema
+0.3784,351385,dirce reis
+0.4833,351390,divinolandia
+0.3872,351400,dobrada
+0.4723,351410,dois corregos
+0.3627,351420,dolcinopolis
+0.3794,351430,dourado
+0.447,351440,dracena
+0.4323,351450,duartina
+0.3911,351460,dumont
+0.5424,351470,echapora
+0.5042,351480,eldorado
+0.4343,351490,elias fausto
+0.3343,351492,elisiario
+0.3658,351495,embauba
+0.4903,351500,embu das artes
+0.5155,351510,embu-guacu
+0.385,351512,emilianopolis
+0.4589,351515,engenheiro coelho
+0.5731,351518,espirito santo do pinhal
+0.3863,351519,espirito santo do turvo
+0.4192,355730,estiva gerbi
+0.439,351530,estrela do norte
+0.3969,351520,"estrela d""""oeste"
+0.4566,351535,euclides da cunha paulista
+0.4353,351540,fartura
+0.4176,351560,fernando prestes
+0.4941,351550,fernandopolis
+0.4084,351565,fernao
+0.4559,351570,ferraz de vasconcelos
+0.4179,351580,flora rica
+0.3757,351590,floreal
+0.4286,351600,florida paulista
+0.4944,351610,florinia
+0.4665,351620,franca
+0.4361,351630,francisco morato
+0.4646,351640,franco da rocha
+0.3736,351650,gabriel monteiro
+0.4265,351660,galia
+0.5075,351670,garca
+0.43,351680,gastao vidigal
+0.361,351685,gaviao peixoto
+0.4588,351690,general salgado
+0.4708,351700,getulina
+0.5224,351710,glicerio
+0.3781,351720,guaicara
+0.4057,351730,guaimbe
+0.5207,351740,guaira
+0.4238,351750,guapiacu
+0.5657,351760,guapiara
+0.4908,351770,guara
+0.43,351780,guaracai
+0.4178,351790,guaraci
+0.4101,351800,"guarani d""""oeste"
+0.4907,351810,guaranta
+0.4328,351820,guararapes
+0.5061,351830,guararema
+0.5478,351840,guaratingueta
+0.4349,351850,guarei
+0.4388,351860,guariba
+0.5191,351870,guaruja
+0.5345,351880,guarulhos
+0.5218,351885,guatapara
+0.4181,351890,guzolandia
+0.4527,351900,herculandia
+0.5471,351905,holambra
+0.4251,351907,hortolandia
+0.3984,351910,iacanga
+0.4454,351920,iacri
+0.5257,351925,iaras
+0.4003,351930,ibate
+0.4896,351940,ibira
+0.4352,351950,ibirarema
+0.4478,351960,ibitinga
+0.4978,351970,ibiuna
+0.4477,351980,icem
+0.4632,351990,iepe
+0.36870000000000003,352000,igaracu do tiete
+0.6747,352010,igarapava
+0.4306,352020,igarata
+0.5612,352030,iguape
+0.4814,352042,ilha comprida
+0.4827,352044,ilha solteira
+0.4969,352040,ilhabela
+0.4865,352050,indaiatuba
+0.4517,352060,indiana
+0.4781,352070,indiapora
+0.3724,352080,inubia paulista
+0.4791,352090,ipaussu
+0.414,352100,ipero
+0.4699,352110,ipeuna
+0.3772,352115,ipigua
+0.5318,352120,iporanga
+0.5976,352130,ipua
+0.4534,352140,iracemapolis
+0.3642,352150,irapua
+0.4474,352160,irapuru
+0.5151,352170,itabera
+0.4585,352180,itai
+0.3933,352190,itajobi
+0.3754,352200,itaju
+0.514,352210,itanhaem
+0.5512,352215,itaoca
+0.4756,352220,itapecerica da serra
+0.501,352230,itapetininga
+0.5393,352240,itapeva
+0.4738,352250,itapevi
+0.4611,352260,itapira
+0.5351,352265,itapirapua paulista
+0.4538,352270,itapolis
+0.5362,352280,itaporanga
+0.4227,352290,itapui
+0.4804,352300,itapura
+0.4556,352310,itaquaquecetuba
+0.4894,352320,itarare
+0.526,352330,itariri
+0.4965,352340,itatiba
+0.4338,352350,itatinga
+0.4866,352360,itirapina
+0.4415,352370,itirapua
+0.4085,352380,itobi
+0.5398,352390,itu
+0.4488,352400,itupeva
+0.5264,352410,ituverava
+0.3953,352420,jaborandi
+0.5279,352430,jaboticabal
+0.4993,352440,jacarei
+0.3551,352450,jaci
+0.5338,352460,jacupiranga
+0.502,352470,jaguariuna
+0.4635,352480,jales
+0.4912,352490,jambeiro
+0.49370000000000003,352500,jandira
+0.5077,352510,jardinopolis
+0.4659,352520,jarinu
+0.4638,352530,jau
+0.4196,352540,jeriquara
+0.4434,352550,joanopolis
+0.4235,352560,joao ramalho
+0.4555,352570,jose bonifacio
+0.4153,352580,julio mesquita
+0.3971,352585,jumirim
+0.5435,352590,jundiai
+0.4432,352600,junqueiropolis
+0.4947,352610,juquia
+0.5159,352620,juquitiba
+0.4855,352630,lagoinha
+0.4197,352640,laranjal paulista
+0.3885,352650,lavinia
+0.5808,352660,lavrinhas
+0.4806,352670,leme
+0.4426,352680,lencois paulista
+0.4956,352690,limeira
+0.4059,352700,lindoia
+0.4601,352710,lins
+0.531,352720,lorena
+0.3799,352725,lourdes
+0.519,352730,louveira
+0.4711,352740,lucelia
+0.5154,352750,lucianopolis
+0.4275,352760,luis antonio
+0.3607,352770,luiziania
+0.408,352780,lupercio
+0.4316,352790,lutecia
+0.5506,352800,macatuba
+0.4308,352810,macaubal
+0.4264,352820,macedonia
+0.4433,352830,magda
+0.4804,352840,mairinque
+0.581,352850,mairipora
+0.4809,352860,manduri
+0.3962,352870,maraba paulista
+0.4255,352880,maracai
+0.4231,352885,marapoama
+0.3846,352890,mariapolis
+0.5117,352900,marilia
+0.4291,352910,marinopolis
+0.4551,352920,martinopolis
+0.531,352930,matao
+0.458,352940,maua
+0.3691,352950,mendonca
+0.4053,352960,meridiano
+0.3757,352965,mesopolis
+0.458,352970,miguelopolis
+0.4026,352980,mineiros do tiete
+0.4294,353000,mira estrela
+0.509,352990,miracatu
+0.4668,353010,mirandopolis
+0.5054,353020,mirante do paranapanema
+0.4659,353030,mirassol
+0.4008,353040,mirassolandia
+0.5392,353050,mococa
+0.5487,353060,mogi das cruzes
+0.4457,353070,mogi guacu
+0.5013,353080,moji mirim
+0.6513,353090,mombuca
+0.4322,353100,moncoes
+0.5232,353110,mongagua
+0.4774,353120,monte alegre do sul
+0.4204,353130,monte alto
+0.5067,353140,monte aprazivel
+0.465,353150,monte azul paulista
+0.3925,353160,monte castelo
+0.4557,353180,monte mor
+0.4953,353170,monteiro lobato
+0.462,353190,morro agudo
+0.4503,353200,morungaba
+0.4843,353205,motuca
+0.4357,353210,murutinga do sul
+0.353,353215,nantes
+0.3732,353220,narandiba
+0.5216,353230,natividade da serra
+0.4746,353240,nazare paulista
+0.4056,353250,neves paulista
+0.4995,353260,nhandeara
+0.3705,353270,nipoa
+0.3917,353280,nova alianca
+0.468,353282,nova campina
+0.3427,353284,nova canaa paulista
+0.3727,353286,nova castilho
+0.3927,353290,nova europa
+0.4487,353300,nova granada
+0.4139,353310,nova guataporanga
+0.361,353320,nova independencia
+0.3652,353330,nova luzitania
+0.4236,353340,nova odessa
+0.4523,353325,novais
+0.4534,353350,novo horizonte
+0.4488,353360,nuporanga
+0.3956,353370,ocaucu
+0.4245,353380,oleo
+0.4429,353390,olimpia
+0.3511,353400,onda verde
+0.4519,353410,oriente
+0.3815,353420,orindiuva
+0.5034,353430,orlandia
+0.5459,353440,osasco
+0.4496,353450,oscar bressane
+0.4727,353460,osvaldo cruz
+0.5117,353470,ourinhos
+0.4004,353480,ouro verde
+0.4358,353475,ouroeste
+0.4579,353490,pacaembu
+0.4067,353500,palestina
+0.341,353510,palmares paulista
+0.4283,353520,"palmeira d""""oeste"
+0.4648,353530,palmital
+0.4643,353540,panorama
+0.4641,353550,paraguacu paulista
+0.5208,353560,paraibuna
+0.4544,353570,paraiso
+0.4954,353580,paranapanema
+0.4498,353590,paranapua
+0.4203,353600,parapua
+0.4629,353610,pardinho
+0.4754,353620,pariquera-acu
+0.4021,353625,parisi
+0.4254,353630,patrocinio paulista
+0.4417,353640,pauliceia
+0.488,353650,paulinia
+0.4293,353657,paulistania
+0.5305,353660,paulo de faria
+0.5021,353670,pederneiras
+0.4069,353680,pedra bela
+0.3776,353690,pedranopolis
+0.4975,353700,pedregulho
+0.4261,353710,pedreira
+0.5619,353715,pedrinhas paulista
+0.4794,353720,pedro de toledo
+0.4742,353730,penapolis
+0.4931,353740,pereira barreto
+0.4435,353750,pereiras
+0.547,353760,peruibe
+0.4064,353770,piacatu
+0.4913,353780,piedade
+0.4698,353790,pilar do sul
+0.5227,353800,pindamonhangaba
+0.4042,353810,pindorama
+0.4214,353820,pinhalzinho
+0.4178,353830,piquerobi
+0.4977,353850,piquete
+0.5854,353860,piracaia
+0.5398,353870,piracicaba
+0.4859,353880,piraju
+0.4798,353890,pirajui
+0.3808,353900,pirangi
+0.4885,353910,pirapora do bom jesus
+0.5286,353920,pirapozinho
+0.521,353930,pirassununga
+0.4783,353940,piratininga
+0.4237,353950,pitangueiras
+0.3858,353960,planalto
+0.496,353970,platina
+0.4461,353980,poa
+0.3931,353990,poloni
+0.4913,354000,pompeia
+0.4564,354010,pongai
+0.4598,354020,pontal
+0.3806,354025,pontalinda
+0.3836,354030,pontes gestal
+0.4151,354040,populina
+0.5061,354050,porangaba
+0.4586,354060,porto feliz
+0.4592,354070,porto ferreira
+0.3708,354075,potim
+0.4032,354080,potirendaba
+0.391,354085,pracinha
+0.4638,354090,pradopolis
+0.5108,354100,praia grande
+0.3974,354105,pratania
+0.482,354110,presidente alves
+0.4767,354120,presidente bernardes
+0.4855,354130,presidente epitacio
+0.5444,354140,presidente prudente
+0.5094,354150,presidente venceslau
+0.4395,354160,promissao
+0.4908,354165,quadra
+0.4175,354170,quata
+0.43,354180,queiroz
+0.4711,354190,queluz
+0.4324,354200,quintana
+0.4017,354210,rafard
+0.4694,354220,rancharia
+0.4724,354230,redencao da serra
+0.467,354240,regente feijo
+0.4083,354250,reginopolis
+0.5335,354260,registro
+0.392,354270,restinga
+0.4766,354280,ribeira
+0.4627,354290,ribeirao bonito
+0.4811,354300,ribeirao branco
+0.4217,354310,ribeirao corrente
+0.5937,354320,ribeirao do sul
+0.3794,354323,ribeirao dos indios
+0.4232,354325,ribeirao grande
+0.4751,354330,ribeirao pires
+0.5458,354340,ribeirao preto
+0.4513,354360,rifaina
+0.4472,354370,rincao
+0.4384,354380,rinopolis
+0.5081,354390,rio claro
+0.4588,354400,rio das pedras
+0.4048,354410,rio grande da serra
+0.4014,354420,riolandia
+0.5152,354350,riversul
+0.6092,354425,rosana
+0.4355,354430,roseira
+0.367,354440,rubiacea
+0.4037,354450,rubineia
+0.4128,354460,sabino
+0.4769,354470,sagres
+0.4184,354480,sales
+0.4403,354490,sales oliveira
+0.4249,354500,salesopolis
+0.3921,354510,salmourao
+0.3947,354515,saltinho
+0.4544,354520,salto
+0.4546,354530,salto de pirapora
+0.4376,354540,salto grande
+0.4337,354550,sandovalina
+0.4369,354560,santa adelia
+0.4236,354570,santa albertina
+0.4188,354580,"santa barbara d""""oeste"
+0.478,354600,santa branca
+0.4557,354610,"santa clara d""""oeste"
+0.6755,354620,santa cruz da conceicao
+0.5311,354625,santa cruz da esperanca
+0.5206,354630,santa cruz das palmeiras
+0.4639,354640,santa cruz do rio pardo
+0.4297,354650,santa ernestina
+0.4983,354660,santa fe do sul
+0.3857,354670,santa gertrudes
+0.4727,354680,santa isabel
+0.3912,354690,santa lucia
+0.475,354700,santa maria da serra
+0.4031,354710,santa mercedes
+0.4884,354750,santa rita do passa quatro
+0.3897,354740,"santa rita d""""oeste"
+0.5115,354760,santa rosa de viterbo
+0.3465,354765,santa salete
+0.4222,354720,santana da ponte pensa
+0.6858,354730,santana de parnaiba
+0.5341,354770,santo anastacio
+0.5428,354780,santo andre
+0.4178,354790,santo antonio da alegria
+0.4586,354800,santo antonio de posse
+0.4127,354805,santo antonio do aracangua
+0.4296,354810,santo antonio do jardim
+0.476,354820,santo antonio do pinhal
+0.4174,354830,santo expedito
+0.3517,354840,santopolis do aguapei
+0.5624,354850,santos
+0.5567,354860,sao bento do sapucai
+0.5525,354870,sao bernardo do campo
+0.548,354880,sao caetano do sul
+0.4986,354890,sao carlos
+0.4598,354900,sao francisco
+0.5152,354910,sao joao da boa vista
+0.3638,354920,sao joao das duas pontes
+0.3692,354925,sao joao de iracema
+0.3339,354930,"sao joao do pau d""""alho"
+0.4186,354940,sao joaquim da barra
+0.4646,354950,sao jose da bela vista
+0.5483,354960,sao jose do barreiro
+0.4936,354970,sao jose do rio pardo
+0.5081,354980,sao jose do rio preto
+0.5633,354990,sao jose dos campos
+0.5148,354995,sao lourenco da serra
+0.4836,355000,sao luis do paraitinga
+0.4607,355010,sao manuel
+0.5822,355020,sao miguel arcanjo
+0.6453,355030,sao paulo
+0.4772,355040,sao pedro
+0.3898,355050,sao pedro do turvo
+0.5109,355060,sao roque
+0.5022,355070,sao sebastiao
+0.4156,355080,sao sebastiao da grama
+0.4603,355090,sao simao
+0.4892,355100,sao vicente
+0.5133,355110,sarapui
+0.4451,355120,sarutaia
+0.4262,355130,sebastianopolis do sul
+0.4573,355140,serra azul
+0.4836,355160,serra negra
+0.3819,355150,serrana
+0.4749,355170,sertaozinho
+0.5156,355180,sete barras
+0.4195,355190,severinia
+0.4803,355200,silveiras
+0.4524,355210,socorro
+0.529,355220,sorocaba
+0.5411,355230,sud mennucci
+0.4737,355240,sumare
+0.4214,355255,suzanapolis
+0.491,355250,suzano
+0.3973,355260,tabapua
+0.4073,355270,tabatinga
+0.4903,355280,taboao da serra
+0.3861,355290,taciba
+0.3719,355300,taguai
+0.4222,355310,taiacu
+0.4237,355320,taiuva
+0.4526,355330,tambau
+0.4211,355340,tanabi
+0.4437,355350,tapirai
+0.4057,355360,tapiratiba
+0.5192,355365,taquaral
+0.4679,355370,taquaritinga
+0.495,355380,taquarituba
+0.4375,355385,taquarivai
+0.3988,355390,tarabai
+0.5488,355395,taruma
+0.4776,355400,tatui
+0.5181,355410,taubate
+0.4807,355420,tejupa
+0.4742,355430,teodoro sampaio
+0.4519,355440,terra roxa
+0.49370000000000003,355450,tiete
+0.4728,355460,timburi
+0.3944,355465,torre de pedra
+0.442,355470,torrinha
+0.398,355475,trabiju
+0.5386,355480,tremembe
+0.4123,355490,tres fronteiras
+0.3907,355495,tuiuti
+0.5522,355500,tupa
+0.4946,355510,tupi paulista
+0.3665,355520,turiuba
+0.3987,355530,turmalina
+0.3594,355535,ubarana
+0.5971,355540,ubatuba
+0.4219,355550,ubirajara
+0.3993,355560,uchoa
+0.3615,355570,uniao paulista
+0.4649,355580,urania
+0.4223,355590,uru
+0.4235,355600,urupes
+0.3716,355610,valentim gentil
+0.5529,355620,valinhos
+0.461,355630,valparaiso
+0.3899,355635,vargem
+0.4261,355640,vargem grande do sul
+0.5199,355645,vargem grande paulista
+0.4325,355650,varzea paulista
+0.4497,355660,vera cruz
+0.5448,355670,vinhedo
+0.405,355680,viradouro
+0.3562,355690,vista alegre do alto
+0.3595,355695,vitoria brasil
+0.4101,355700,votorantim
+0.4991,355710,votuporanga
+0.3923,355715,zacarias
+0.4424,410010,abatia
+0.5393,410020,adrianopolis
+0.4797,410030,agudos do sul
+0.4402,410040,almirante tamandare
+0.5848,410045,altamira do parana
+0.5769,412862,alto paraiso
+0.4385,410060,alto parana
+0.4434,410070,alto piquiri
+0.3853,410050,altonia
+0.4858,410080,alvorada do sul
+0.3977,410090,amapora
+0.5166,410100,ampere
+0.4353,410105,anahy
+0.436,410110,andira
+0.4445,410115,angulo
+0.5676,410120,antonina
+0.5055,410130,antonio olinto
+0.4505,410140,apucarana
+0.4658,410150,arapongas
+0.5783,410160,arapoti
+0.5118,410165,arapua
+0.3966,410170,araruna
+0.4637,410180,araucaria
+0.4085,410185,ariranha do ivai
+0.5504,410190,assai
+0.4834,410200,assis chateaubriand
+0.51,410210,astorga
+0.4068,410220,atalaia
+0.5067,410230,balsa nova
+0.4929,410240,bandeirantes
+0.491,410250,barbosa ferraz
+0.4286,410270,barra do jacare
+0.5412,410260,barracao
+0.5072,410275,bela vista da caroba
+0.4741,410280,bela vista do paraiso
+0.4993,410290,bituruna
+0.4768,410300,boa esperanca
+0.4539,410302,boa esperanca do iguacu
+0.5197,410304,boa ventura de sao roque
+0.4902,410305,boa vista da aparecida
+0.4599,410310,bocaiuva do sul
+0.4758,410315,bom jesus do sul
+0.4367,410320,bom sucesso
+0.5571,410322,bom sucesso do sul
+0.4394,410330,borrazopolis
+0.5081,410335,braganey
+0.4582,410337,brasilandia do sul
+0.4028,410340,cafeara
+0.4212,410345,cafelandia
+0.4156,410347,cafezal do sul
+0.5055,410350,california
+0.4763,410360,cambara
+0.4231,410370,cambe
+0.4275,410380,cambira
+0.4673,410390,campina da lagoa
+0.5034,410395,campina do simao
+0.4434,410400,campina grande do sul
+0.4875,410405,campo bonito
+0.5016,410410,campo do tenente
+0.4535,410420,campo largo
+0.3984,410425,campo magro
+0.5044,410430,campo mourao
+0.5669,410440,candido de abreu
+0.5476,410442,candoi
+0.5152,410445,cantagalo
+0.4527,410450,capanema
+0.4615,410460,capitao leonidas marques
+0.5444,410465,carambei
+0.475,410470,carlopolis
+0.5206,410480,cascavel
+0.5456,410490,castro
+0.5415,410500,catanduvas
+0.4151,410510,centenario do sul
+0.4882,410520,cerro azul
+0.4721,410530,ceu azul
+0.5521,410540,chopinzinho
+0.4141,410550,cianorte
+0.4279,410560,cidade gaucha
+0.5626,410570,clevelandia
+0.4196,410580,colombo
+0.4372,410590,colorado
+0.5071,410600,congonhinhas
+0.4766,410610,conselheiro mairinck
+0.4787,410620,contenda
+0.481,410630,corbelia
+0.488,410640,cornelio procopio
+0.5416,410645,coronel domingos soares
+0.4741,410650,coronel vivida
+0.4229,410655,corumbatai do sul
+0.5463,410680,cruz machado
+0.5147,410657,cruzeiro do iguacu
+0.4388,410660,cruzeiro do oeste
+0.4189,410670,cruzeiro do sul
+0.3801,410685,cruzmaltina
+0.5652,410690,curitiba
+0.4503,410700,curiuva
+0.4461,410710,diamante do norte
+0.4622,410712,diamante do sul
+0.5059,410715,"diamante d""""oeste"
+0.4754,410720,dois vizinhos
+0.4361,410725,douradina
+0.3973,410730,doutor camargo
+0.5019,412863,doutor ulysses
+0.5978,410740,eneas marques
+0.4533,410750,engenheiro beltrao
+0.4995,410753,entre rios do oeste
+0.3947,410752,esperanca nova
+0.5798,410754,espigao alto do iguacu
+0.4953,410755,farol
+0.4868,410760,faxinal
+0.4922,410765,fazenda rio grande
+0.4435,410770,fenix
+0.5507,410773,fernandes pinheiro
+0.4572,410775,figueira
+0.4617,410785,flor da serra do sul
+0.4314,410780,florai
+0.36870000000000003,410790,floresta
+0.3413,410800,florestopolis
+0.3921,410810,florida
+0.4195,410820,formosa do oeste
+0.5454,410830,foz do iguacu
+0.551,410845,foz do jordao
+0.4178,410832,francisco alves
+0.4721,410840,francisco beltrao
+0.4871,410850,general carneiro
+0.4486,410855,godoy moreira
+0.492,410860,goioere
+0.4938,410865,goioxim
+0.4576,410870,grandes rios
+0.5752,410880,guaira
+0.4548,410890,guairaca
+0.4615,410895,guamiranga
+0.4657,410900,guapirama
+0.3738,410910,guaporema
+0.3813,410920,guaraci
+0.5452,410930,guaraniacu
+0.5555,410940,guarapuava
+0.4959,410950,guaraquecaba
+0.5583,410960,guaratuba
+0.476,410965,honorio serpa
+0.6311,410970,ibaiti
+0.4402,410975,ibema
+0.4782,410980,ibipora
+0.4263,410990,icaraima
+0.4155,411000,iguaracu
+0.4678,411005,iguatu
+0.433,411007,imbau
+0.5191,411010,imbituva
+0.5182,411020,inacio martins
+0.4383,411030,inaja
+0.355,411040,indianopolis
+0.536,411050,ipiranga
+0.4479,411060,ipora
+0.4083,411065,iracema do oeste
+0.493,411070,irati
+0.5843,411080,iretama
+0.4137,411090,itaguaje
+0.6303,411095,itaipulandia
+0.4228,411100,itambaraca
+0.3638,411110,itambe
+0.4938,411120,"itapejara d""""oeste"
+0.4062,411125,itaperucu
+0.384,411130,itauna do sul
+0.509,411140,ivai
+0.4882,411150,ivaipora
+0.3821,411155,ivate
+0.4392,411160,ivatuba
+0.4843,411170,jaboti
+0.5404,411180,jacarezinho
+0.4048,411190,jaguapita
+0.5167,411200,jaguariaiva
+0.4574,411210,jandaia do sul
+0.5043,411220,janiopolis
+0.4776,411230,japira
+0.3558,411240,japura
+0.6144,411250,jardim alegre
+0.4443,411260,jardim olinda
+0.4673,411270,jataizinho
+0.4271,411275,jesuitas
+0.4346,411280,joaquim tavora
+0.4992,411290,jundiai do sul
+0.4457,411295,juranda
+0.457,411300,jussara
+0.3967,411310,kalore
+0.4947,411320,lapa
+0.4878,411325,laranjal
+0.5462,411330,laranjeiras do sul
+0.3898,411340,leopolis
+0.4063,411342,lidianopolis
+0.5291,411345,lindoeste
+0.4721,411350,loanda
+0.3836,411360,lobato
+0.5226,411370,londrina
+0.4857,411373,luiziana
+0.4599,411375,lunardelli
+0.4883,411380,lupionopolis
+0.4737,411390,mallet
+0.5072,411400,mambore
+0.4094,411410,mandaguacu
+0.4513,411420,mandaguari
+0.4767,411430,mandirituba
+0.4733,411435,manfrinopolis
+0.5789,411440,mangueirinha
+0.5999,411450,manoel ribas
+0.5416,411460,marechal candido rondon
+0.4171,411470,maria helena
+0.4399,411480,marialva
+0.4443,411490,marilandia do sul
+0.3613,411500,marilena
+0.4619,411510,mariluz
+0.49370000000000003,411520,maringa
+0.4859,411530,mariopolis
+0.4254,411535,maripa
+0.5108,411540,marmeleiro
+0.5097,411545,marquinho
+0.4602,411550,marumbi
+0.4644,411560,matelandia
+0.4922,411570,matinhos
+0.4615,411573,mato rico
+0.4854,411575,maua da serra
+0.4896,411580,medianeira
+0.4222,411585,mercedes
+0.4191,411590,mirador
+0.3904,411600,miraselva
+0.4679,411605,missal
+0.4486,411610,moreira sales
+0.5475,411620,morretes
+0.3943,411630,munhoz de melo
+0.3327,411640,nossa senhora das gracas
+0.3423,411650,nova alianca do ivai
+0.3588,411660,nova america da colina
+0.5683,411670,nova aurora
+0.482,411680,nova cantu
+0.4693,411690,nova esperanca
+0.5043,411695,nova esperanca do sudoeste
+0.4538,411700,nova fatima
+0.5688,411705,nova laranjeiras
+0.4986,411710,nova londrina
+0.3991,411720,nova olimpia
+0.4632,411725,nova prata do iguacu
+0.5065,411721,nova santa barbara
+0.4148,411722,nova santa rosa
+0.5017,411727,nova tebas
+0.3819,411729,novo itacolomi
+0.5121,411730,ortigueira
+0.4398,411740,ourizona
+0.4151,411745,ouro verde do oeste
+0.369,411750,paicandu
+0.5529,411760,palmas
+0.5864,411770,palmeira
+0.5238,411780,palmital
+0.4823,411790,palotina
+0.4775,411800,paraiso do norte
+0.4025,411810,paranacity
+0.5235,411820,paranagua
+0.4323,411830,paranapoema
+0.4805,411840,paranavai
+0.4343,411845,pato bragado
+0.5213,411850,pato branco
+0.6096,411860,paula freitas
+0.5265,411870,paulo frontin
+0.5536,411880,peabiru
+0.4087,411885,perobal
+0.3709,411890,perola
+0.444,411900,"perola d""""oeste"
+0.4322,411910,pien
+0.5082,411915,pinhais
+0.3697,411925,pinhal de sao bento
+0.4924,411920,pinhalao
+0.5356,411930,pinhao
+0.5609,411940,pirai do sul
+0.4307,411950,piraquara
+0.5279,411960,pitanga
+0.3278,411965,pitangueiras
+0.4313,411970,planaltina do parana
+0.4736,411980,planalto
+0.5437,411990,ponta grossa
+0.5124,411995,pontal do parana
+0.431,412000,porecatu
+0.5116,412010,porto amazonas
+0.5241,412015,porto barreiro
+0.4874,412020,porto rico
+0.4494,412030,porto vitoria
+0.5101,412033,prado ferreira
+0.5191,412035,pranchita
+0.3858,412040,presidente castelo branco
+0.4783,412050,primeiro de maio
+0.4777,412060,prudentopolis
+0.6104,412065,quarto centenario
+0.4286,412070,quatigua
+0.4915,412080,quatro barras
+0.4699,412085,quatro pontes
+0.5821,412090,quedas do iguacu
+0.5073,412100,querencia do norte
+0.443,412110,quinta do sol
+0.4853,412120,quitandinha
+0.4775,412125,ramilandia
+0.5072,412130,rancho alegre
+0.4512,412135,"rancho alegre d""""oeste"
+0.4387,412140,realeza
+0.5224,412150,reboucas
+0.5789,412160,renascenca
+0.5091,412170,reserva
+0.5729,412175,reserva do iguacu
+0.5485,412180,ribeirao claro
+0.5064,412190,ribeirao do pinhal
+0.6383,412200,rio azul
+0.4376,412210,rio bom
+0.5123,412215,rio bonito do iguacu
+0.4999,412217,rio branco do ivai
+0.4759,412220,rio branco do sul
+0.4826,412230,rio negro
+0.4622,412240,rolandia
+0.5362,412250,roncador
+0.4133,412260,rondon
+0.481,412265,rosario do ivai
+0.4166,412270,sabaudia
+0.4586,412280,salgado filho
+0.4231,412290,salto do itarare
+0.4627,412300,salto do lontra
+0.414,412310,santa amelia
+0.4799,412320,santa cecilia do pavao
+0.3819,412330,santa cruz de monte castelo
+0.4182,412340,santa fe
+0.5292,412350,santa helena
+0.3908,412360,santa ines
+0.414,412370,santa isabel do ivai
+0.4509,412380,santa izabel do oeste
+0.4455,412382,santa lucia
+0.4854,412385,santa maria do oeste
+0.4377,412390,santa mariana
+0.4853,412395,santa monica
+0.4512,412402,santa tereza do oeste
+0.4626,412405,santa terezinha de itaipu
+0.5113,412400,santana do itarare
+0.548,412410,santo antonio da platina
+0.3605,412420,santo antonio do caiua
+0.4879,412430,santo antonio do paraiso
+0.5244,412440,santo antonio do sudoeste
+0.5303,412450,santo inacio
+0.3999,412460,sao carlos do ivai
+0.5527,412470,sao jeronimo da serra
+0.4365,412480,sao joao
+0.4663,412490,sao joao do caiua
+0.4367,412500,sao joao do ivai
+0.5,412510,sao joao do triunfo
+0.4328,412530,sao jorge do ivai
+0.402,412535,sao jorge do patrocinio
+0.4758,412520,"sao jorge d""""oeste"
+0.4375,412540,sao jose da boa vista
+0.4549,412545,sao jose das palmeiras
+0.4599,412550,sao jose dos pinhais
+0.4406,412555,sao manoel do parana
+0.5093,412560,sao mateus do sul
+0.5467,412570,sao miguel do iguacu
+0.4689,412575,sao pedro do iguacu
+0.4084,412580,sao pedro do ivai
+0.4038,412590,sao pedro do parana
+0.4456,412600,sao sebastiao da amoreira
+0.3863,412610,sao tome
+0.5849,412620,sapopema
+0.3741,412625,sarandi
+0.4704,412627,saudade do iguacu
+0.5238,412630,senges
+0.507,412635,serranopolis do iguacu
+0.5318,412640,sertaneja
+0.4316,412650,sertanopolis
+0.4968,412660,siqueira campos
+0.4746,412665,sulina
+0.4848,412667,tamarana
+0.3418,412670,tamboara
+0.41,412680,tapejara
+0.4295,412690,tapira
+0.5156,412700,teixeira soares
+0.4958,412710,telemaco borba
+0.4009,412720,terra boa
+0.3891,412730,terra rica
+0.426,412740,terra roxa
+0.5565,412750,tibagi
+0.4833,412760,tijucas do sul
+0.4706,412770,toledo
+0.4599,412780,tomazina
+0.5153,412785,tres barras do parana
+0.5283,412788,tunas do parana
+0.3917,412790,tuneiras do oeste
+0.4768,412795,tupassi
+0.5307,412796,turvo
+0.4784,412800,ubirata
+0.495,412810,umuarama
+0.4882,412820,uniao da vitoria
+0.36870000000000003,412830,uniflor
+0.4792,412840,urai
+0.4386,412853,ventania
+0.5595,412855,vera cruz do oeste
+0.4782,412860,vere
+0.5398,412865,virmond
+0.4968,412870,vitorino
+0.5186,412850,wenceslau braz
+0.4879,412880,xambre
+0.4597,420005,abdon batista
+0.5445,420010,abelardo luz
+0.3667,420020,agrolandia
+0.4753,420030,agronomica
+0.5432,420040,agua doce
+0.4524,420050,aguas de chapeco
+0.3764,420055,aguas frias
+0.3433,420060,aguas mornas
+0.5139,420070,alfredo wagner
+0.4735,420075,alto bela vista
+0.4369,420080,anchieta
+0.4995,420090,angelina
+0.5068,420100,anita garibaldi
+0.4423,420110,anitapolis
+0.4333,420120,antonio carlos
+0.3993,420125,apiuna
+0.4713,420127,arabuta
+0.4134,420130,araquari
+0.4576,420140,ararangua
+0.4432,420150,armazem
+0.463,420160,arroio trinta
+0.3643,420165,arvoredo
+0.3523,420170,ascurra
+0.4688,420180,atalanta
+0.4206,420190,aurora
+0.5417,420195,balneario arroio do silva
+0.4176,420205,balneario barra do sul
+0.5261,420200,balneario camboriu
+0.475,420207,balneario gaivota
+0.4454,421280,balneario picarras
+0.4023,420208,bandeirante
+0.4056,420209,barra bonita
+0.4481,420210,barra velha
+0.4748,420213,bela vista do toldo
+0.4452,420215,belmonte
+0.3785,420220,benedito novo
+0.4033,420230,biguacu
+0.471,420240,blumenau
+0.4174,420243,bocaina do sul
+0.5808,420250,bom jardim da serra
+0.56,420253,bom jesus
+0.3888,420257,bom jesus do oeste
+0.471,420260,bom retiro
+0.4491,420245,bombinhas
+0.2855,420270,botuvera
+0.407,420280,braco do norte
+0.3667,420285,braco do trombudo
+0.4862,420287,brunopolis
+0.417,420290,brusque
+0.498,420300,cacador
+0.4428,420310,caibi
+0.4286,420315,calmon
+0.4076,420320,camboriu
+0.4126,420330,campo alegre
+0.4594,420340,campo belo do sul
+0.5121,420350,campo ere
+0.4593,420360,campos novos
+0.478,420370,canelinha
+0.5043,420380,canoinhas
+0.5206,420325,capao alto
+0.449,420390,capinzal
+0.3674,420395,capivari de baixo
+0.4683,420400,catanduvas
+0.5084,420410,caxambu do sul
+0.4097,420415,celso ramos
+0.5573,420417,cerro negro
+0.4728,420419,chapadao do lageado
+0.4819,420420,chapeco
+0.3806,420425,cocal do sul
+0.4684,420430,concordia
+0.3969,420435,cordilheira alta
+0.4103,420440,coronel freitas
+0.4751,420445,coronel martins
+0.5014,420455,correia pinto
+0.4831,420450,corupa
+0.487,420460,criciuma
+0.387,420470,cunha pora
+0.4589,420475,cunhatai
+0.5154,420480,curitibanos
+0.4345,420490,descanso
+0.529,420500,dionisio cerqueira
+0.4641,420510,dona emma
+0.345,420515,doutor pedrinho
+0.4399,420517,entre rios
+0.4014,420519,ermo
+0.4675,420520,erval velho
+0.4751,420530,faxinal dos guedes
+0.4827,420535,flor do sertao
+0.5474,420540,florianopolis
+0.4227,420543,formosa do sul
+0.4569,420545,forquilhinha
+0.4972,420550,fraiburgo
+0.5214,420555,frei rogerio
+0.4606,420560,galvao
+0.4508,420570,garopaba
+0.4446,420580,garuva
+0.4053,420590,gaspar
+0.4397,420600,governador celso ramos
+0.4307,420610,grao para
+0.3993,420620,gravatal
+0.3683,420630,guabiruba
+0.4653,420640,guaraciaba
+0.4585,420650,guaramirim
+0.4021,420660,guaruja do sul
+0.4506,420665,guatambu
+0.4215,420670,"herval d""""oeste"
+0.4723,420675,ibiam
+0.4371,420680,ibicare
+0.3719,420690,ibirama
+0.4153,420700,icara
+0.4279,420710,ilhota
+0.4662,420720,imarui
+0.456,420730,imbituba
+0.4922,420740,imbuia
+0.3912,420750,indaial
+0.3376,420757,iomere
+0.4594,420760,ipira
+0.4347,420765,ipora do oeste
+0.6086,420768,ipuacu
+0.4185,420770,ipumirim
+0.4362,420775,iraceminha
+0.4233,420780,irani
+0.4563,420785,irati
+0.5498,420790,irineopolis
+0.4531,420800,ita
+0.5099,420810,itaiopolis
+0.461,420820,itajai
+0.5066,420830,itapema
+0.452,420840,itapiranga
+0.4745,420845,itapoa
+0.4343,420850,ituporanga
+0.449,420860,jabora
+0.4492,420870,jacinto machado
+0.3972,420880,jaguaruna
+0.4339,420890,jaragua do sul
+0.399,420895,jardinopolis
+0.5419,420900,joacaba
+0.4919,420910,joinville
+0.4405,420915,jose boiteux
+0.5727,420917,jupia
+0.3925,420920,lacerdopolis
+0.5592,420930,lages
+0.4483,420940,laguna
+0.4368,420945,lajeado grande
+0.3614,420950,laurentino
+0.3843,420960,lauro muller
+0.4617,420970,lebon regis
+0.5219,420980,leoberto leal
+0.4295,420985,lindoia do sul
+0.3777,420990,lontras
+0.4479,421000,luiz alves
+0.4292,421003,luzerna
+0.4036,421005,macieira
+0.494,421010,mafra
+0.5299,421020,major gercino
+0.4763,421030,major vieira
+0.5043,421040,maracaja
+0.4538,421050,maravilha
+0.4052,421055,marema
+0.3442,421060,massaranduba
+0.4572,421070,matos costa
+0.4347,421080,meleiro
+0.4218,421085,mirim doce
+0.4315,421090,modelo
+0.4007,421100,mondai
+0.4588,421105,monte carlo
+0.4531,421110,monte castelo
+0.3616,421120,morro da fumaca
+0.5493,421125,morro grande
+0.4463,421130,navegantes
+0.4446,421140,nova erechim
+0.5448,421145,nova itaberaba
+0.3632,421150,nova trento
+0.4022,421160,nova veneza
+0.3947,421165,novo horizonte
+0.4717,421170,orleans
+0.4161,421175,otacilio costa
+0.4549,421180,ouro
+0.5388,421185,ouro verde
+0.4366,421187,paial
+0.4989,421189,painel
+0.4031,421190,palhoca
+0.5048,421200,palma sola
+0.438,421205,palmeira
+0.4682,421210,palmitos
+0.4791,421220,papanduva
+0.5077,421223,paraiso
+0.4268,421225,passo de torres
+0.471,421227,passos maia
+0.4077,421230,paulo lopes
+0.3351,421240,pedras grandes
+0.4239,421250,penha
+0.4756,421260,peritiba
+0.4786,421270,petrolandia
+0.4343,421290,pinhalzinho
+0.447,421300,pinheiro preto
+0.4376,421310,piratuba
+0.4197,421315,planalto alegre
+0.3765,421320,pomerode
+0.4578,421330,ponte alta
+0.49,421335,ponte alta do norte
+0.4427,421340,ponte serrada
+0.43120000000000003,421350,porto belo
+0.5421,421360,porto uniao
+0.4285,421370,pouso redondo
+0.4278,421380,praia grande
+0.4741,421390,presidente castello branco
+0.4162,421400,presidente getulio
+0.5076,421410,presidente nereu
+0.4193,421415,princesa
+0.4021,421420,quilombo
+0.4221,421430,rancho queimado
+0.4422,421440,rio das antas
+0.5134,421450,rio do campo
+0.4778,421460,rio do oeste
+0.4644,421480,rio do sul
+0.3764,421470,rio dos cedros
+0.5638,421490,rio fortuna
+0.4457,421500,rio negrinho
+0.4389,421505,rio rufino
+0.4469,421507,riqueza
+0.4301,421510,rodeio
+0.4744,421520,romelandia
+0.4298,421530,salete
+0.5081,421535,saltinho
+0.5494,421540,salto veloso
+0.4051,421545,sangao
+0.5336,421550,santa cecilia
+0.3885,421555,santa helena
+0.3179,421560,santa rosa de lima
+0.3971,421565,santa rosa do sul
+0.5352,421567,santa terezinha
+0.5659,421568,santa terezinha do progresso
+0.4621,421569,santiago do sul
+0.3816,421570,santo amaro da imperatriz
+0.5065,421580,sao bento do sul
+0.4591,421575,sao bernardino
+0.4797,421590,sao bonifacio
+0.467,421600,sao carlos
+0.4458,421605,sao cristovao do sul
+0.5864,421610,sao domingos
+0.4625,421620,sao francisco do sul
+0.3446,421630,sao joao batista
+0.3448,421635,sao joao do itaperiu
+0.4051,421625,sao joao do oeste
+0.4207,421640,sao joao do sul
+0.4966,421650,sao joaquim
+0.4506,421660,sao jose
+0.482,421670,sao jose do cedro
+0.4687,421680,sao jose do cerrito
+0.4706,421690,sao lourenco do oeste
+0.4379,421700,sao ludgero
+0.3862,421710,sao martinho
+0.497,421715,sao miguel da boa vista
+0.5043,421720,sao miguel do oeste
+0.4157,421725,sao pedro de alcantara
+0.3359,421730,saudades
+0.345,421740,schroeder
+0.5131,421750,seara
+0.4065,421755,serra alta
+0.4035,421760,sideropolis
+0.4112,421770,sombrio
+0.4532,421775,sul brasil
+0.4309,421780,taio
+0.4625,421790,tangara
+0.4112,421795,tigrinhos
+0.4275,421800,tijucas
+0.4974,421810,timbe do sul
+0.4711,421820,timbo
+0.48,421825,timbo grande
+0.4771,421830,tres barras
+0.3475,421835,treviso
+0.3626,421840,treze de maio
+0.6299,421850,treze tilias
+0.4477,421860,trombudo central
+0.4762,421870,tubarao
+0.4113,421875,tunapolis
+0.4036,421880,turvo
+0.3701,421885,uniao do oeste
+0.5359,421890,urubici
+0.4241,421895,urupema
+0.4082,421900,urussanga
+0.4522,421910,vargeao
+0.5064,421915,vargem
+0.4384,421917,vargem bonita
+0.4257,421920,vidal ramos
+0.4776,421930,videira
+0.5635,421935,vitor meireles
+0.4472,421940,witmarsum
+0.5041,421950,xanxere
+0.4719,421960,xavantina
+0.4452,421970,xaxim
+0.4242,421985,zortea
+0.5347,430003,acegua
+0.5919,430005,agua santa
+0.5226,430010,agudo
+0.476,430020,ajuricaba
+0.4997,430030,alecrim
+0.5278,430040,alegrete
+0.5363,430045,alegria
+0.4447,430047,almirante tamandare do sul
+0.4919,430050,alpestre
+0.4991,430055,alto alegre
+0.308,430057,alto feliz
+0.4423,430060,alvorada
+0.4542,430063,amaral ferrador
+0.5867,430064,ametista do sul
+0.5069,430066,andre da rocha
+0.3406,430070,anta gorda
+0.4164,430080,antonio prado
+0.4915,430085,arambare
+0.3624,430087,ararica
+0.5567,430090,aratiba
+0.358,430100,arroio do meio
+0.5237,430107,arroio do padre
+0.4748,430105,arroio do sal
+0.4736,430120,arroio do tigre
+0.4788,430110,arroio dos ratos
+0.5088,430130,arroio grande
+0.4171,430140,arvorezinha
+0.4924,430150,augusto pestana
+0.4302,430155,aurea
+0.5708,430160,bage
+0.5114,430163,balneario pinhal
+0.4061,430165,barao
+0.4218,430170,barao de cotegipe
+0.5456,430175,barao do triunfo
+0.4804,430185,barra do guarita
+0.5044,430187,barra do quarai
+0.5071,430190,barra do ribeiro
+0.4149,430192,barra do rio azul
+0.3947,430195,barra funda
+0.5879,430180,barracao
+0.5173,430200,barros cassal
+0.4846,430205,benjamin constant do sul
+0.4532,430210,bento goncalves
+0.4435,430215,boa vista das missoes
+0.4264,430220,boa vista do burica
+0.4113,430222,boa vista do cadeado
+0.4803,430223,boa vista do incra
+0.447,430225,boa vista do sul
+0.5251,430230,bom jesus
+0.3727,430235,bom principio
+0.5161,430237,bom progresso
+0.387,430240,bom retiro do sul
+0.4718,430245,boqueirao do leao
+0.5213,430250,bossoroca
+0.4258,430258,bozano
+0.4788,430260,braga
+0.3568,430265,brochier
+0.4919,430270,butia
+0.4887,430280,cacapava do sul
+0.5237,430290,cacequi
+0.5428,430300,cachoeira do sul
+0.4495,430310,cachoeirinha
+0.5139,430320,cacique doble
+0.4838,430330,caibate
+0.4679,430340,caicara
+0.5048,430350,camaqua
+0.3874,430355,camargo
+0.4545,430360,cambara do sul
+0.3085,430367,campestre da serra
+0.4053,430370,campina das missoes
+0.4677,430380,campinas do sul
+0.4323,430390,campo bom
+0.5032,430400,campo novo
+0.4606,430410,campos borges
+0.4707,430420,candelaria
+0.4483,430430,candido godoi
+0.5165,430435,candiota
+0.4861,430440,canela
+0.5034,430450,cangucu
+0.5178,430460,canoas
+0.5385,430461,canudos do vale
+0.5395,430462,capao bonito do sul
+0.5208,430463,capao da canoa
+0.5292,430465,capao do cipo
+0.4493,430466,capao do leao
+0.3964,430468,capela de santana
+0.3829,430469,capitao
+0.6919,430467,capivari do sul
+0.4106,430471,caraa
+0.5179,430470,carazinho
+0.5073,430480,carlos barbosa
+0.443,430485,carlos gomes
+0.431,430490,casca
+0.4917,430495,caseiros
+0.5605,430500,catuipe
+0.4925,430510,caxias do sul
+0.4989,430511,centenario
+0.4916,430512,cerrito
+0.4121,430513,cerro branco
+0.4893,430515,cerro grande
+0.5026,430517,cerro grande do sul
+0.4721,430520,cerro largo
+0.4629,430530,chapada
+0.4445,430535,charqueadas
+0.5075,430537,charrua
+0.5094,430540,chiapetta
+0.4959,430543,chui
+0.4622,430544,chuvisca
+0.5047,430545,cidreira
+0.4581,430550,ciriaco
+0.4741,430558,colinas
+0.5076,430560,colorado
+0.5028,430570,condor
+0.4674,430580,constantina
+0.4397,430583,coqueiro baixo
+0.5435,430585,coqueiros do sul
+0.5347,430587,coronel barros
+0.5217,430590,coronel bicaco
+0.3748,430593,coronel pilar
+0.3859,430595,cotipora
+0.5017,430597,coxilha
+0.4151,430600,crissiumal
+0.4525,430605,cristal
+0.4552,430607,cristal do sul
+0.5419,430610,cruz alta
+0.4594,430613,cruzaltense
+0.4092,430620,cruzeiro do sul
+0.4433,430630,david canabarro
+0.5913,430632,derrubadas
+0.4968,430635,dezesseis de novembro
+0.5828,430637,dilermando de aguiar
+0.3832,430640,dois irmaos
+0.5237,430642,dois irmaos das missoes
+0.3405,430645,dois lajeados
+0.4992,430650,dom feliciano
+0.5448,430660,dom pedrito
+0.4464,430655,dom pedro de alcantara
+0.4721,430670,dona francisca
+0.4889,430673,doutor mauricio cardoso
+0.3778,430675,doutor ricardo
+0.4751,430676,eldorado do sul
+0.4275,430680,encantado
+0.5382,430690,encruzilhada do sul
+0.5607,430692,engenho velho
+0.4537,430695,entre rios do sul
+0.4726,430693,entre-ijuis
+0.4734,430697,erebango
+0.4869,430700,erechim
+0.4424,430705,ernestina
+0.5017,430720,erval grande
+0.5226,430730,erval seco
+0.4829,430740,esmeralda
+0.431,430745,esperanca do sul
+0.496,430750,espumoso
+0.4633,430755,estacao
+0.4308,430760,estancia velha
+0.4844,430770,esteio
+0.4219,430780,estrela
+0.4786,430781,estrela velha
+0.5095,430783,eugenio de castro
+0.3473,430786,fagundes varela
+0.4401,430790,farroupilha
+0.4775,430800,faxinal do soturno
+0.4496,430805,faxinalzinho
+0.4472,430807,fazenda vilanova
+0.3736,430810,feliz
+0.4427,430820,flores da cunha
+0.4454,430825,floriano peixoto
+0.5351,430830,fontoura xavier
+0.5205,430840,formigueiro
+0.3843,430843,forquetinha
+0.6399,430845,fortaleza dos valos
+0.4747,430850,frederico westphalen
+0.5115,430860,garibaldi
+0.5272,430865,garruchos
+0.4376,430870,gaurama
+0.4979,430880,general camara
+0.4603,430885,gentil
+0.447,430890,getulio vargas
+0.5377,430900,girua
+0.4225,430905,glorinha
+0.4888,430910,gramado
+0.5104,430912,gramado dos loureiros
+0.5575,430915,gramado xavier
+0.4578,430920,gravatai
+0.5553,430925,guabiju
+0.4793,430930,guaiba
+0.4251,430940,guapore
+0.4282,430950,guarani das missoes
+0.362,430955,harmonia
+0.7019,430710,herval
+0.4213,430957,herveiras
+0.4949,430960,horizontina
+0.5491,430965,hulha negra
+0.4243,430970,humaita
+0.4349,430975,ibarama
+0.4362,430980,ibiaca
+0.4437,430990,ibiraiaras
+0.536,430995,ibirapuita
+0.4922,431000,ibiruba
+0.4414,431010,igrejinha
+0.574,431020,ijui
+0.4863,431030,ilopolis
+0.5934,431033,imbe
+0.3479,431036,imigrante
+0.4865,431040,independencia
+0.4308,431041,inhacora
+0.4708,431043,ipe
+0.4806,431046,ipiranga do sul
+0.5421,431050,irai
+0.6057,431053,itaara
+0.6277,431055,itacurubi
+0.4023,431057,itapuca
+0.5232,431060,itaqui
+0.4825,431065,itati
+0.5208,431070,itatiba do sul
+0.4398,431075,ivora
+0.4484,431080,ivoti
+0.5589,431085,jaboticaba
+0.7248,431087,jacuizinho
+0.392,431090,jacutinga
+0.5009,431100,jaguarao
+0.5161,431110,jaguari
+0.4444,431112,jaquirana
+0.5778,431113,jari
+0.5662,431115,joia
+0.599,431120,julio de castilhos
+0.4301,431123,lagoa bonita do sul
+0.4336,431127,lagoa dos tres cantos
+0.5135,431130,lagoa vermelha
+0.4337,431125,lagoao
+0.4633,431140,lajeado
+0.5044,431142,lajeado do bugre
+0.4998,431150,lavras do sul
+0.4328,431160,liberato salzano
+0.3774,431162,lindolfo collor
+0.3632,431164,linha nova
+0.5124,431171,macambara
+0.518,431170,machadinho
+0.4691,431173,mampituba
+0.5256,431175,manoel viana
+0.4303,431177,maquine
+0.3455,431179,marata
+0.4389,431180,marau
+0.4715,431190,marcelino ramos
+0.4717,431198,mariana pimentel
+0.4687,431200,mariano moro
+0.4187,431205,marques de souza
+0.4753,431210,mata
+0.5613,431213,mato castelhano
+0.3634,431215,mato leitao
+0.4282,431217,mato queimado
+0.4461,431220,maximiliano de almeida
+0.627,431225,minas do leao
+0.6723,431230,miraguai
+0.3532,431235,montauri
+0.5604,431237,monte alegre dos campos
+0.334,431238,monte belo do sul
+0.5084,431240,montenegro
+0.582,431242,mormaco
+0.483,431244,morrinhos do sul
+0.5174,431245,morro redondo
+0.3333,431247,morro reuter
+0.5593,431250,mostardas
+0.3953,431260,mucum
+0.5072,431261,muitos capoes
+0.5148,431262,muliterno
+0.5076,431265,nao-me-toque
+0.5288,431267,nicolau vergueiro
+0.5068,431270,nonoai
+0.4673,431275,nova alvorada
+0.4509,431280,nova araca
+0.3724,431290,nova bassano
+0.404,431295,nova boa vista
+0.5781,431300,nova brescia
+0.4108,431301,nova candelaria
+0.4591,431303,nova esperanca do sul
+0.3518,431306,nova hartz
+0.319,431308,nova padua
+0.5386,431310,nova palma
+0.4428,431320,nova petropolis
+0.4477,431330,nova prata
+0.4987,431333,nova ramada
+0.4446,431335,nova roma do sul
+0.4413,431337,nova santa rita
+0.6229,431349,novo barreiro
+0.432,431339,novo cabrais
+0.5387,431340,novo hamburgo
+0.4135,431342,novo machado
+0.4177,431344,novo tiradentes
+0.4142,431346,novo xingu
+0.5344,431350,osorio
+0.4655,431360,paim filho
+0.5599,431365,palmares do sul
+0.5304,431370,palmeira das missoes
+0.435,431380,palmitinho
+0.4543,431390,panambi
+0.4938,431395,pantano grande
+0.4772,431400,parai
+0.3743,431402,paraiso do sul
+0.3983,431403,pareci novo
+0.3789,431405,parobe
+0.4523,431406,passa sete
+0.4956,431407,passo do sobrado
+0.5307,431410,passo fundo
+0.3919,431413,paulo bento
+0.3443,431415,paverama
+0.5285,431417,pedras altas
+0.5008,431420,pedro osorio
+0.4636,431430,pejucara
+0.5596,431440,pelotas
+0.3238,431442,picada cafe
+0.4573,431445,pinhal
+0.5394,431446,pinhal da serra
+0.5313,431447,pinhal grande
+0.5742,431449,pinheirinho do vale
+0.4926,431450,pinheiro machado
+0.4593,431455,pirapo
+0.5191,431460,piratini
+0.4454,431470,planalto
+0.384,431475,poco das antas
+0.5491,431477,pontao
+0.3949,431478,ponte preta
+0.4373,431480,portao
+0.6144,431490,porto alegre
+0.4397,431500,porto lucena
+0.4213,431505,porto maua
+0.4204,431507,porto vera cruz
+0.4791,431510,porto xavier
+0.534,431513,pouso novo
+0.3327,431514,presidente lucena
+0.4021,431515,progresso
+0.5244,431517,protasio alves
+0.4369,431520,putinga
+0.5187,431530,quarai
+0.4699,431531,quatro irmaos
+0.5556,431532,quevedos
+0.4733,431535,quinze de novembro
+0.6273,431540,redentora
+0.4491,431545,relvado
+0.5383,431550,restinga seca
+0.5054,431555,rio dos indios
+0.5248,431560,rio grande
+0.5115,431570,rio pardo
+0.3892,431575,riozinho
+0.4377,431580,roca sales
+0.4622,431590,rodeio bonito
+0.4537,431595,rolador
+0.3518,431600,rolante
+0.5422,431610,ronda alta
+0.4709,431620,rondinha
+0.5054,431630,roque gonzales
+0.5194,431640,rosario do sul
+0.5492,431642,sagrada familia
+0.4391,431643,saldanha marinho
+0.4951,431645,salto do jacui
+0.3602,431647,salvador das missoes
+0.376,431650,salvador do sul
+0.44,431660,sananduva
+0.4969,431670,santa barbara do sul
+0.4871,431673,santa cecilia do sul
+0.3623,431675,santa clara do sul
+0.4926,431680,santa cruz do sul
+0.5407,431697,santa margarida do sul
+0.5574,431690,santa maria
+0.3051,431695,santa maria do herval
+0.4715,431720,santa rosa
+0.396,431725,santa tereza
+0.5501,431730,santa vitoria do palmar
+0.5311,431700,santana da boa vista
+0.5542,431710,"sant""""ana do livramento"
+0.5122,431740,santiago
+0.5461,431750,santo angelo
+0.456,431760,santo antonio da patrulha
+0.4558,431770,santo antonio das missoes
+0.5074,431755,santo antonio do palma
+0.4336,431775,santo antonio do planalto
+0.5793,431780,santo augusto
+0.4453,431790,santo cristo
+0.4739,431795,santo expedito do sul
+0.5477,431800,sao borja
+0.4429,431805,sao domingos do sul
+0.546,431810,sao francisco de assis
+0.4637,431820,sao francisco de paula
+0.5523,431830,sao gabriel
+0.555,431840,sao jeronimo
+0.3995,431842,sao joao da urtiga
+0.5361,431843,sao joao do polesine
+0.3986,431844,sao jorge
+0.4333,431845,sao jose das missoes
+0.5964,431846,sao jose do herval
+0.2841,431848,sao jose do hortencio
+0.3559,431849,sao jose do inhacora
+0.4423,431850,sao jose do norte
+0.5552,431860,sao jose do ouro
+0.3955,431861,sao jose do sul
+0.5177,431862,sao jose dos ausentes
+0.5357,431870,sao leopoldo
+0.463,431880,sao lourenco do sul
+0.5034,431890,sao luiz gonzaga
+0.4185,431900,sao marcos
+0.4704,431910,sao martinho
+0.5089,431912,sao martinho da serra
+0.5551,431915,sao miguel das missoes
+0.5123,431920,sao nicolau
+0.4165,431930,sao paulo das missoes
+0.4188,431935,sao pedro da serra
+0.4879,431936,sao pedro das missoes
+0.4612,431937,sao pedro do butia
+0.4909,431940,sao pedro do sul
+0.4431,431950,sao sebastiao do cai
+0.5203,431960,sao sepe
+0.527,431970,sao valentim
+0.4266,431971,sao valentim do sul
+0.5928,431973,sao valerio do sul
+0.2907,431975,sao vendelino
+0.5211,431980,sao vicente do sul
+0.4162,431990,sapiranga
+0.4501,432000,sapucaia do sul
+0.5275,432010,sarandi
+0.5269,432020,seberi
+0.5736,432023,sede nova
+0.4938,432026,segredo
+0.4755,432030,selbach
+0.429,432032,senador salgado filho
+0.4829,432035,sentinela do sul
+0.3668,432040,serafina correa
+0.3724,432045,serio
+0.4683,432050,sertao
+0.6442,432055,sertao santana
+0.4893,432057,sete de setembro
+0.4315,432060,severiano de almeida
+0.5249,432065,silveira martins
+0.4896,432067,sinimbu
+0.5057,432070,sobradinho
+0.5299,432080,soledade
+0.4216,432085,tabai
+0.4404,432090,tapejara
+0.4515,432100,tapera
+0.5168,432110,tapes
+0.508,432120,taquara
+0.5099,432130,taquari
+0.5327,432132,taquarucu do sul
+0.4352,432135,tavares
+0.555,432140,tenente portela
+0.4324,432143,terra de areia
+0.3557,432145,teutonia
+0.4192,432146,tio hugo
+0.4826,432147,tiradentes do sul
+0.4541,432149,toropi
+0.4785,432150,torres
+0.5191,432160,tramandai
+0.3516,432162,travesseiro
+0.6236,432163,tres arroios
+0.3947,432166,tres cachoeiras
+0.4068,432170,tres coroas
+0.5075,432180,tres de maio
+0.4213,432183,tres forquilhas
+0.6189,432185,tres palmeiras
+0.4586,432190,tres passos
+0.4977,432195,trindade do sul
+0.4441,432200,triunfo
+0.4775,432210,tucunduva
+0.4689,432215,tunas
+0.5293,432218,tupanci do sul
+0.5839,432220,tupancireta
+0.3077,432225,tupandi
+0.4606,432230,tuparendi
+0.4942,432232,turucu
+0.358,432234,ubiretama
+0.3735,432235,uniao da serra
+0.4714,432237,unistalda
+0.5786,432240,uruguaiana
+0.5289,432250,vacaria
+0.4504,432253,vale do sol
+0.2947,432254,vale real
+0.4975,432252,vale verde
+0.3548,432255,vanini
+0.465,432260,venancio aires
+0.4845,432270,vera cruz
+0.4836,432280,veranopolis
+0.3461,432285,vespasiano correa
+0.4283,432290,viadutos
+0.4855,432300,viamao
+0.5218,432310,vicente dutra
+0.4669,432320,victor graeff
+0.3253,432330,vila flores
+0.4985,432335,vila langaro
+0.407,432340,vila maria
+0.4549,432345,vila nova do sul
+0.5715,432350,vista alegre
+0.4407,432360,vista alegre do prata
+0.6085,432370,vista gaucha
+0.4928,432375,vitoria das missoes
+0.3301,432377,westfalia
+0.4355,432380,xangri-la
+0.5081,500020,agua clara
+0.5473,500025,alcinopolis
+0.5628,500060,amambai
+0.4811,500070,anastacio
+0.522,500080,anaurilandia
+0.4282,500085,angelica
+0.5604,500090,antonio joao
+0.4802,500100,aparecida do taboado
+0.5622,500110,aquidauana
+0.5366,500124,aral moreira
+0.5187,500150,bandeirantes
+0.4878,500190,bataguassu
+0.5654,500200,bataypora
+0.6165,500210,bela vista
+0.5133,500215,bodoquena
+0.5452,500220,bonito
+0.5143,500230,brasilandia
+0.5054,500240,caarapo
+0.5023,500260,camapua
+0.572,500270,campo grande
+0.4334,500280,caracol
+0.5503,500290,cassilandia
+0.473,500295,chapadao do sul
+0.5368,500310,corguinho
+0.5595,500315,coronel sapucaia
+0.5589,500320,corumba
+0.4753,500325,costa rica
+0.5216,500330,coxim
+0.4585,500345,deodapolis
+0.5851,500348,dois irmaos do buriti
+0.6174,500350,douradina
+0.5311,500370,dourados
+0.4989,500375,eldorado
+0.5247,500380,fatima do sul
+0.4388,500390,figueirao
+0.4676,500400,gloria de dourados
+0.5826,500410,guia lopes da laguna
+0.513,500430,iguatemi
+0.4893,500440,inocencia
+0.5471,500450,itapora
+0.5253,500460,itaquirai
+0.4834,500470,ivinhema
+0.6701,500480,japora
+0.4876,500490,jaraguari
+0.5593,500500,jardim
+0.6067,500510,jatei
+0.5266,500515,juti
+0.5344,500520,ladario
+0.5292,500525,laguna carapa
+0.567,500540,maracaju
+0.5526,500560,miranda
+0.5144,500568,mundo novo
+0.4822,500570,navirai
+0.5968,500580,nioaque
+0.5881,500600,nova alvorada do sul
+0.487,500620,nova andradina
+0.4063,500625,novo horizonte do sul
+0.5007,500630,paranaiba
+0.6555,500635,paranhos
+0.4883,500640,pedro gomes
+0.6041,500660,ponta pora
+0.6237,500690,porto murtinho
+0.4776,500710,ribas do rio pardo
+0.5309,500720,rio brilhante
+0.5509,500730,rio negro
+0.4632,500740,rio verde de mato grosso
+0.4846,500750,rochedo
+0.4448,500755,santa rita do pardo
+0.5406,500769,sao gabriel do oeste
+0.4551,500780,selviria
+0.547,500770,sete quedas
+0.5847,500790,sidrolandia
+0.5147,500793,sonora
+0.5957,500795,tacuru
+0.4476,500797,taquarussu
+0.5206,500800,terenos
+0.5099,500830,tres lagoas
+0.4681,500840,vicentina
+0.5084,510010,acorizal
+0.5184,510020,agua boa
+0.4914,510025,alta floresta
+0.4761,510030,alto araguaia
+0.5941,510035,alto boa vista
+0.4752,510040,alto garcas
+0.4818,510050,alto paraguai
+0.4707,510060,alto taquari
+0.4693,510080,apiacas
+0.4419,510100,araguaiana
+0.4031,510120,araguainha
+0.5172,510125,araputanga
+0.4742,510130,arenapolis
+0.5827,510140,aripuana
+0.5207,510160,barao de melgaco
+0.5108,510170,barra do bugres
+0.5905,510180,barra do garcas
+0.4843,510185,bom jesus do araguaia
+0.5363,510190,brasnorte
+0.542,510250,caceres
+0.6886,510260,campinapolis
+0.4589,510263,campo novo do parecis
+0.5178,510267,campo verde
+0.6292,510268,campos de julio
+0.531,510269,canabrava do norte
+0.5401,510270,canarana
+0.4831,510279,carlinda
+0.5511,510285,castanheira
+0.5477,510300,chapada dos guimaraes
+0.5445,510305,claudia
+0.492,510310,cocalinho
+0.5816,510320,colider
+0.5949,510325,colniza
+0.5523,510330,comodoro
+0.5973,510335,confresa
+0.491,510336,"conquista d""""oeste"
+0.58,510337,cotriguacu
+0.6008,510340,cuiaba
+0.4718,510343,curvelandia
+0.4229,510345,denise
+0.4781,510350,diamantino
+0.534,510360,dom aquino
+0.4621,510370,feliz natal
+0.4308,510380,"figueiropolis d""""oeste"
+0.6827,510385,gaucha do norte
+0.5903,510390,general carneiro
+0.4899,510395,"gloria d""""oeste"
+0.4872,510410,guaranta do norte
+0.4971,510420,guiratinga
+0.4804,510450,indiavai
+0.4941,510452,ipiranga do norte
+0.5245,510454,itanhanga
+0.5609,510455,itauba
+0.4991,510460,itiquira
+0.5278,510480,jaciara
+0.5726,510490,jangada
+0.5551,510500,jauru
+0.5011,510510,juara
+0.6052,510515,juina
+0.4482,510517,juruena
+0.4427,510520,juscimeira
+0.4872,510523,"lambari d""""oeste"
+0.4786,510525,lucas do rio verde
+0.4491,510530,luciara
+0.5585,510558,marcelandia
+0.5597,510560,matupa
+0.5562,510562,"mirassol d""""oeste"
+0.4696,510590,nobres
+0.4439,510600,nortelandia
+0.4947,510610,nossa senhora do livramento
+0.6444,510615,nova bandeirantes
+0.6395,510620,nova brasilandia
+0.5653,510621,nova canaa do norte
+0.5155,510880,nova guarita
+0.5304,510618,nova lacerda
+0.4381,510885,nova marilandia
+0.4962,510890,nova maringa
+0.5092,510895,nova monte verde
+0.5218,510622,nova mutum
+0.558,510617,nova nazare
+0.5943,510623,nova olimpia
+0.6421,510619,nova santa helena
+0.5216,510624,nova ubirata
+0.5342,510625,nova xavantina
+0.4925,510627,novo horizonte do norte
+0.5311,510626,novo mundo
+0.5335,510631,novo santo antonio
+0.497,510628,novo sao joaquim
+0.5396,510629,paranaita
+0.5421,510630,paranatinga
+0.4524,510637,pedra preta
+0.6801,510642,peixoto de azevedo
+0.4518,510645,planalto da serra
+0.5598,510650,pocone
+0.4906,510665,pontal do araguaia
+0.4975,510670,ponte branca
+0.4872,510675,pontes e lacerda
+0.5402,510677,porto alegre do norte
+0.5222,510680,porto dos gauchos
+0.6001,510682,porto esperidiao
+0.5251,510685,porto estrela
+0.5159,510700,poxoreo
+0.5437,510704,primavera do leste
+0.5,510706,querencia
+0.4099,510715,reserva do cabacal
+0.5658,510718,ribeirao cascalheira
+0.4759,510719,ribeiraozinho
+0.5123,510720,rio branco
+0.534,510757,rondolandia
+0.5316,510760,rondonopolis
+0.508,510770,rosario oeste
+0.481,510775,salto do ceu
+0.4833,510724,santa carmem
+0.563,510774,santa cruz do xingu
+0.4939,510776,santa rita do trivelato
+0.5848,510777,santa terezinha
+0.4501,510726,santo afonso
+0.493,510779,santo antonio do leste
+0.5315,510780,santo antonio do leverger
+0.6234,510785,sao felix do araguaia
+0.4438,510729,sao jose do povo
+0.4858,510730,sao jose do rio claro
+0.6352,510735,sao jose do xingu
+0.5464,510710,sao jose dos quatro marcos
+0.3922,510740,sao pedro da cipa
+0.4993,510787,sapezal
+0.4647,510788,serra nova dourada
+0.4952,510790,sinop
+0.5556,510792,sorriso
+0.4596,510794,tabapora
+0.5671,510795,tangara da serra
+0.5586,510800,tapurah
+0.5086,510805,terra nova do norte
+0.5188,510810,tesouro
+0.575,510820,torixoreu
+0.4627,510830,uniao do sul
+0.4355,510835,vale de sao domingos
+0.4938,510840,varzea grande
+0.4188,510850,vera
+0.5971,510550,vila bela da santissima trindade
+0.5647,510860,vila rica
+0.4258,520005,abadia de goias
+0.4427,520010,abadiania
+0.5419,520013,acreuna
+0.4325,520015,adelandia
+0.6123,520017,agua fria de goias
+0.4658,520020,agua limpa
+0.4516,520025,aguas lindas de goias
+0.4817,520030,alexania
+0.4528,520050,aloandia
+0.5026,520055,alto horizonte
+0.6556,520060,alto paraiso de goias
+0.498,520080,alvorada do norte
+0.5645,520082,amaralina
+0.4157,520085,americano do brasil
+0.4279,520090,amorinopolis
+0.5152,520110,anapolis
+0.3895,520120,anhanguera
+0.4789,520130,anicuns
+0.4865,520140,aparecida de goiania
+0.5181,520145,aparecida do rio doce
+0.4605,520150,apore
+0.5387,520160,aracu
+0.4587,520170,aragarcas
+0.4724,520180,aragoiania
+0.5353,520215,araguapaz
+0.5105,520235,arenopolis
+0.517,520250,aruana
+0.4441,520260,aurilandia
+0.59,520280,avelinopolis
+0.5763,520310,baliza
+0.4454,520320,barro alto
+0.5185,520330,bela vista de goias
+0.5001,520340,bom jardim de goias
+0.5119,520350,bom jesus de goias
+0.4454,520355,bonfinopolis
+0.4252,520357,bonopolis
+0.4089,520360,brazabrantes
+0.5573,520380,britania
+0.4507,520390,buriti alegre
+0.4931,520393,buriti de goias
+0.779,520396,buritinopolis
+0.4957,520400,cabeceiras
+0.5152,520410,cachoeira alta
+0.4724,520420,cachoeira de goias
+0.4824,520425,cachoeira dourada
+0.5354,520430,cacu
+0.5321,520440,caiaponia
+0.5065,520450,caldas novas
+0.472,520455,caldazinha
+0.4529,520460,campestre de goias
+0.5634,520465,campinacu
+0.4933,520470,campinorte
+0.469,520480,campo alegre de goias
+0.4266,520485,campo limpo de goias
+0.5608,520490,campos belos
+0.4747,520495,campos verdes
+0.4595,520500,carmo do rio verde
+0.5906,520505,castelandia
+0.5104,520510,catalao
+0.4418,520520,caturai
+0.6294,520530,cavalcante
+0.5312,520540,ceres
+0.4818,520545,cezarina
+0.422,520547,chapadao do ceu
+0.5247,520549,cidade ocidental
+0.4911,520551,cocalzinho de goias
+0.5149,520552,colinas do sul
+0.4897,520570,corrego do ouro
+0.5185,520580,corumba de goias
+0.4779,520590,corumbaiba
+0.5753,520620,cristalina
+0.5255,520630,cristianopolis
+0.5589,520640,crixas
+0.5199,520650,crominia
+0.5869,520660,cumari
+0.559,520670,damianopolis
+0.4852,520680,damolandia
+0.401,520690,davinopolis
+0.4063,520710,diorama
+0.5898,520830,divinopolis de goias
+0.4623,520725,doverlandia
+0.5113,520735,edealina
+0.5393,520740,edeia
+0.4823,520750,estrela do norte
+0.4651,520753,faina
+0.4707,520760,fazenda nova
+0.4383,520780,firminopolis
+0.6255,520790,flores de goias
+0.5614,520800,formosa
+0.565,520810,formoso
+0.5395,520815,gameleira de goias
+0.5283,520840,goianapolis
+0.4325,520850,goiandira
+0.4721,520860,goianesia
+0.5908,520870,goiania
+0.409,520880,goianira
+0.5309,520890,goias
+0.5176,520910,goiatuba
+0.4476,520915,gouvelandia
+0.5557,520920,guapo
+0.4157,520929,guaraita
+0.4949,520940,guarani de goias
+0.4709,520945,guarinos
+0.5252,520960,heitorai
+0.4695,520970,hidrolandia
+0.4254,520980,hidrolina
+0.5494,520990,iaciara
+0.4547,520993,inaciolandia
+0.4553,520995,indiara
+0.4745,521000,inhumas
+0.513,521010,ipameri
+0.43,521015,ipiranga de goias
+0.519,521020,ipora
+0.4384,521030,israelandia
+0.5588,521040,itaberai
+0.3914,521056,itaguari
+0.4585,521060,itaguaru
+0.4465,521080,itaja
+0.5635,521090,itapaci
+0.4636,521100,itapirapua
+0.489,521120,itapuranga
+0.6011,521130,itaruma
+0.4634,521140,itaucu
+0.4943,521150,itumbiara
+0.4566,521160,ivolandia
+0.4502,521170,jandaia
+0.4697,521180,jaragua
+0.5653,521190,jatai
+0.4196,521200,jaupaci
+0.4549,521205,jesupolis
+0.4928,521210,joviania
+0.6645,521220,jussara
+0.5244,521225,lagoa santa
+0.4494,521230,leopoldo de bulhoes
+0.5128,521250,luziania
+0.6753,521260,mairipotaba
+0.5492,521270,mambai
+0.4864,521280,mara rosa
+0.4723,521290,marzagao
+0.4221,521295,matrincha
+0.4242,521300,maurilandia
+0.5915,521305,mimoso de goias
+0.5469,521308,minacu
+0.5645,521310,mineiros
+0.429,521340,moipora
+0.6126,521350,monte alegre de goias
+0.4963,521370,montes claros de goias
+0.4812,521375,montividiu
+0.5685,521377,montividiu do norte
+0.5038,521380,morrinhos
+0.4163,521385,morro agudo de goias
+0.5071,521390,mossamedes
+0.4416,521400,mozarlandia
+0.4808,521405,mundo novo
+0.5514,521410,mutunopolis
+0.5004,521440,nazario
+0.4345,521450,neropolis
+0.5393,521460,niquelandia
+0.3667,521470,nova america
+0.4388,521480,nova aurora
+0.4953,521483,nova crixas
+0.4893,521486,nova gloria
+0.4028,521487,nova iguacu de goias
+0.4562,521490,nova roma
+0.4343,521500,nova veneza
+0.4362,521520,novo brasil
+0.4945,521523,novo gama
+0.506,521525,novo planalto
+0.5127,521530,orizona
+0.4933,521540,ouro verde de goias
+0.4512,521550,ouvidor
+0.5716,521560,padre bernardo
+0.3851,521565,palestina de goias
+0.4464,521570,palmeiras de goias
+0.5781,521580,palmelo
+0.5292,521590,palminopolis
+0.4415,521600,panama
+0.4393,521630,paranaiguara
+0.4762,521640,parauna
+0.501,521645,perolandia
+0.4197,521680,petrolina de goias
+0.5407,521690,pilar de goias
+0.4801,521710,piracanjuba
+0.5011,521720,piranhas
+0.4966,521730,pirenopolis
+0.4674,521740,pires do rio
+0.4463,521760,planaltina
+0.5491,521770,pontalina
+0.5746,521800,porangatu
+0.4116,521805,porteirao
+0.4,521810,portelandia
+0.5494,521830,posse
+0.4413,521839,professor jamil
+0.4755,521850,quirinopolis
+0.4548,521860,rialma
+0.419,521870,rianapolis
+0.4692,521878,rio quente
+0.5604,521880,rio verde
+0.452,521890,rubiataba
+0.4824,521900,sanclerlandia
+0.3926,521910,santa barbara de goias
+0.4876,521920,santa cruz de goias
+0.4911,521925,santa fe de goias
+0.5303,521930,santa helena de goias
+0.3979,521935,santa isabel
+0.4912,521940,santa rita do araguaia
+0.4478,521945,santa rita do novo destino
+0.4325,521950,santa rosa de goias
+0.5276,521960,santa tereza de goias
+0.5241,521970,santa terezinha de goias
+0.4426,521971,santo antonio da barra
+0.441,521973,santo antonio de goias
+0.4702,521975,santo antonio do descoberto
+0.6217,521980,sao domingos
+0.4715,521990,sao francisco de goias
+0.5032,522005,sao joao da parauna
+0.5383,522000,"sao joao d""""alianca"
+0.4854,522010,sao luis de montes belos
+0.3997,522015,sao luiz do norte
+0.5067,522020,sao miguel do araguaia
+0.4429,522026,sao miguel do passa quatro
+0.4545,522028,sao patricio
+0.5602,522040,sao simao
+0.4378,522045,senador canedo
+0.4908,522050,serranopolis
+0.5138,522060,silvania
+0.4754,522068,simolandia
+0.567,522070,"sitio d""""abadia"
+0.4372,522100,taquaral de goias
+0.5275,522108,teresina de goias
+0.4421,522119,terezopolis de goias
+0.4702,522130,tres ranchos
+0.4343,522140,trindade
+0.5293,522145,trombas
+0.5013,522150,turvania
+0.4536,522155,turvelandia
+0.4512,522157,uirapuru
+0.5751,522160,uruacu
+0.482,522170,uruana
+0.4951,522180,urutai
+0.5264,522185,valparaiso de goias
+0.4731,522190,varjao
+0.4672,522200,vianopolis
+0.4824,522205,vicentinopolis
+0.4935,522220,vila boa
+0.524,522230,vila propicio
+0.637,530010,brasilia

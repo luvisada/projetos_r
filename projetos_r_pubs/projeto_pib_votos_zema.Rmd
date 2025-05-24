@@ -1,0 +1,302 @@
+---
+title: "Como a desigualdade espelha o mapa do voto estadual mineiro 13/07/2024"
+output: 
+  html_document:
+    css: dark_mode.css
+date: " "
+editor_options: 
+  chunk_output_type: console
+---
+
+## Introdução
+
+Tal estudo pretende analisar os efeitos que a desigualdade tem sobre o mapa eleitoral mineiro. Concentrado a análise sobre os votos para governador em 2018, a hipótese do trabalho é a correlação entre votos do governador Zema com os menores índices de desigualdade gini, ou seja, regiões mais ricas do estado. Para tanto, analisaremos o mapa eleitoral de minas, calculando o quanto cada candidato a governador teve de votos por município. A par disso, será feito um modelo de regressão linear associando os votos ao Zema com os dados de gini por município. A hipótese do trabalho se demonstrou verídica, como bem constatado na análise de efeitos marginais e no gráfico de dispersão. 
+
+## Bibliotecas utilizadas
+
+```{r, results='hide'}
+# usando o pacote pacman para carregar todas as outras bibliotecas
+
+pacman::p_load(rio, tidyverse, janitor, scales, geobr, electionsBR, stargazer, geobr, terra, gtools, codesBR)
+
+# devtools::install_github("meirelesff/codesBR")
+
+# criação de mapa
+pacman::p_load(terra, ggspatial, mapview, geobr, terra)
+```
+
+## Bases de Dados
+
+A biblioteca electionsBR contem puxa dados eleitorais direto do TSE; O índice gini foi baixado um arquivo csv do site do IBGE Coordenadas são da bibilioteca geobr
+
+### Dados eleitorais
+
+```{r, results= 'hide'}
+# votos por partido em cada zona eleitoral da disputa de 2018
+mg2018 <- electionsBR::elections_tse(year = 2018, type = 'party_mun_zone', uf = 'MG')
+
+```
+
+### Gini
+
+```{r}
+# gini
+gini <- read.csv("gini_2010.csv")
+```
+
+### Coordenadas municípios
+
+```{r, results= 'hide'}
+# coordenadas dos municípios
+ceps_mg <- read_municipality(year = 2018, showProgress = T)
+
+# filtrando apenas MG
+ceps_mg <- ceps_mg %>% 
+  filter(abbrev_state == 'MG')
+
+
+```
+
+## Manipulando as variáveis eleitorais
+
+### Selecionando as variáveis relevantes da base de dados
+
+```{r}
+mg2018_edit <- mg2018 %>% 
+  select(municipio = NM_MUNICIPIO, codigo_mun = CD_MUNICIPIO, partido = SG_PARTIDO,
+         estado = SG_UF, cargo = DS_CARGO, partido = SG_PARTIDO, votos_legenda = QT_VOTOS_LEGENDA_VALIDOS,
+         votos_nominais = QT_VOTOS_NOMINAIS_VALIDOS, turno = NR_TURNO)
+
+
+# organizando em ordem alfabética 
+mg2018_edit <- mg2018_edit %>% 
+  arrange(municipio)
+
+```
+
+### Selecionando o cargo de governador e criando a variavel total de votos
+
+Total de votos significa a soma dos votos que a legenda recebeu junto do voto nominal do candidato
+
+```{r}
+# selecionando o cargo governador
+
+mg2018_edit <- mg2018_edit %>% 
+  filter(cargo == 'Governador', turno == 1)
+
+# criando variavel total de votos 
+
+mg2018_edit <-  mg2018_edit %>% 
+  mutate(votos_partido = votos_legenda + votos_nominais)
+
+```
+
+### Análise dos votos por Município
+
+Aqui somamos os votos que o candidato recebeu no município, visto que muitos possuem varias seções eleitorais A partir de agora, temos o percentual de votos que cada chapa recebeu em cada município
+
+```{r}
+
+# total de votos por municipio
+mg2018_edit <- mg2018_edit %>% 
+  group_by(municipio) %>% 
+  mutate(voto_municipio = sum(votos_partido))
+
+# porcentagem de votos do partido no municipio
+mg2018_edit <- mg2018_edit %>% 
+  mutate(percentual = votos_partido/voto_municipio)
+
+```
+
+### Visualizando apenas o partido do Zema (Novo)
+
+```{r}
+# filtrando o NOVO
+novo_mg2018 <- mg2018_edit %>% 
+  filter(partido == 'NOVO') %>% 
+  arrange(municipio)
+```
+
+### Removendo duplicatas
+
+```{r}
+# removendo duplicatas
+# alguns municipios se repetem por conta de ter varios cartorios eleitorais
+# somei o percentual por municipio e retirei as duplicatas da variavel total percentual
+novo_mg2018_edit2 <- novo_mg2018 %>% 
+  group_by(municipio) %>% 
+  mutate(percentual_total = sum(percentual)) %>% 
+  filter(!(duplicated(percentual_total)))
+```
+
+## Tratando a variavel codigo municipal
+
+Esse passo é importante, pois é o codigo do município é a ponte entre as duas bases de dados (gini e eleitoral)
+
+```{r}
+# convertendo a variavel em character
+novo_mg2018_edit2 <- novo_mg2018_edit2 %>% 
+  mutate(codigo_mun = as.character(codigo_mun))
+
+# passando do tse para ibge a base de votação
+novo_mg2018_edit2 <-  novo_mg2018_edit2 %>% 
+  codesBR::ibge_from_tse(codigo_mun)
+
+```
+
+### Corrigindo um erro no codigo IBGE
+
+Por algum motivo, na base gini o cod_ibge está sem o ultimo digito. Por conta disso, teremos que retirar o ultimo digito tanto da base eleitoral quanto da base dos dados das coordenadas municipais
+
+```{r}
+### ERRO: NA BASE GINI > o codigo é do IBGE, mas está faltando o ultimo digito
+
+novo_mg2018_edit2 %>% 
+  filter(municipio %in% c('BELO HORIZONTE', 'CONTAGEM')) %>% 
+  select(cod_ibge)
+
+# BH = 310620
+# CTG = 311860
+
+gini %>% 
+  filter(municipio %in% c('belo horizonte', 'contagem')) %>% 
+  select(codigo)
+
+# BH = 310620
+# CTG = 311860
+
+# retirando o ultimo numero da base de votação
+# dessa forma as observações de ambas as colunas ficam iguais
+novo_mg2018_edit2 <- novo_mg2018_edit2 %>% 
+  mutate(cod_ibge = str_sub(cod_ibge, end = 6))
+```
+
+## Base Gini
+
+### Tratando a variável cod_ibge
+
+```{r}
+# deixando a coluna de referencia com o mesmo nome em ambas
+
+gini <- gini %>% 
+  rename(cod_ibge = codigo) 
+
+gini_2 <- gini %>% 
+  select(cod_ibge, gini)
+
+# deixando as duas variaveis na mesma forma de dado
+gini_2 <- gini_2 %>% 
+  mutate(cod_ibge = as.character(cod_ibge))
+```
+
+## Base municípios
+
+Teremos que tratar a variável codigo para conseguir juntar com as outras bases. Efetuaremos as mesmas operacoes: converter em character, renomeando e eliminando o último dígito.
+
+### Tratando a variável cod_ibge
+
+```{r}
+# transformando em character
+ceps_mg <- ceps_mg %>% 
+  mutate(code_muni = as.character(code_muni))
+
+# renomeando
+ceps_mg <- ceps_mg %>% 
+  rename(cod_ibge = code_muni)
+
+# eliminando o ultimo digito pra conseguir juntar as bases
+
+ceps_mg <- ceps_mg %>% 
+  mutate(cod_ibge = str_sub(cod_ibge, end = 6))
+  
+```
+
+## Juntando as bases
+
+```{r}
+# usando o argumento left join para trazer o indice gini
+novo_mg2018_edit2 <- novo_mg2018_edit2 %>% 
+  left_join(gini_2, by = 'cod_ibge')
+
+
+# agora com os dodos geograficos
+novo_mg2018_edit2 <- novo_mg2018_edit2 %>% 
+  left_join(ceps_mg, by = "cod_ibge")
+
+```
+
+## Análises
+
+### Efeitos marginais da regressão
+
+Ao analisar os efeitos marginais, a variavel percentual_total é a dependente, enquanto que a gini é independente. A par disso, queremos analisar como o índice gini influencia os votos no partido Novo/Zema.
+
+```{r}
+library(stargazer)
+
+m1 <- lm(percentual_total ~ gini, data = novo_mg2018_edit2)
+
+stargazer(m1, type = 'text')
+```
+
+  ### Resultados efeitos marginais
+
+Ao analisar o efeito da regressao, é visível que há significância estatística entre votos o aumento do Gini influenciando a perda de votos no candidato Zema. Trocando em miúdos, municípios que são mais desiguais (indice gini como variável proxy de desigualdade) votaram menos nessse candidato. No qual o aumento de 1 ponto no gini diminui em média 38.4% de votos no candidato do partido NOVO.
+
+### Análise gráfica - Scatterplot
+
+O gráfico de dispersão permite visualizar os resultados da regressão, no qual a variavel independente (eixo x) é o índice gini, enquanto que a variavel dependente (eixo y) são os votos para governador.
+
+```{r}
+novo_mg2018_edit2 %>% 
+  ggplot(aes(x = gini, y = percentual_total)) +
+  geom_point() +
+  geom_smooth(method = 'lm', se = F) +
+  labs(title = 'Relação desigualdade e votos no Zema por município',
+       caption = 'Fonte: Pesquisa Interna - Elections-TSE',
+       x = '',
+       y = 'Percentual de votos') +
+  theme_bw() +
+  theme(plot.title = element_text(face = 'bold',hjust = 0.5)) +
+  scale_y_continuous(labels = percent) +
+  ggpubr::stat_cor() 
+
+```
+
+### Mapa do voto mineiro
+
+Para criar o mapa, estamos utilizando os pacotes de mapa do [chunk-1]. O preenchimento dos municípios ocorrem a partir da funcao quantcut, que permite destrinchar uma variável contínua em segmentos. Nesse caso, são 4 segmentos, nos quais cada um corresponde a 25% da distribuição, ou seja, em quartis.
+
+```{r}
+# transformando o percentual de votos em porcentagem
+novo_mg2018_edit2 <- novo_mg2018_edit2 %>% 
+  mutate(percentual_total = percentual_total*100)
+
+# criando categorias da variavel percentual_total
+library(dplyr)
+novo_mg2018_edit2$percentual_qc <- quantcut(novo_mg2018_edit2$percentual_total, 4)
+
+# codigo para visualizar o mapa
+novo_mg2018_edit2 %>% 
+  ggplot() +
+  geom_sf(aes(fill = percentual_qc, geometry = geom)) +
+  scale_fill_brewer(palette = "Blues") +
+  labs(title = 'Votos no Zema - 2018',
+       subtitle = 'Eleições - Governador',
+       caption = 'Fonte: TSE',
+       fill = 'Votos') +
+  theme_bw() +
+  theme(plot.title = element_text(face = 'bold', hjust = .5),
+        plot.subtitle = element_text(hjust = .5),
+        legend.position = "bottom") 
+  
+
+
+
+```
+
+## Conclusão
+
+Diante dos resultados, é fato que os municípios mais desiguais votaram menos no atual governador mineiro. Analisando o mapa, o governador recebeu grande parte dos votos no triangulo mineiro, região mais rica do estado. Por outro lado, o norte de minas votou infimamente no candidato. Além disso a região oeste do estado, onde aliás fica a região metropolitana da capital, possui uma maior variabilidade de votos, demonstrando a flexibilidade do voto nessa região.
+
+
